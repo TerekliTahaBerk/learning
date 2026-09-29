@@ -13,3 +13,5 @@ Study materials and notes for the [DataCamp Associate AI Engineer for Developers
 
 - `pdfs/` — original course PDFs and source materials
 - `notes/` — organized topic notes derived from the materials
+
+Start with the [Working with the OpenAI API notes](notes/working-with-the-openai-api.md), based on the first three course PDFs.

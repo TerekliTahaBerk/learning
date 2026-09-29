@@ -11,3 +11,5 @@ This section organizes structured learning materials for AI Engineering courses 
 5. Put reusable practice in `../exercises/` and larger applied work in `../projects/`.
 
 See [DataCamp Associate AI Engineer for Developers](datacamp-associate-ai-engineer-for-developers/README.md) for the first course setup.
+
+- [Prompt Engineering with the OpenAI API](prompt-engineering-with-the-openai-api/README.md) — prompt design, examples, text workflows, and chatbot context.
