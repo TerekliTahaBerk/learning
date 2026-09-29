@@ -1,32 +1,42 @@
-# Alıştırmalar — Aile ve insanları tanımlama
+# Alıştırmalar · Aile ve insanları tanımlama
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “aile” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “anne” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “baba” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “kız kardeş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “erkek kardeş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Mi hermana ___ alta. (ser)
+7. Hoy mi abuela ___ cansada. (estar)
+8. Can tiene los ojos ___. (marrón, çoğul)
+9. ___ hermano es joven. (benim)
+10. ___ padres viven cerca. (benim)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Fotoğrafta annesi nerede?
+12. Zeynep nasıl biri ve bugün neden mutlu?
+13. Can kaç yaşında?
+14. Büyükanne genel olarak hasta mı, bugünlük yorgun mu?
+15. `Es muy amable` ve `está contenta` arasındaki anlam farkı ne?
 
-3. `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Kız kardeşim sabırlı.”
+17. Türkçeden İspanyolcaya: “Bugün babam yorgun.”
+18. Türkçeden İspanyolcaya: “Kahverengi gözleri var.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Mis hermana es alto.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Ella cansada hoy.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Tiene ojos verde.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir aile üyesini üç fiziksel ve iki kişilik özelliğiyle anlat.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-kimlik-ulkeler-ve-meslekler/01-konu.md) · [Sonraki modül →](../04-gunler-tarih-saat-ve-rutin/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

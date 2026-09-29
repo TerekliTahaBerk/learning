@@ -1,31 +1,46 @@
-# Cevaplar ve tekrar — A1 bütünleştirme: günlük yaşam
+# Cevaplar ve birikimli tekrar · A1 bütünleştirme: günlük yaşam
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: karma şimdiki zaman, soru kalıpları, gustar, yakın gelecek, bağlaçlar. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `presentarse` — kendini tanıtmak. Me presento en clase. — Sınıfta kendimi tanıtıyorum.
+2. `la rutina` — rutin. Mi rutina cambia el sábado. — Rutinim cumartesi değişir.
+3. `el barrio` — mahalle. Mi barrio es tranquilo. — Mahallem sakin.
+4. `la familia` — aile. Vivo con mi familia. — Ailemle yaşıyorum.
+5. `el trabajo` — iş. Voy al trabajo en metro. — İşe metroyla giderim.
 
-## Sık hata
+## B. Biçim
+6. `hay` — Varlık.
+7. `está` — Konum.
+8. `tengo` — Yaş.
+9. `gustan` — Çoğul özne.
+10. `voy` — Yakın gelecek.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Yirmi beş yaşında, kitapçıda çalışıyor.
+12. Park, eczane, iki restoran.
+13. Arkadaşlarıyla buluşuyor, bazen dışarıda yemek yiyor.
+14. Kız kardeşini ziyaret edecek; trenle gidecek.
+15. `hay` varlık, `está` konum/süreç, `es` kimlik/nitelik.
 
-## Aktif hatırlama
+## D. Çeviri ve düzeltme
+16. `En mi barrio hay un parque.` — Mahallemde park var.
+17. `Me gustan los museos.` — Müzeleri severim.
+18. `Mañana voy a visitar a mi hermana.` — Yarın kız kardeşimi ziyaret edeceğim.
+19. `Mi barrio es tranquilo.` — Nitelik `ser`.
+20. `Me gustan los parques.` — Çoğul özne.
+21. `Mañana voy a visitar.` — Yakın gelecek `ir a + mastar`.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `En mi barrio hay un museo y una farmacia.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Ada se presenta a una compañera de curso. Después de clase va a un museo; la compañera no puede acompañarla porque trabaja.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## Hata ve tekrar
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../09-saglik-vucut-ve-yolculuk/01-konu.md)
+Bu modülün üç hata türü: Nitelik `ser`.; Çoğul özne.; Yakın gelecek `ir a + mastar`.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ A1](../README.md)

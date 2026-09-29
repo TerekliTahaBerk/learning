@@ -1,29 +1,31 @@
-# Dilbilgisi — Dolaylı anlatım, zaman kayması ve kayıt
+# Dilbilgisi · Dolaylı anlatım, zaman kayması ve kayıt
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-reported speech; backshifting; soru/ünlem aktarımı.
+## Aktarım mekanik zaman değiştirme değildir
 
-Geçmiş aktarımda zaman geri kayabilir: presente→imperfecto, perfecto→pluscuamperfecto, futuro→condicional; zamir, zaman ve yer ifadeleri de konuşur bakışına göre değişir. Her durumda mekanik kaydırma yoktur; bilginin hâlâ geçerli olup olmadığı ve aktarım bağlamı önemlidir.
+Doğrudan: `La directora dijo: “Presentaremos el informe mañana”`. Geçmişte aktarım: `La directora dijo que presentarían el informe al día siguiente`. `presentaremos→presentarían`, `mañana→al día siguiente`; konuşan kişi değiştiği için zamir de uyarlanabilir. Ancak bilgi hâlâ geçerliyse şimdiki indicativo korunabilir: `Dijo que Madrid está en España`. Bağlamı ve aktarım anını belirt.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+| Doğrudan | Geçmiş bildirme fiiliyle sık aktarma | Örnek |
+|---|---|---|
+| presente | imperfecto | `Dijo que trabajaba allí.` |
+| pretérito perfecto | pluscuamperfecto | `Dijo que había terminado.` |
+| indefinido | pluscuamperfecto veya indefinido (bakışa göre) | `Dijo que había salido/salió.` |
+| futuro | condicional | `Dijo que volvería.` |
+| imperativo | imperfecto subjuntivo / mastarlı talep | `Pidió que volviéramos.` |
 
-## Kullanım
+Bu tablo otomatik eşitlik değildir. Bir konuşmanın aktarıldığı an, olayın hâlâ geçerli olup olmadığı ve anlatıcının seçtiği referans noktası önemlidir.
 
-- **Olumlu:** `Dijo que no podría asistir al día siguiente.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Soru ve talep aktarımı
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Preguntó: “¿Dónde están los datos?”` → `Preguntó dónde estaban los datos.` Dolaylı soruda `dónde` aksanını korur ama soru işaretleri kullanılmaz. `Preguntó si teníamos datos` evet/hayır sorusu. `Pidió que le enviáramos el borrador` bir talebi aktarır. Türkçe “sordu/söyledi/istedi” fiillerini rastgele değiştirme: söz ediminin türünü koru.
 
-## Türkçe konuşanlar için dikkat
+## Kaynak ve kayıt
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Según la directora` dolaylı kaynağı belirtir; `afirmó` güçlü iddia, `señaló` dikkat çekme, `admitió` zorluğu kabul etme, `sugirió` öneri ima etme. Haberde doğrudan alıntı için tırnak ve tam söz gerekir; parafrazda konuşanın anlamı korunur, kelimeler değişebilir. Sözde kesinliği artırma: `podría` aktarılırken `será` yapılmaz.
 
-## Kısa karşılaştırma
+❌ `*Dijo que vendrá ayer` ✅ `Dijo que vendría al día siguiente` (gelecek aktarımı) / `Dijo que vino ayer` (tamamlanmış olay; farklı anlam). ❌ `*Preguntó ¿dónde estaban?` ✅ `Preguntó dónde estaban.` ❌ `*Pidió que enviamos` ✅ `Pidió que enviáramos`.
 
-- İspanyolca: `Dijo que no podría asistir al día siguiente.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Aynı sözün doğrudan alıntısını, tarafsız parafrazını ve ihtiyatlı kaynak özetini yaz; kaynak iddiasının gücünü koru.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md) · [Sonraki modül →](../05-ileri-se-ve-pasif-yapilar/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

@@ -1,32 +1,55 @@
-# A1 Kontrol 1
+# A1 Kontrol 1: Tanışma, aile ve rutin
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 50 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Selamlaşma ve tanışma: `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.`
-- Kimlik, ülkeler ve meslekler: `Tengo 22 años. Soy turco y estudio español.`
-- Aile ve insanları tanımlama: `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.`
-- Günler, tarih, saat ve rutin: `Me levanto a las siete; normalmente desayuno en casa.`
-- Ev ve şehir: `Hay una farmacia cerca de mi casa. Está al lado del banco.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Yo ___ Deniz. (ser)
+2. Mi hermana ___ profesora. (ser)
+3. Hoy ___ cansada. (estar, ella)
+4. Mis padres ___ en Ankara. (vivir)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. anne
+2. ülke
+3. sekizde
+4. Adın ne?
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Hola, me llamo Ece. Soy de Konya y tengo veintitrés años. Vivo con mi hermano Ali en Ankara. Ali es estudiante y yo trabajo en una escuela. Normalmente me levanto a las siete. Desayuno en casa y salgo a las ocho. Los viernes no trabajo por la tarde; visito a mi madre. Ella vive cerca de un parque y tiene un perro pequeño. Hoy está contenta porque vamos a cenar juntos.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Ece nereli?
+2. Ali ne yapıyor?
+3. Ece cuma öğleden sonra ne yapıyor?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— Buenos días. ¿Cómo te llamas? — Me llamo Ali. — ¿De dónde eres? — Soy de Ankara. — ¿A qué hora empieza tu clase? — A las nueve. — ¿Y a qué hora termina? — A las diez y media. — Perfecto. Nos vemos en clase.
+
+</details>
+
+1. Kişinin adı ne?
+2. Ders kaçta başlıyor?
+3. Kaçta bitiyor?
+
+## 5. Yazma — 20 puan
+
+Yeni sınıf arkadaşına 60–80 kelimelik mesaj: ad, şehir, yaş, aileden biri ve bir günlük rutin.
+
+## 6. Konuşma — 16 puan
+
+1 dakika kendini tanıt; karşı tarafa ad, şehir ve saat hakkında iki soru sor.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](02-checkpoint-1-answers.md) · [Değerlendirme dizini](README.md)

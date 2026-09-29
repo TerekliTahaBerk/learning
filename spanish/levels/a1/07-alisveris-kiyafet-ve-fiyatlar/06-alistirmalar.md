@@ -1,32 +1,42 @@
-# Alıştırmalar — Alışveriş, kıyafet ve fiyatlar
+# Alıştırmalar · Alışveriş, kıyafet ve fiyatlar
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “mağaza” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “kıyafet” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “gömlek” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “tişört” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “pantolon” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `¿Cuánto cuesta esta camisa? La quiero en azul.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. ¿Cuánto ___ esta camisa? (costar)
+7. ¿Cuánto ___ estos zapatos? (costar)
+8. ___ falda es roja. (bu)
+9. Yo ___ la azul. (querer)
+10. ¿___ probar esta camiseta? (poder, yo)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Marta hangi iki renk gömlek görüyor?
+12. Mavi gömleğin fiyatı ne?
+13. Marta neden görevliye soru soruyor?
+14. Ayakkabıları neden bugün almıyor?
+15. `la azul` hangi ismin yerine geçiyor?
 
-3. `¿Cuánto cuesta esta camisa? La quiero en azul.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Bu gömlek kaç para?”
+17. Türkçeden İspanyolcaya: “Başka beden var mı?”
+18. Türkçeden İspanyolcaya: “Mavi olanı tercih ederim.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Este camisa es caro.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Cuánto cuestan esta falda?`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Quiero la rojo.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir mağazada beden ve fiyat sor; alışveriş listesi oluştur.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `¿Cuánto cuesta esta camisa? La quiero en azul.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-yemek-ve-restoran/01-konu.md) · [Sonraki modül →](../08-bos-zaman-hava-ve-planlar/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

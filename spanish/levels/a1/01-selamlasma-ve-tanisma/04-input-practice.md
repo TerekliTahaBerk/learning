@@ -1,30 +1,38 @@
-# Girdi ve anlama — Selamlaşma ve tanışma
+# Girdi · Tanışma ve ilk gün
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler özgündür. Dinleme kaydı yoktur; ikinci metni TTS ile dinleyebilir veya birinden doğal hızda okumasını isteyebilirsin. Önce anlamı yakala, sonra sözcükleri incele.
 
-## Normal metin
+## Okuma: dil kursunda ilk gün
 
-A: Hola, ¿cómo te llamas? B: Me llamo Deniz. ¿Y tú? A: Soy Lucía. Encantada. B: Mucho gusto.
+> Hola. Me llamo Deniz. Soy de Ankara, en Turquía. Hoy es mi primer día en un curso de español. Entro en la clase y saludo a una compañera: “Hola, ¿cómo te llamas?”. Ella responde: “Me llamo Paula. Soy de Valencia”. Le digo: “Mucho gusto”. Paula sonríe y contesta: “Igualmente”. Después conozco al profesor. Él pregunta mi nombre y yo digo: “Me llamo Deniz”. Habla un poco rápido. Yo digo: “Perdón, no entiendo. ¿Puede repetir más despacio, por favor?”. El profesor repite la pregunta. Ahora entiendo y puedo responder.
 
-## Yavaş ve parçalı okuma
+**Türkçe anlam özeti:** Deniz, İspanyolca kursunun ilk gününde Paula ve öğretmenle tanışır. Öğretmen hızlı konuşunca nazikçe daha yavaş tekrar etmesini ister.
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+### Okuma soruları
 
-## Anlama soruları
+1. Deniz nereden geliyor? Kanıt olan ifadeyi yaz.
+2. Paula nereli?
+3. Deniz öğretmene neden tekrar etmesini söylüyor?
+4. Deniz, öğretmenle konuşurken hangi nazik biçimi kullanıyor: `puedes` mi `puede` mi?
+5. `Igualmente` hangi ifadeye yanıt?
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme/TTS: kayıt sırasında
 
-## Gözlem
+**Önce tahmin:** Bir kursa kaydolurken hangi iki kişisel bilgi sorulabilir?
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — Buenos días. ¿Cómo se llama usted?\
+> — Me llamo Elif Yılmaz.\
+> — Gracias. ¿De dónde es?\
+> — Soy de İzmir, de Turquía.\
+> — Perdón, ¿puede repetir el nombre de la ciudad?\
+> — Sí, İzmir. Se escribe i, z, m, i, r.\
+> — Perfecto. Muchas gracias. Nos vemos mañana.\
+> — Hasta mañana.
 
-## Dikte
+İlk dinleyişte konuşmanın amacını söyle. İkinci dinleyişte kişinin adını, şehrini ve karşı tarafın tekrar istediği bilgiyi yaz. `¿Puede repetir el nombre de la ciudad?` cümlesini dikte et; `¿`, aksan ve `?` işaretlerini karşılaştır. Son üç repliği konuşmacının ritmine uyarak gölgele. Sonunda diyaloğu Türkçe iki cümlede özetle.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
+### Dikkat et
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-kimlik-ulkeler-ve-meslekler/01-konu.md)
+Okuma metnindeki `te llamas` samimi; kayıt diyaloğundaki `se llama usted` nazik. İkisi de “adınız/adın ne?” sorar, ancak kişi ve fiil biçimi değişir. `Soy de İzmir` kökeni söyler; şehrin şu anki yerini söylemez.
+
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A1](../README.md)

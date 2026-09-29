@@ -1,32 +1,42 @@
-# Alıştırmalar — A1 bütünleştirme: günlük yaşam
+# Alıştırmalar · A1 bütünleştirme: günlük yaşam
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “kendini tanıtmak” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “rutin” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “mahalle” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “aile” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “iş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. En mi barrio ___ un parque.
+7. La farmacia ___ cerca.
+8. Yo ___ veinticinco años.
+9. Me ___ los museos.
+10. Mañana ___ a visitar a mi hermana.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Deniz kaç yaşında ve nerede çalışıyor?
+12. Mahallesinde neler var?
+13. Cumartesileri ne yapıyor?
+14. Yarınki planı ve ulaşımı ne?
+15. Metindeki `hay`, `está` ve `es` işlevlerini birer örnekle açıkla.
 
-3. `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Mahallemde park var.”
+17. Türkçeden İspanyolcaya: “Müzeleri severim.”
+18. Türkçeden İspanyolcaya: “Yarın kız kardeşimi ziyaret edeceğim.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Mi barrio hay tranquilo.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Me gusta los parques.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Mañana voy visito.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Kendini, rutinini, evini, tercihlerini ve yakın planını 90 saniyede anlat.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../09-saglik-vucut-ve-yolculuk/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

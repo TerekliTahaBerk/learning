@@ -1,32 +1,42 @@
-# Alıştırmalar — İleri se kullanımları ve pasif yapılar
+# Alıştırmalar · İleri `se` kullanımları ve pasif yapılar
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “sorumluluk” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “eylemi yapan” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “eylem” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “süreç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “sonuç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Se buscan soluciones; aquí se trabaja con datos anónimos.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Se ___ los resultados. (publicar, pasif)
+7. Se ___ a diez personas. (entrevistar, kişisiz)
+8. Se me ___ la cita. (olvidar)
+9. Se nos ___ las llaves. (olvidar)
+10. Los datos ___ publicados por el hospital. (ser, geçmiş)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. İlk notun hangi bilgi boşluğu güvensizlik yaratıyor?
+12. İkinci not hangi fail ve hangi çözüm adımlarını açıklıyor?
+13. Hastanın `se me olvidó` cümlesi hangi deneyimi gösteriyor, neyi kanıtlamıyor?
+14. Gazetecinin yeniden ifadesi neden yanıltıcı?
+15. Son paragraf `se`nin ne zaman yetersiz kalabileceğini nasıl açıklıyor?
 
-3. `Se buscan soluciones; aquí se trabaja con datos anónimos.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “On kişiyle görüşüldü.”
+17. Türkçeden İspanyolcaya: “Anahtarları unuttuk.”
+18. Türkçeden İspanyolcaya: “Hastane sonuçları yayımladı.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Se venden la casa.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Se entrevistaron a las personas.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Se me olvidaron la cita.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Her se türü için örnek üret; anlam farkını bağlamla açıkla.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Se buscan soluciones; aquí se trabaja con datos anónimos.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-dolayli-anlatim-ve-kayit/01-konu.md) · [Sonraki modül →](../06-baglaclar-ve-soylem-organizasyonu/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

@@ -1,22 +1,32 @@
-# Üretim — Geçmiş deneyimler ve hayat olayları
+# Konuşma ve yazma · Geçmiş deneyimler ve hayat olayları
 
-## Konuşma
+## Konuşma görevi
 
-1. **Isınma:** model cümleyi üç kez, her seferinde bir bilgi değiştirerek söyle.
-2. **Soru-cevap:** `¿Qué...?`, `¿Dónde...?` veya konunun gerektirdiği soruyla beş soru üret ve sesli yanıtla.
-3. **Rol oyunu:** Bu yıl yaptığın üç şeyi ve henüz yapmadığın bir şeyi anlat.
-4. **Monolog:** konu hakkında 45–90 saniye konuş. A2 ve üstünde en az üç bağlayıcı kullan. Kaydını dinleyip bir güçlü yan ve bir düzeltme hedefi yaz.
+**Durum:** Yıl içindeki üç deneyimi ve henüz yapmadığın bir şeyi anlat. **Süre:** iki dakika. İlk turda tek başına konuş; ikinci turda dinleyici rolünü de oynayarak bir takip sorusuna yanıt ver. İletişim amacını ilk cümlede belirt, iki somut ayrıntı ver ve uygun bir kapanış yap.
 
-## Yazma
+**Hazırlık:** [Okuma metninden](04-input-practice.md) bir işe yarar ifade seç. Dinleme konuşmasının amacını iki cümleyle özetle. Konuşmanda o ifadeyi farklı bir bağlamda kullan.
 
-Bu yıl yaptığın üç şeyi ve henüz yapmadığın bir şeyi anlat. Görevi 6–10 cümleyle yazıya dönüştür. B1/B2'de paragrafı giriş, açıklama/örnek ve sonuç olarak düzenle.
+**Örnek açılış:** `Este año he visitado varios museos y he conocido barrios nuevos.` Bu yalnızca başlangıçtır; görevin bütün adımlarını kendi bilgilerinle tamamla.
 
-## Öz değerlendirme
+**Etkileşim:** Karşı tarafın yanlış anladığı bir ayrıntıyı düzelt veya açıklama iste. Kaydı tekrar dinle: amaç ve sonuç dışarıdan dinleyen biri için açık mı?
 
-- [ ] Mesajım anlaşılır ve görevle ilgili.
-- [ ] Fiil kişisini/zamanını kontrol ettim.
-- [ ] İsimlerde artikel ve sıfat uyumunu kontrol ettim.
-- [ ] En az bir yeni kelimeyi doğal bir eşdizimle kullandım.
-- [ ] Bir kez daha, notlara bakmadan ürettim.
+## Yazma görevi
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-gecmiste-olaylar-ve-anilar/01-konu.md)
+**Ürün:** arkadaşına 100–130 kelimelik deneyim e-postası yaz. Muhatabı ve amacı başta belirle. Okuma metnindeki durumu yeni kişi, yer veya zamanla değiştir; metni ezberden yineleme.
+
+**Plan:**
+
+1. Açılışta kim/neyin söz konusu olduğunu söyle.
+2. Olayı, gerekçeyi veya karşılaştırmayı iki ayrı paragrafta geliştir.
+3. Son cümlede talep, karar veya sonuç belirt.
+
+**Örnek içerik çekirdeği:** `Una persona cuenta sus viajes pasados y sus planes. Todavía no ha elegido alojamiento para el próximo viaje.` Bu özeti kendi yazının yerine koyma; olay sırasını ve hedef yapıyı nasıl kullanabileceğini görmek için incele.
+
+## İkinci sürüm kontrolü
+
+- [ ] Sözcük listesinden en az üç ifadeyi bağlama uygun kullandım.
+- [ ] Önceki modülden bir yapıyı yeni görevde işlevsel kullandım.
+- [ ] Geçmiş zaman seçimlerini zaman çizgisinde işaretledim; zamir ve rica biçimlerini denetledim.
+- [ ] İlk sürümdeki en az üç hatayı bulup nedenini yazdım; düzeltilmiş sürümü sesli okudum.
+
+[← Girdi](04-input-practice.md) · [Alıştırmalar →](06-alistirmalar.md) · [↑ A2](../README.md)

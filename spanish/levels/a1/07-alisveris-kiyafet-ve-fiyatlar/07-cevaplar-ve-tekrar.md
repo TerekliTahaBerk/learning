@@ -1,31 +1,46 @@
-# Cevaplar ve tekrar — Alışveriş, kıyafet ve fiyatlar
+# Cevaplar ve birikimli tekrar · Alışveriş, kıyafet ve fiyatlar
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: demonstrativos, karşılaştırmaya hazırlık, querer/poder, olumsuzluk. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `¿Cuánto cuesta esta camisa? La quiero en azul.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `la tienda` — mağaza. La tienda abre a las diez. — Mağaza onda açılır.
+2. `la ropa` — kıyafet. La ropa es cómoda. — Kıyafet rahat.
+3. `la camisa` — gömlek. La camisa es blanca. — Gömlek beyaz.
+4. `la camiseta` — tişört. Busco una camiseta. — Bir tişört arıyorum.
+5. `el pantalón` — pantolon. El pantalón es azul. — Pantolon mavi.
 
-## Sık hata
+## B. Biçim
+6. `cuesta` — Tekil ürün.
+7. `cuestan` — Çoğul ürün.
+8. `Esta` — Dişil tekil.
+9. `quiero` — Kök değişimi.
+10. `Puedo` — İzin isteme.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Kırmızı ve mavi.
+12. Yirmi beş avro.
+13. Orta beden masada yok.
+14. Seksen avro ve bugün yalnızca gömleği alıyor.
+15. `la camisa azul` yerine.
 
-## Aktif hatırlama
+## D. Çeviri ve düzeltme
+16. `¿Cuánto cuesta esta camisa?` — Bu gömlek kaç para?
+17. `¿Tiene otra talla?` — Başka beden var mı?
+18. `Prefiero la azul.` — Mavi olanı tercih ederim.
+19. `Esta camisa es cara.` — İsim ve sıfat uyumu.
+20. `¿Cuánto cuesta esta falda?` — Soru işaretleri ve tekil fiil.
+21. `Quiero la roja.` — Dişil isim yerine geçen sıfat uyumu.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `Esta camisa azul cuesta veinticinco euros.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Una clienta busca un pantalón negro. Elige el más barato y va a probárselo.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## Hata ve tekrar
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-yemek-ve-restoran/01-konu.md) · [Sonraki modül →](../08-bos-zaman-hava-ve-planlar/01-konu.md)
+Bu modülün üç hata türü: İsim ve sıfat uyumu.; Soru işaretleri ve tekil fiil.; Dişil isim yerine geçen sıfat uyumu.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ A1](../README.md) · [Sonraki modül →](../08-bos-zaman-hava-ve-planlar/01-konu.md)

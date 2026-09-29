@@ -1,22 +1,32 @@
-# Üretim — Karşılaştırma, şehir ve hizmetler
+# Konuşma ve yazma · Karşılaştırma, şehir ve hizmetler
 
-## Konuşma
+## Konuşma görevi
 
-1. **Isınma:** model cümleyi üç kez, her seferinde bir bilgi değiştirerek söyle.
-2. **Soru-cevap:** `¿Qué...?`, `¿Dónde...?` veya konunun gerektirdiği soruyla beş soru üret ve sesli yanıtla.
-3. **Rol oyunu:** İki şehri ulaşım, maliyet ve yaşam açısından karşılaştır.
-4. **Monolog:** konu hakkında 45–90 saniye konuş. A2 ve üstünde en az üç bağlayıcı kullan. Kaydını dinleyip bir güçlü yan ve bir düzeltme hedefi yaz.
+**Durum:** İki mahalleyi kira, ulaşım ve gürültü açısından tartış. **Süre:** iki dakika. İlk turda tek başına konuş; ikinci turda dinleyici rolünü de oynayarak bir takip sorusuna yanıt ver. İletişim amacını ilk cümlede belirt, iki somut ayrıntı ver ve uygun bir kapanış yap.
 
-## Yazma
+**Hazırlık:** [Okuma metninden](04-input-practice.md) bir işe yarar ifade seç. Dinleme konuşmasının amacını iki cümleyle özetle. Konuşmanda o ifadeyi farklı bir bağlamda kullan.
 
-İki şehri ulaşım, maliyet ve yaşam açısından karşılaştır. Görevi 6–10 cümleyle yazıya dönüştür. B1/B2'de paragrafı giriş, açıklama/örnek ve sonuç olarak düzenle.
+**Örnek açılış:** `El barrio nuevo tiene menos autobuses, pero el alquiler es menor.` Bu yalnızca başlangıçtır; görevin bütün adımlarını kendi bilgilerinle tamamla.
 
-## Öz değerlendirme
+**Etkileşim:** Karşı tarafın yanlış anladığı bir ayrıntıyı düzelt veya açıklama iste. Kaydı tekrar dinle: amaç ve sonuç dışarıdan dinleyen biri için açık mı?
 
-- [ ] Mesajım anlaşılır ve görevle ilgili.
-- [ ] Fiil kişisini/zamanını kontrol ettim.
-- [ ] İsimlerde artikel ve sıfat uyumunu kontrol ettim.
-- [ ] En az bir yeni kelimeyi doğal bir eşdizimle kullandım.
-- [ ] Bir kez daha, notlara bakmadan ürettim.
+## Yazma görevi
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md) · [Sonraki modül →](../07-davetler-iliskiler-ve-gelecek/01-konu.md)
+**Ürün:** 130 kelimelik karşılaştırma e-postası yaz. Muhatabı ve amacı başta belirle. Okuma metnindeki durumu yeni kişi, yer veya zamanla değiştir; metni ezberden yineleme.
+
+**Plan:**
+
+1. Açılışta kim/neyin söz konusu olduğunu söyle.
+2. Olayı, gerekçeyi veya karşılaştırmayı iki ayrı paragrafta geliştir.
+3. Son cümlede talep, karar veya sonuç belirt.
+
+**Örnek içerik çekirdeği:** `Dos personas comparan barrios. Una decide visitar ambos porque cada uno tiene ventajas y desventajas.` Bu özeti kendi yazının yerine koyma; olay sırasını ve hedef yapıyı nasıl kullanabileceğini görmek için incele.
+
+## İkinci sürüm kontrolü
+
+- [ ] Sözcük listesinden en az üç ifadeyi bağlama uygun kullandım.
+- [ ] Önceki modülden bir yapıyı yeni görevde işlevsel kullandım.
+- [ ] Geçmiş zaman seçimlerini zaman çizgisinde işaretledim; zamir ve rica biçimlerini denetledim.
+- [ ] İlk sürümdeki en az üç hatayı bulup nedenini yazdım; düzeltilmiş sürümü sesli okudum.
+
+[← Girdi](04-input-practice.md) · [Alıştırmalar →](06-alistirmalar.md) · [↑ A2](../README.md)

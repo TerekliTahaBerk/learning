@@ -1,20 +1,32 @@
-# Selamlaşma ve tanışma
+# 01 · Selamlaşma ve tanışma
 
-**Bu modülde:** saludos, despedidas, nombre, alfabeto, sınıf dili.
+**Amaç:** Yeni tanıştığın biriyle selamlaşmak, adını ve kökenini söylemek, karşı tarafa aynı bilgileri sormak ve anlamadığında tekrar istemek. Bu modül sıfır bilgi varsayar.
 
-## Öğrenme hedefleri
+## Çalışma sırası
 
-- Konu alanında temel bir etkileşimi anlayıp sürdürebilmek.
-- `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.` örneğindeki yapıyı yeni bilgiyle kullanabilmek.
-- Kısa girdiden ana fikri ve hedef ifadeleri çıkarabilmek.
-- Kendi yaşamından sözlü ve yazılı örnek üretebilmek.
+1. [Dilbilgisi](02-gramer.md): özne, mastar, `ser` ve `llamarse`.
+2. [Kelime ve kalıplar](03-kelime.md): sözcükleri tek tek değil, birer konuşma hamlesi olarak öğren.
+3. [Okuma ve dinleme](04-input-practice.md): diyalogdaki soru-cevap sırasını fark et.
+4. [Konuşma ve yazma](05-output-practice.md): bilgileri kendi hayatına uyarla.
+5. [Alıştırmalar](06-alistirmalar.md) ve ardından [cevaplar/tekrar](07-cevaplar-ve-tekrar.md).
 
-## Ön bilgi ve sıra
+## İlk küçük konuşma
 
-Önce [telaffuz ve yazım](../../../reference/01-pronunciation-guide.md) ilkelerini uygula. Dilbilgisi dosyasında açıklanan yapıyı konu ve kelime örnekleriyle eşleştir; sonra girdi, çıktı ve alıştırmaya geç. Bu modülde yeni sözcükleri artikeli ve örnek cümlesiyle öğren.
+— ¡Hola! ¿Cómo te llamas? — Merhaba! Adın ne?
 
-## Model
+— Me llamo Deniz. ¿Y tú? — Adım Deniz. Ya sen?
 
-**Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.** — *Türkçe anlamı bağlama göre değişir; cümle: Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.*
+— Soy Lucía. Mucho gusto. — Ben Lucía. Memnun oldum.
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-kimlik-ulkeler-ve-meslekler/01-konu.md)
+— Igualmente. — Ben de.
+
+İspanyolcada açılış soru işareti `¿` unutulmaz. `¿Y tú?` önceki soruyu tekrar etmenin doğal, kısa yoludur. `Mucho gusto` yaygın ve bölgesel olarak anlaşılır bir tanışma ifadesidir; `Encantado/Encantada` da kullanılır ve konuşanın cinsiyetine göre değişir.
+
+## Başarı ölçütü
+
+- [ ] Adımı ve nereli olduğumu iki cümleyle söyleyebiliyorum.
+- [ ] `¿Cómo te llamas?` ve `¿De dónde eres?` sorularını sorabiliyorum.
+- [ ] `No entiendo. ¿Puedes repetir, por favor?` diyebiliyorum.
+- [ ] `ser` ile `llamarse` arasındaki farkı açıklayabiliyorum.
+
+[↑ A1 dizini](../README.md) · [Sonraki modül →](../02-kimlik-ulkeler-ve-meslekler/01-konu.md)

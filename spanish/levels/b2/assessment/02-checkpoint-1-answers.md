@@ -1,13 +1,47 @@
-# B2 Kontrol 1 — Yanıt Rehberi
+# B2 Kontrol 1 — yanıt anahtarı
 
-1. Kabul edilebilir yanıt, düzeye uygun iletişim işlevini ve doğru temel biçimi taşımalı.
-2. Olumsuzluk İspanyolcada çekimli fiilden önce `no`; soru açılış/kapanış `¿...?` ile yazılır.
-3. `Tengo 22 años.` Yaş `tener` ile ifade edilir.
-4. Örneklerden seçilen cümle anlam ve kişi/zaman bakımından doğru olmalı; özgün yanıtlar mümkündür.
-5. İlgili modüllerin kelime tabloları; isimlerde artikel ve çoğul denetlenir.
-6. Yanıt metindeki açık bilgiyle desteklenmeli; tahmin ve metin bilgisini ayır.
-7. Dinleme yanıtı metinle karşılaştırılır; anahtar kelime, vurgu ve aksan işaretleri kontrol edilir.
-8. Rubrik: görevi karşılama, düzen/cohesion, hedef yapı, kelime çeşitliliği, yazım.
-9. Rubrik: anlaşılabilirlik, akıcılık, görev başarısı, etkileşim, düzeye uygun dil kaynakları.
+[Sınava dön](01-checkpoint-1.md) · Toplam 100 puan
 
-Bu anahtar açık uçlu üretimde model yanıt değil, değerlendirme ölçütü sunar. Hatan varsa cümleyi düzeltip 24–72 saat sonra yeni içerikle tekrar et.
+## 1. Dil kullanımı — 20 puan (5 puan/madde)
+
+1. **sea** — Nüans.
+2. **hubiéramos sabido** — Karşı olgu.
+3. **habré** — Gelecek tamamlanma.
+4. **advirtió** — Bilinen olgu.
+
+## 2. Sözcük ve kalıp — 8 puan (2 puan/madde)
+
+1. **el matiz**
+2. **la premisa**
+3. **la discrepancia**
+4. **sin perjuicio de**
+
+## 3. Okuma — 20 puan (6.66667 puan/madde)
+
+1. **Hayır, tek tip öğrenme varsayımını sorguladı.** — Nüans.
+2. **Bütçe yayımlanmadan önce.** — Öncelik.
+3. **Altı ay.** — Süre.
+
+## 4. Dinleme — 16 puan (5.33333 puan/madde)
+
+1. **Erişilebilirlik.** — İtiraz.
+2. **Rehberlere.** — Karşı olgu.
+3. **Ziyaretçi ve çalışan görüşleri.** — Gelecek.
+
+## 5. Yazma — 20 puan
+
+**Örnek yanıt:** El informe municipal aporta mediciones de aire durante doce meses; por tanto, describe con bastante solidez el problema ambiental. La encuesta de los comerciantes revela una preocupación legítima por el acceso al centro, aunque sus noventa respuestas no demuestran cuánto caerían las ventas. No es que esa fuente carezca de valor, sino que mide un aspecto distinto y deja sin preguntar cómo cambiarían los hábitos con mejores autobuses. Si se hubieran publicado antes los criterios de excepción, parte de la desconfianza quizá se habría evitado. Propongo una prueba de seis meses con rutas adicionales y datos semanales sobre contaminación, ventas y viajes. Para cuando termine, se habrán comparado los efectos previstos con los reales. Solo entonces convendrá decidir si se amplía la restricción, se modifica o se abandona. La decisión debería incluir una explicación pública de las incertidumbres restantes.
+
+**Rubrik:** Görev/içerik 8; dil doğruluğu 6; bütünlük ve sözcük seçimi 6. Aşağıdaki ölçütlerle kontrol et:
+
+- İki kaynağın gücü/sınırı tartılır; çıkarım kanıttan ayrılır.
+- Nüans, kip, koşul ve dolaylı aktarım güvenilir kullanılır.
+- Tutarlı, uygun üsluplu ve açık yapı kurulur.
+
+## 6. Konuşma — 16 puan
+
+**Örnek akış:** Konuyu bir cümlede aç → iki ilgili ayrıntı ve bir gerekçe ver → sonuca bağla → takip sorusunu doğrudan yanıtla.
+
+**Rubrik:** Görev başarısı 6; anlaşılabilirlik ve akıcılık 4; dil çeşitliliği/doğruluğu 4; etkileşim ve takip yanıtı 2.
+
+**Hazır oluş:** En az 75/100, ayrıca okuma, dinleme, yazma ve konuşmada ayrı ayrı en az yarım puan. Final için 80/100 hedefle; eksik becerinin modül ve tekrar paketine dön.

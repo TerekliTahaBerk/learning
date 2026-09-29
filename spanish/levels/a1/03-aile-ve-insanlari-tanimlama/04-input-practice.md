@@ -1,30 +1,31 @@
-# Girdi ve anlama — Aile ve insanları tanımlama
+# Okuma ve dinleme · Aile ve insanları tanımlama
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-Esta es mi familia: mi padre trabaja en un hospital y mi hermana estudia en la universidad.
+> Esta es una foto de mi familia. A la izquierda está mi madre, Aylin. Es médica y tiene el pelo corto. Mi padre se llama Murat; es profesor y lleva gafas. Mi hermana mayor, Zeynep, vive en otra ciudad, pero hablamos por teléfono todas las semanas. Es muy amable y paciente. En la foto está contenta porque hoy es su cumpleaños. Mi hermano menor, Can, tiene diez años. Tiene los ojos marrones y el pelo rizado. A veces es tímido con personas nuevas, pero en casa habla mucho. Mi abuela también está en la foto. Está un poco cansada después del viaje, pero se encuentra bien.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Fotoğrafta annesi nerede?
+2. Zeynep nasıl biri ve bugün neden mutlu?
+3. Can kaç yaşında?
+4. Büyükanne genel olarak hasta mı, bugünlük yorgun mu?
+5. `Es muy amable` ve `está contenta` arasındaki anlam farkı ne?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — ¿Quién es la mujer de la izquierda? — Es mi madre. Se llama Aylin. — ¿A qué se dedica? — Es médica. — ¿Y quién es el niño? — Mi hermano Can. Tiene diez años. — Tiene el pelo rizado, ¿verdad? — Sí, y los ojos marrones. — ¿Tu abuela está bien? — Sí, gracias. Hoy está cansada, pero normalmente tiene mucha energía.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-kimlik-ulkeler-ve-meslekler/01-konu.md) · [Sonraki modül →](../04-gunler-tarih-saat-ve-rutin/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A1](../README.md)

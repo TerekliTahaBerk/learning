@@ -1,29 +1,25 @@
-# Dilbilgisi — Gelecek, geçmiş ve zaman ilişkileri
+# Dilbilgisi · Gelecek, geçmiş ve zaman ilişkileri
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-futuro perfecto; geçmiş zamanların ileri etkileşimi; olasılık.
+## Zaman çizgisinde referans noktası
 
-Futuro perfecto `habré...` gelecek referansından önce tamamlanmışlık veya şimdiki ana dair tahmin; condicional compuesto `habría...` geçmişte gerçekleşmemiş sonuç/gelecekten geçmişe bakış. Pluscuamperfecto subjuntivo `hubiera/hubiese + participio`; zaman çizgisini çizip referans noktasını belirle.
+`Para el viernes habremos terminado el informe` — Cuma geldiğinde raporu bitirmiş olacağız. Futuro perfecto gelecekteki bir noktadan önce tamamlanmayı anlatır: `habré, habrás, habrá, habremos, habréis, habrán + participio`. Aynı biçim geçmişe yönelik tahmini de kurabilir: `No contesta; habrá salido` — Yanıt vermiyor; herhalde çıkmıştır. Gelecekte tamamlanma ve geçmiş tahmini bağlamdan anlaşılır.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Condicional compuesto
 
-## Kullanım
+`habría, habrías, habría, habríamos, habríais, habrían + participio`: geçmişte gerçekleşmemiş sonucu anlatır (`Habríamos terminado antes si hubiéramos recibido los datos`) veya geçmiş bir noktadan bakıldığında tamamlanmış olacak olay için kullanılabilir: `Dijo que para el viernes habría terminado`. Teyit edilmemiş haber dili kullanımında da görülebilir; kaynak ve kayıt belirtilmeden olgu gibi sunma.
 
-- **Olumlu:** `Para entonces ya habrán publicado el informe.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Geçmiş katmanlar
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Pensé que ya habían enviado el informe` — Raporun daha önce gönderildiğini sandım. `Dijeron que lo enviarían` — Göndereceklerini söylediler (geçmişteki gelecek). `Cuando llamé, todavía lo estaban revisando` — Aradığımda hâlâ inceliyorlardı. `Habían enviado`, `enviarían`, `estaban revisando` farklı referans konumlarıdır. İspanyolca biçimleri yalnızca Türkçe “-mişti/-ecekti” çevirisine göre seçme; bir zaman çizgisi çiz.
 
-## Türkçe konuşanlar için dikkat
+## Kanıt ve olasılık
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Estará en casa` şimdiki tahmin, `Habrá llegado` geçmişe dair tahmin. `Estaría en casa` geçmişe veya ihtiyatlı çıkarıma göre değişebilir. `Debe de estar en casa` da tahmin; `debe estar` bazı kullanımlarda yükümlülük/tahmin ayrımını bağlam belirler. B2'de kesinlik derecesini kaynağın gücüyle eşleştir.
 
-## Kısa karşılaştırma
+❌ `*Para mañana ya terminaré el informe` mümkün ama önceliği açık anlatmak için ✅ `Para mañana ya habré terminado el informe`. ❌ `*Habrá salido si hubiera llamado` karşı-olgusal sonuç için ✅ `Habría salido si hubiera llamado`. ❌ `*Pensé que ya han enviado` geçmiş referans öncesi için ✅ `Pensé que ya habían enviado`.
 
-- İspanyolca: `Para entonces ya habrán publicado el informe.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Aynı rapor sürecini şimdiki an, cuma günkü bakış ve geçen pazartesideki beklenti noktasından üç kez anlat.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-hipotetik-ve-karsit-olgusal-dil/01-konu.md) · [Sonraki modül →](../04-dolayli-anlatim-ve-kayit/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

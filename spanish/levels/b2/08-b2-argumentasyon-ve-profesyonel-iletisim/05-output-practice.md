@@ -1,22 +1,32 @@
-# Üretim — B2 bütünleştirme: argümantasyon ve profesyonel iletişim
+# Konuşma ve yazma · B2 bütünleştirme: argümantasyon ve profesyonel iletişim
 
-## Konuşma
+## Konuşma görevi
 
-1. **Isınma:** model cümleyi üç kez, her seferinde bir bilgi değiştirerek söyle.
-2. **Soru-cevap:** `¿Qué...?`, `¿Dónde...?` veya konunun gerektirdiği soruyla beş soru üret ve sesli yanıtla.
-3. **Rol oyunu:** 900 kelimeye kadar rapor/deneme, kaynak özeti ve 5 dakikalık sunum üret.
-4. **Monolog:** konu hakkında 45–90 saniye konuş. A2 ve üstünde en az üç bağlayıcı kullan. Kaydını dinleyip bir güçlü yan ve bir düzeltme hedefi yaz.
+**Durum:** Bir politika önerisini beş dakikada savun ve itiraza yanıt ver. **Süre:** dört–beş dakika. İlk turda tek başına konuş; ikinci turda dinleyici rolünü de oynayarak bir takip sorusuna yanıt ver. İletişim amacını ilk cümlede belirt, iki somut ayrıntı ver ve uygun bir kapanış yap.
 
-## Yazma
+**Hazırlık:** [Okuma metninden](04-input-practice.md) bir işe yarar ifade seç. Dinleme konuşmasının amacını iki cümleyle özetle. Konuşmanda o ifadeyi farklı bir bağlamda kullan.
 
-900 kelimeye kadar rapor/deneme, kaynak özeti ve 5 dakikalık sunum üret. Görevi 6–10 cümleyle yazıya dönüştür. B1/B2'de paragrafı giriş, açıklama/örnek ve sonuç olarak düzenle.
+**Örnek açılış:** `El primer estudio sugiere ahorro, pero su muestra no basta para generalizar a toda la ciudad.` Bu yalnızca başlangıçtır; görevin bütün adımlarını kendi bilgilerinle tamamla.
 
-## Öz değerlendirme
+**Etkileşim:** Karşı tarafın yanlış anladığı bir ayrıntıyı düzelt veya açıklama iste. Kaydı tekrar dinle: amaç ve sonuç dışarıdan dinleyen biri için açık mı?
 
-- [ ] Mesajım anlaşılır ve görevle ilgili.
-- [ ] Fiil kişisini/zamanını kontrol ettim.
-- [ ] İsimlerde artikel ve sıfat uyumunu kontrol ettim.
-- [ ] En az bir yeni kelimeyi doğal bir eşdizimle kullandım.
-- [ ] Bir kez daha, notlara bakmadan ürettim.
+## Yazma görevi
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-iliskili-yapilar-vurgulama-ve-adlastirma/01-konu.md)
+**Ürün:** 350 kelimelik kaynak sentezli rapor yaz. Muhatabı ve amacı başta belirle. Okuma metnini ve dinleme konuşmasını iki ayrı kaynak olarak kullan; hangisinin neyi bildirdiğini açıkça belirt.
+
+**Plan:**
+
+1. Açılışta kim/neyin söz konusu olduğunu söyle.
+2. Olayı, gerekçeyi veya karşılaştırmayı iki ayrı paragrafta geliştir.
+3. Son cümlede talep, karar veya sonuç belirt.
+
+**Örnek içerik çekirdeği:** `Un responsable responde a la objeción de que la prueba retrasa el ahorro. Propone actuar en zonas antiguas y medir otras en paralelo.` Bu özeti kendi yazının yerine koyma; olay sırasını ve hedef yapıyı nasıl kullanabileceğini görmek için incele.
+
+## İkinci sürüm kontrolü
+
+- [ ] Sözcük listesinden en az üç ifadeyi bağlama uygun kullandım.
+- [ ] Önceki modülden bir yapıyı yeni görevde işlevsel kullandım.
+- [ ] Kaynak iddiasıyla kendi çıkarımımı ayırdım; kesinlik, kayıt ve itirazın adil aktarımını denetledim.
+- [ ] İlk sürümdeki en az üç hatayı bulup nedenini yazdım; düzeltilmiş sürümü sesli okudum.
+
+[← Girdi](04-input-practice.md) · [Alıştırmalar →](06-alistirmalar.md) · [↑ B2](../README.md)

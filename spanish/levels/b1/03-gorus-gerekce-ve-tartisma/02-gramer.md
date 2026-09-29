@@ -1,29 +1,23 @@
-# Dilbilgisi — Görüş, gerekçe ve tartışma
+# Dilbilgisi · Görüş, gerekçe ve tartışma
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-indicativo/subjuntivo; görüş ve değerlendirme kalıpları.
+## Görüşün kip seçimine etkisi
 
-Bilgi/kanı olarak sunulan olumlu `creo que + indicativo`: `Creo que funciona`; olumsuz inanç `no creo que + subjuntivo`: `No creo que funcione`. Kip seçimi ana fiilin ezber tetikleyicisi değildir; konuşanın iç cümleyi gerçek/benimsenmiş bilgi mi, tutum/kuşku mu sunduğunu gösterir.
+`Creo que la medida funciona` — Önermeyi benimsediğim görüş olarak sunarım; iç cümlede indicativo. `No creo que la medida funcione` — Doğruluğunu benimsemiyorum; subjuntivo. Bunun anlamı “olumlu cümle gerçek, olumsuz cümle gerçek dışı” değildir; konuşurun iç cümleye tutumu değişir. `Es evidente que...` indicativo; `Es posible que...` subjuntivo. `Puede que` ve `quizá(s)` belirsizlikle kullanılır; `quizá` ile kip seçimi nüansa göre değişebilir.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Şimdiki subjuntivo biçimine ilk bakış
 
-## Kullanım
+`hablar`: `hable, hables, hable, hablemos, habléis, hablen`; `comer`: `coma, comas, coma, comamos, comáis, coman`; `vivir`: `viva, vivas, viva, vivamos, viváis, vivan`. Biçim ayrıntısı [sonraki modülde](../04-dilek-tavsiye-suphe-ve-subjuntivo/02-gramer.md) açılır. Burada seçim anlamını fark et.
 
-- **Olumlu:** `Creo que la tecnología facilita el acceso; no creo que resuelva todo.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Gerekçe ve itiraz
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`En mi opinión` kişisel görüş; `según el informe` kaynağa atıf; `porque/ya que` neden; `sin embargo` karşıtlık; `por tanto` sonuç. `Entiendo tu argumento, pero...` — Savını anlıyorum ama...; `No estoy del todo de acuerdo porque...` — Tam olarak katılmıyorum çünkü...; `¿Puedes aclarar qué quieres decir?` — Ne demek istediğini açıklar mısın? B1 hedefi uzun bir fikri açık gerekçeyle savunmak; yalnızca bağlaç listesi ezberlemek değil.
 
-## Türkçe konuşanlar için dikkat
+## Türkçe aktarım ve hata
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+Türkçe “bence” hem güçlü inanç hem belirsiz tahmin taşıyabilir. İspanyolcada `creo que` ile `no creo que` ardından kip seçimi, iç önermeye yaklaşımı gösterir. ❌ `*No creo que funciona` ✅ `No creo que funcione`. ❌ `*Es evidente que sea útil` (olgu olarak sunarken) ✅ `Es evidente que es útil`. ❌ `*Estoy acuerdo` ✅ `Estoy de acuerdo`.
 
-## Kısa karşılaştırma
+**Mini uygulama:** Aynı öneri için bir destek, bir kuşku, bir karşı görüş cümlesi yaz. Hangi cümlede görüşün, hangisinde veri var?
 
-- İspanyolca: `Creo que la tecnología facilita el acceso; no creo que resuelva todo.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-egitim-kariyer-ve-is-yeri/01-konu.md) · [Sonraki modül →](../04-dilek-tavsiye-suphe-ve-subjuntivo/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

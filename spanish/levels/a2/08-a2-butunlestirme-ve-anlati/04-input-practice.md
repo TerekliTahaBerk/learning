@@ -1,30 +1,31 @@
-# Girdi ve anlama — A2 bütünleştirme: deneyimden anlatıya
+# Okuma ve dinleme · A2 bütünleştirme: deneyimden anlatıya
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-El viaje empezó el viernes. Habíamos reservado una habitación...
+> Este año he hecho dos viajes. El segundo empezó el viernes pasado, cuando salí con mi amiga Alba hacia Valencia. Reservamos una habitación cerca del centro y teníamos el número de confirmación en el teléfono. Durante el trayecto llovía y el tren avanzaba despacio. Llegamos dos horas tarde. Cuando entramos en el hotel, la recepción estaba cerrada. Primero llamamos al número de emergencia; nadie respondió. Después envié un mensaje con el número de reserva. Mientras esperábamos, Alba buscó otra opción cerca de la estación. A los veinte minutos nos contestaron: la persona de recepción estaba atendiendo un problema en otro edificio. Volvió, pidió disculpas y nos dio la llave. La habitación era sencilla, pero estaba limpia. Al día siguiente visitamos la ciudad y probamos un plato local. El retraso fue incómodo, aunque al final encontramos una solución. Todavía no he escrito sobre el viaje, pero ya he enviado las fotos a mi familia.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Anlatıcının bu yıl kaç gezisi oldu?
+2. Gezi hangi gün başladı?
+3. Tren yolculuğunda arka plan nasıldı?
+4. Otel sorununu çözmek için hangi iki adımı attılar?
+5. `estaba cerrada` ile `volvió` farklı anlatı işlevi nasıl kuruyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — ¿Cómo fue el viaje? — Bien, aunque el tren llegó tarde y el hotel estaba cerrado. — ¡Vaya! ¿Qué hicisteis? — Primero llamamos, pero no respondieron. Después les envié el número de reserva. — ¿Os contestaron? — Sí, al cabo de veinte minutos. Nos explicaron el problema y nos dieron la llave. — ¿Y la habitación? — Era pequeña, pero estaba limpia. Al final pudimos descansar. — Me alegro. ¿Volveréis? — Sí, el mes que viene.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-davetler-iliskiler-ve-gelecek/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A2](../README.md)

@@ -1,31 +1,55 @@
-# B2 Kontrol 2
+# B2 Kontrol 2: Dolaylı aktarım ve kamusal tartışma
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 95 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- İleri se kullanımları ve pasif yapılar: `Se buscan soluciones; aquí se trabaja con datos anónimos.`
-- Bağlaçlar ve söylem organizasyonu: `Aun cuando los datos son limitados, la tendencia resulta clara.`
-- İlgi cümleleri, vurgu ve adlaştırma: `Lo más preocupante es que nadie explicó el cambio.`
-- B2 bütünleştirme: argümantasyon ve profesyonel iletişim: `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Dijo que al día siguiente ___ el informe. (entregar)
+2. Buscan a alguien que ___ gestionarlo. (poder)
+3. Se ___ normas el año pasado. (aprobar)
+4. El asunto ___ que hablamos sigue abierto. (de)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. hesap verebilirlik
+2. kaynak
+3. itiraz etmek
+4. yine de
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Un periódico local informó de que el ayuntamiento había aprobado una plataforma para consultar propuestas vecinales. La alcaldesa dijo que publicaría cada respuesta en un plazo de treinta días. Una asociación celebró la medida, aunque pidió que también se mostraran las propuestas rechazadas y sus razones. Según su portavoz, la transparencia exige explicar tanto las decisiones populares como las incómodas. El ayuntamiento respondió que los datos personales se protegerían antes de publicar los documentos. Algunos vecinos temían que la moderación eliminara críticas legítimas. Por ello se creó un comité independiente al que podrían recurrir quienes vieran su propuesta retirada. El primer balance se presentaría a los seis meses; hasta entonces, la asociación recomendaría no confundir número de votos con calidad del argumento.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Belediye başkanı ne vaat etti?
+2. Dernek ne istedi?
+3. Komite ne için?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— La portavoz afirmó que la plataforma mejoraría la participación. — Sí, pero añadió que la moderación debía ser revisable. — ¿Quién revisaría las reclamaciones? — Un comité independiente. — El concejal dijo que los datos personales no se publicarían. — Aun así, conviene que expliquen qué criterios usarán para retirar mensajes.
+
+</details>
+
+1. Moderatörlük nasıl?
+2. Şikâyeti kim inceler?
+3. Hangi ölçütler?
+
+## 5. Yazma — 20 puan
+
+250–300 kelimelik haber çözümlemesi: iki aktörü aktarıp kanıt ile açık soruyu ayır.
+
+## 6. Konuşma — 16 puan
+
+Dört dakikalık panel: iddia, kaynak, karşı görüş ve ölçüt önerisi.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](04-checkpoint-2-answers.md) · [Değerlendirme dizini](README.md)

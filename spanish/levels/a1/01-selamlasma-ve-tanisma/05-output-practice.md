@@ -1,22 +1,27 @@
-# Üretim — Selamlaşma ve tanışma
+# Üretim · İlk konuşmanı kur
 
 ## Konuşma
 
-1. **Isınma:** model cümleyi üç kez, her seferinde bir bilgi değiştirerek söyle.
-2. **Soru-cevap:** `¿Qué...?`, `¿Dónde...?` veya konunun gerektirdiği soruyla beş soru üret ve sesli yanıtla.
-3. **Rol oyunu:** Yeni tanıştığın birine adını, nereli olduğunu ve nasılsın sorusunu yönelt.
-4. **Monolog:** konu hakkında 45–90 saniye konuş. A2 ve üstünde en az üç bağlayıcı kullan. Kaydını dinleyip bir güçlü yan ve bir düzeltme hedefi yaz.
+1. **Sesli tekrar:** `Me llamo Deniz` cümlesindeki adı kendi adınla değiştir. `Soy de Ankara` cümlesindeki şehri değiştir. Üç kez doğal hızda söyle.
+2. **İkili diyalog:** A kişisi selam verir, adını ve kökenini söyler; B iki soruyu sorup aynı bilgileri verir. Sonunda uygun ayrılış kullan. Tek başına çalışıyorsan iki rolü kaydet.
+3. **Beklenmeyen durum:** B çok hızlı konuşur. `Perdón, no entiendo. ¿Puedes repetir más despacio, por favor?` diyerek etkileşimi sürdür.
+4. **Kayıt:** 30–45 saniyede kendini tanıt. Ad, şehir/ülke, bugün neden İspanyolca çalıştığın ve karşı tarafa iki soru olsun. Henüz bilmediğin neden yapısı için hazır kalıp kullanabilirsin: `Estudio español porque me interesa.` — İlgimi çektiği için İspanyolca çalışıyorum.
 
 ## Yazma
 
-Yeni tanıştığın birine adını, nereli olduğunu ve nasılsın sorusunu yönelt. Görevi 6–10 cümleyle yazıya dönüştür. B1/B2'de paragrafı giriş, açıklama/örnek ve sonuç olarak düzenle.
+**Görev 1 — profil kartı:** `Nombre`, `Apellido`, `Ciudad`, `País` alanlarını doldur. Ad ve soyad gerçek ya da kurmaca olabilir.
 
-## Öz değerlendirme
+**Görev 2 — ilk mesaj:** Yeni bir sınıf arkadaşına dört cümlelik kısa mesaj yaz: selam, ad, köken, karşı soru. Model:
 
-- [ ] Mesajım anlaşılır ve görevle ilgili.
-- [ ] Fiil kişisini/zamanını kontrol ettim.
-- [ ] İsimlerde artikel ve sıfat uyumunu kontrol ettim.
-- [ ] En az bir yeni kelimeyi doğal bir eşdizimle kullandım.
-- [ ] Bir kez daha, notlara bakmadan ürettim.
+> Hola, me llamo Ece. Soy de İstanbul. Mucho gusto. ¿Cómo te llamas?
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-kimlik-ulkeler-ve-meslekler/01-konu.md)
+**Görev 3 — kayıt cümlesi:** Nazik `usted` kullanarak ad ve şehir soran iki cümle yaz.
+
+## Öz kontrol
+
+- [ ] `me llamo` ve `soy` biçimlerini doğru kişiyle kullandım.
+- [ ] Soru işaretini başa ve sona koydum; `cómo/dónde` aksanlı.
+- [ ] Samimi `tú` ve nazik `usted` biçimlerini karıştırmadım.
+- [ ] Karşı taraf anlamazsa tekrar söyleyebiliyorum.
+
+[← Girdi](04-input-practice.md) · [Alıştırmalar →](06-alistirmalar.md) · [↑ A1](../README.md)

@@ -1,32 +1,42 @@
-# Alıştırmalar — İlgi cümleleri, vurgu ve adlaştırma
+# Alıştırmalar · İlgi cümleleri, vurgu ve adlaştırma
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “atıf” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “öncül” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “yan cümle” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “öneri” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “rapor” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Lo más preocupante es que nadie explicó el cambio.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. La propuesta ___ ___ se refieren.
+7. La persona ___ ___ hablé.
+8. Busco a alguien que ___ ayudar. (poder, belirsiz)
+9. ___ importante es medir el efecto.
+10. Fue Ana ___ propuso la prueba.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. İlk cümledeki adlaştırma zinciri hangi bilgiyi gizliyor?
+12. `a la que` ve `con quien` hangi edatlı fiillerden kaynaklanıyor?
+13. `pueda evaluar` ile `evaluó` referans farkı ne?
+14. `Lo importante es...` sunum odağını nereye taşıyor?
+15. Son paragraf adlaştırmanın tümünü niçin reddetmiyor?
 
-3. `Lo más preocupante es que nadie explicó el cambio.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Söz ettikleri öneri daha pahalı.”
+17. Türkçeden İspanyolcaya: “Önemli olan etkiyi ölçmek.”
+18. Türkçeden İspanyolcaya: “Bunu yapabilecek birini arıyoruz.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*La persona que hablé.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*El propuesta a la que.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Lo importante son medir.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Üç kaynağı sentezleyen paragraf yaz; vurguyu iki şekilde değiştir.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Lo más preocupante es que nadie explicó el cambio.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-baglaclar-ve-soylem-organizasyonu/01-konu.md) · [Sonraki modül →](../08-b2-argumentasyon-ve-profesyonel-iletisim/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

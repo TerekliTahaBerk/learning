@@ -1,31 +1,55 @@
-# B1 Kontrol 1
+# B1 Kontrol 1: Anlatı ve iş yaşamı
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 80 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Anlatı ve geçmiş zaman kontrolü: `Cuando llegué, ya habían cerrado la puerta.`
-- Eğitim, kariyer ve iş yeri: `En unos años trabajaré en un equipo internacional.`
-- Görüş, gerekçe ve tartışma: `Creo que la tecnología facilita el acceso; no creo que resuelva todo.`
-- Dilek, tavsiye, şüphe ve subjuntivo: `Te recomiendo que reserves con antelación.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Cuando entré, ya ___ salido. (ellos)
+2. Mientras ___, sonó el teléfono. (trabajar, yo)
+3. Mañana ___ una entrevista. (tener, yo)
+4. Si pudiera, ___ de equipo. (cambiar, yo)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. son tarih
+2. görüşme
+3. başvurmak
+4. ancak
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Marta solicitó un puesto en una biblioteca municipal. Cuando llegó a la entrevista, la directora ya había leído su solicitud. Le preguntó por un proyecto difícil. Marta explicó que, mientras trabajaba en una escuela, había organizado un club de lectura con pocos recursos. Al principio asistían cuatro alumnos; al final del curso eran veinte. La directora valoró su experiencia, pero advirtió que el nuevo puesto incluía trabajo los sábados. Marta pidió tiempo para consultar el horario con su familia. Dos días después aceptó la oferta porque el trabajo le permitiría continuar el proyecto en otro barrio.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Başta kaç öğrenci vardı?
+2. İşin özel koşulu neydi?
+3. Niçin kabul etti?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— ¿Cómo fue la entrevista? — Mejor de lo que esperaba. Cuando entré, ya habían revisado mi experiencia. — ¿Te preguntaron por el curso? — Sí. Les conté que al principio había pocos participantes, pero que el número aumentó. — ¿Y ahora? — Me llamarán el viernes. Si me ofrecen el puesto, tendré que decidir antes del lunes.
+
+</details>
+
+1. Ne zaman arayacaklar?
+2. Karar son tarihi?
+3. Başta katılım nasıldı?
+
+## 5. Yazma — 20 puan
+
+170–200 kelimelik iş deneyimi anlatısı: arka plan, önceki olay, sonuç ve plan.
+
+## 6. Konuşma — 16 puan
+
+Üç dakikalık mülakat: yaşanmış örnek ve olası iş koşuluna yanıt.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](02-checkpoint-1-answers.md) · [Değerlendirme dizini](README.md)

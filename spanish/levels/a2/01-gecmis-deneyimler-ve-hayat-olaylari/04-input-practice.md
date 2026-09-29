@@ -1,30 +1,31 @@
-# Girdi ve anlama — Geçmiş deneyimler ve hayat olayları
+# Okuma ve dinleme · Geçmiş deneyimler ve hayat olayları
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-Este año he viajado bastante, pero nunca he estado en México.
+> Este año he decidido conocer mejor mi ciudad. Hasta ahora he visitado tres museos y he descubierto dos barrios que no conocía. En enero fui a una exposición de fotografía; esa visita pertenece a un mes ya terminado. Esta semana he vuelto al museo de arte con una amiga. Ella nunca estuvo allí y le ha gustado mucho. Después hemos probado un restaurante pequeño cerca del parque. Todavía no he escrito sobre estas experiencias, aunque he hecho varias fotos y he tomado notas. También he empezado un curso de español. He aprendido a hablar de mis experiencias, pero todavía cometo errores cuando tengo que elegir un tiempo pasado. Mi objetivo es contar las historias con claridad, no solo enumerar lugares. El domingo voy a revisar mis notas y escribir una entrada breve para mis amigos.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Bu yıl anlatıcı hangi yeni yerleri tanımış?
+2. Ocaktaki sergi ziyareti ile bu haftaki müze ziyareti farklı zaman çerçevesiyle nasıl sunuluyor?
+3. Arkadaşı müzeye daha önce gitmiş miydi?
+4. Anlatıcı hangi iki üretim malzemesine sahip ama henüz yazmamış?
+5. Son cümledeki amaç yalnızca yer saymaktan nasıl farklı?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — ¿Has viajado alguna vez solo? — Sí, he hecho dos viajes cortos. El primero fue el año pasado. — ¿Y este año? — Este año todavía no he viajado, pero he reservado un billete para octubre. — ¿Has elegido alojamiento? — No, todavía no. He leído varias opiniones, pero no he tomado una decisión. — Yo he estado en esa ciudad. Si quieres, te recomiendo un barrio. — Gracias, me vendrá bien. — Después te envío el nombre por mensaje.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-gecmiste-olaylar-ve-anilar/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A2](../README.md)

@@ -1,32 +1,55 @@
-# A1 Kontrol 2
+# A1 Kontrol 2: Ev, yemek ve alışveriş
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 50 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Yemek ve restoranda iletişim: `Me gusta el café, pero prefiero el té. Quisiera una ensalada.`
-- Alışveriş, kıyafet ve fiyatlar: `¿Cuánto cuesta esta camisa? La quiero en azul.`
-- Boş zaman, hava ve planlar: `El sábado voy a visitar un museo porque me interesa el arte.`
-- Sağlık, vücut ve temel yolculuk: `Me duele la cabeza. Tengo que descansar. ¿Dónde está la estación?`
-- A1 bütünleştirme: günlük yaşam: `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. En mi calle ___ una farmacia.
+2. La farmacia ___ junto al banco.
+3. Me ___ las verduras.
+4. ¿Cuánto ___ estos zapatos?
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. oda
+2. hesap
+3. beden
+4. yanında
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Marta vive en un piso pequeño cerca del centro. Tiene una habitación y un salón con dos ventanas. En su calle hay una farmacia y un supermercado. Hoy va al mercado con su amigo Can. Compran fruta y pan, pero no compran pescado porque Can no come carne ni pescado. Después entran en una tienda de ropa. Marta ve una camisa azul. La camisa cuesta veinte euros y está en su talla. Al final la compra y los dos comen una ensalada en un restaurante cercano.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Evde kaç yatak odası var?
+2. Can neden balık almıyor?
+3. Marta ne satın alıyor?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— Perdón, ¿dónde está el supermercado? — Está al lado de la farmacia. — Gracias. ¿Y hay un restaurante cerca? — Sí, enfrente del parque. — ¿Es caro? — No. Una ensalada cuesta ocho euros. — Muy bien, gracias.
+
+</details>
+
+1. Süpermarket nerede?
+2. Restoran nerede?
+3. Salata kaç avro?
+
+## 5. Yazma — 20 puan
+
+70–90 kelimede evini, mahallendeki iki yeri ve bir alışveriş tercihini anlat.
+
+## 6. Konuşma — 16 puan
+
+Bir mağazada fiyat ve beden sor, sonra restoranda sipariş ver (iki rol).
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](04-checkpoint-2-answers.md) · [Değerlendirme dizini](README.md)

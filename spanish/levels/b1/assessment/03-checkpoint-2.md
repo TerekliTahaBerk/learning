@@ -1,31 +1,55 @@
-# B1 Kontrol 2
+# B1 Kontrol 2: Görüş ve öneri
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 80 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Koşullar, olasılıklar ve öneriler: `Si tuviera más tiempo, aprendería otro idioma.`
-- Toplum, çevre ve medya: `Se publicaron los resultados; se recomienda reducir residuos.`
-- Resmî yazışma, şikâyet ve rapor: `Le agradecería que revisaran la factura.`
-- B1 bütünleştirme: sunum ve bağımsız anlatım: `Aunque el proyecto es útil, conviene que midamos sus efectos.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. No creo que ___ suficiente. (ser)
+2. Te recomiendo que ___ los datos. (revisar, tú)
+3. Si tuviera tiempo, ___ al debate. (ir, yo)
+4. Aunque ___ caro, lo compraré. (ser, olasılık)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. kanıt
+2. israf
+3. önermek
+4. bir yandan
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Una asociación propuso limitar los envases de un solo uso en el mercado del barrio. Algunos comerciantes temían que los clientes compraran menos si tenían que llevar bolsas propias. Otros pensaban que la medida reduciría residuos y gastos. Durante una reunión, Sara pidió que se compararan los datos de otros mercados antes de decidir. No creía que una prohibición inmediata fuera justa para los puestos pequeños. Sugirió un periodo de prueba de dos meses y una encuesta a los clientes. Al terminar, el grupo aceptó probar la medida en tres puestos y publicar los resultados. Sara defendió la decisión porque permitiría corregir problemas sin abandonar el objetivo ambiental.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Tüccarların kaygısı?
+2. Sara hangi kanıtları istedi?
+3. Deneme kaç ay?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— No creo que prohibir todas las bolsas mañana sea la mejor solución. — Propongo que hagamos una prueba. — ¿Y si los clientes se quejan? — Podríamos preguntarles al final de cada semana. — Conviene que publiquemos también los costes. — Si los datos muestran problemas, cambiaremos la propuesta.
+
+</details>
+
+1. İlk konuşmacı neye karşı?
+2. Ne zaman anket?
+3. Maliyetlerle ne yapılacak?
+
+## 5. Yazma — 20 puan
+
+180–220 kelimelik görüş metni: tez, karşı görüş, kanıt ve uygulanabilir öneri.
+
+## 6. Konuşma — 16 puan
+
+Üç dakikalık çevre toplantısı; itiraza yanıt ve koşullu öneri.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](04-checkpoint-2-answers.md) · [Değerlendirme dizini](README.md)

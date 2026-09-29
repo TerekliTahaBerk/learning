@@ -1,32 +1,42 @@
-# Alıştırmalar — Ev ve şehir
+# Alıştırmalar · Ev ve şehir
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “daire” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “ev” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “oda” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “oturma odası” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “mutfak” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Hay una farmacia cerca de mi casa. Está al lado del banco.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. En la calle ___ una farmacia.
+7. La farmacia ___ enfrente del banco.
+8. Mi piso ___ dos habitaciones.
+9. ___ casa es pequeña. (bu, dişil)
+10. El parque está al lado ___ banco.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Dairede kaç oda ve hangi bölümler var?
+12. Masa nerede?
+13. Eczane bankaya göre nerede?
+14. Meydana gitmek için ilk hangi yöne dönülüyor?
+15. `Hay una farmacia` ile `La farmacia está...` işlev farkı nedir?
 
-3. `Hay una farmacia cerca de mi casa. Está al lado del banco.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Evimin yanında bir park var.”
+17. Türkçeden İspanyolcaya: “Park bankanın karşısında.”
+18. Türkçeden İspanyolcaya: “İstasyon nerede?”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Hay el banco aquí.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Esta libro está aquí.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*La mesa es en la cocina.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Evini ve mahalleni tarif et; basit yol tarifi iste.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Hay una farmacia cerca de mi casa. Está al lado del banco.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-gunler-tarih-saat-ve-rutin/01-konu.md) · [Sonraki modül →](../06-yemek-ve-restoran/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

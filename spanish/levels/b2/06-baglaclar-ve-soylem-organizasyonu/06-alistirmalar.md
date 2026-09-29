@@ -1,32 +1,42 @@
-# Alıştırmalar — Bağlaçlar ve söylem organizasyonu
+# Alıştırmalar · Bağlaçlar ve söylem organizasyonu
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “tez” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “sav” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “öncül” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “sonuç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “neden” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Aun cuando los datos son limitados, la tendencia resulta clara.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Lo explico para que lo ___. (entender, tú)
+7. Cuando ___ el informe, lo revisaré. (llegar)
+8. De ahí que ___ prudente esperar. (ser)
+9. Aunque ___ limitado, publicamos el dato. (ser, bilinen)
+10. Aunque ___ limitado, lo publicaríamos. (ser, varsayım)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Metnin ana tezi nedir?
+12. İkinci paragraftaki üç ölçüt ne ve neden yalnızca kayıt sayısı yetmiyor?
+13. Öğretmenlerin itirazı nasıl kabul edilip sınırlandırılıyor?
+14. `Cuando termine` ile alışkanlık bildiren `cuando termina` arasındaki kip farkı ne?
+15. `De ahí que` hangi sonuç çıkarımını işaretliyor?
 
-3. `Aun cuando los datos son limitados, la tendencia resulta clara.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Rapor gelince onu inceleyeceğim.”
+17. Türkçeden İspanyolcaya: “Veri eksik; bu yüzden beklemek yerinde.”
+18. Türkçeden İspanyolcaya: “Okur anlasın diye açıklıyorum.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Para que entiendes.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Cuando llegará, lo llamaré.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*De ahí que es útil.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir argümanı karşı sav, taviz ve sonuçla düzenle.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Aun cuando los datos son limitados, la tendencia resulta clara.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-ileri-se-ve-pasif-yapilar/01-konu.md) · [Sonraki modül →](../07-iliskili-yapilar-vurgulama-ve-adlastirma/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

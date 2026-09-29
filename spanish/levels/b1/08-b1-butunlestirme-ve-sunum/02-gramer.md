@@ -1,29 +1,25 @@
-# Dilbilgisi — B1 bütünleştirme: sunum ve bağımsız anlatım
+# Dilbilgisi · B1 bütünleştirme: sunum ve bağımsız anlatım
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-bağlaçlar; zaman uyumu; subjuntivo tekrarı; söylem düzeni.
+## Söylemin iskeleti
 
-Söylemi `por un lado/por otro`, `sin embargo`, `por tanto`, `en cambio` ile yapılandır. `aunque + indicativo` bilinen olguya, `aunque + subjuntivo` varsayımsal/açık olmayan duruma odaklanabilir. Present perfect subjuntivo: `haya/hayas... + participio`, yakın geçmişe yönelik duygu/şüphe: `Me alegra que hayas venido`.
+`Primero` konuyu ve soruyu açar; `por un lado/por otro` seçenekleri karşılaştırır; `sin embargo` karşı savı görünür kılar; `por tanto/en conclusión` gerekçelerden sonuç çıkarır. Bağlayıcıyı sırf metni uzatmak için ekleme: her biri mantıksal ilişki göstermeli.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## B1 kip-zaman kontrolü
 
-## Kullanım
+Deneyim anlatırken `indefinido` ana olay, `imperfecto` arka plan, `pluscuamperfecto` geçmişten önceki olay. Gelecek/varsayım için `futuro`, `condicional`, `si + presente` veya `si + imperfecto de subjuntivo`. Değerlendirme ve öneride `Es importante que + subjuntivo`; olgu olarak sunulan görüşte `Creo que + indicativo`.
 
-- **Olumlu:** `Aunque el proyecto es útil, conviene que midamos sus efectos.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## `aunque` ile tutum
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Aunque es útil, cuesta dinero` — Yararlı olduğu bilinen bir şeyin maliyetini ekler. `Aunque sea útil, debemos medir el coste` — Yararlı olsa bile maliyeti ölçmeliyiz; yararlılık açık/varsayımsal sunulur. `Me alegra que hayas venido` — Gelmiş olmana seviniyorum. `haya/hayas/haya/hayamos/hayáis/hayan + participio` present perfect subjunctive, geçmiş eyleme şimdiki tepkiyi kurar. B2'de kip nüansı genişler.
 
-## Türkçe konuşanlar için dikkat
+## Kaynak özetleme
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Según el informe...` kaynağın iddiası; `A mi juicio...` yorumun. `El informe señala...` bir iddiayı aktarır; `demuestra` ancak kanıt gerçekten bunu destekliyorsa seç. Sunum sonunda “ne bilmiyoruz?” sorusuna yanıt ver; bir sonraki adımı öner.
 
-## Kısa karşılaştırma
+❌ `*Es importante que medimos` ✅ `Es importante que midamos`. ❌ `*Creo que sea útil` (olgu olarak sunarken) ✅ `Creo que es útil`. ❌ `*Aunque sea útil` her durumda tek doğru sanmak; bilinen olguysa `Aunque es útil` de doğal.
 
-- İspanyolca: `Aunque el proyecto es útil, conviene que midamos sus efectos.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Aynı öneriyi olgu, varsayım ve değerlendirme çerçevesinde üç cümleyle sun; kip farkını açıklamaya hazır ol.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-resmi-yazisma-sikayet-ve-rapor/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

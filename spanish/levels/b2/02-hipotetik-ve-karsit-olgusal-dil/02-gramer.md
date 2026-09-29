@@ -1,29 +1,31 @@
-# Dilbilgisi — Varsayımsal ve karşı-olgusal anlatım
+# Dilbilgisi · Varsayımsal ve karşı-olgusal anlatım
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-imperfecto/pluperfecto subjuntivo; condicional simple/compuesto; si kalıpları.
+## Üç ana `si` örüntüsü
 
-Gerçek dışı şimdiki/gelecek: `si + imperfecto de subjuntivo, condicional`; gerçek dışı geçmiş: `si + pluscuamperfecto de subjuntivo, condicional compuesto` (`Si hubiera sabido, habría venido`). Karma sonuçta geçmiş koşul şimdiki sonucu etkileyebilir: `Si hubiera estudiado..., tendría...`.
+| Koşul | Sonuç | Anlam |
+|---|---|---|
+| `Si tengo tiempo` | `iré` | Açık/gerçekleşebilir gelecek. |
+| `Si tuviera tiempo` | `iría` | Şimdiki/gelecek varsayım. |
+| `Si hubiera tenido tiempo` | `habría ido` | Geçmişte gerçekleşmeyen koşul ve sonuç. |
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+Türkçe “vaktim olsaydı giderdim” bağlam olmadan şimdiki ve geçmiş karşı-olgusal yoruma açık olabilir; İspanyolca zaman katmanını açık kurar. `Si` koşulunun içinde standart bu yapılarda condicional kullanma: ❌ `*Si habría sabido...` ✅ `Si hubiera sabido...`.
 
-## Kullanım
+## Biçimler
 
-- **Olumlu:** `Si lo hubiera sabido, habría reservado antes.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+Imperfecto subjuntivo `-ra/-se` ikiliği: `tuviera/tuviese, tuvieras/tuvieses, tuviera/tuviese, tuviéramos/tuviésemos, tuvierais/tuvieseis, tuvieran/tuviesen`. Çoğu bağlamda anlam eşdeğer; tercih kayıt/bölgeye göre değişebilir. Pluscuamperfecto subjuntivo: `hubiera/hubiese, hubieras/hubieses, hubiera/hubiese, hubiéramos/hubiésemos, hubierais/hubieseis, hubieran/hubiesen + participio`. `Si lo hubiera sabido...` — Bilseydim... Conditional perfect: `habría/habrías/habría/habríamos/habríais/habrían + participio`: `Habríamos cambiado el plan` — Planı değiştirirdik.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Karma zaman ve sorumluluk
 
-## Türkçe konuşanlar için dikkat
+`Si hubiera estudiado medicina, ahora trabajaría en un hospital` — Geçmişte gerçekleşmeyen eğitim, bugünkü varsayımsal sonuç. `Si tuviera más experiencia, habría solicitado aquel puesto` — Şimdiki/kalıcı özellikten geçmiş karara bakış; bağlama göre mümkündür. Karşı-olgusal söylem pişmanlık dışında süreç değerlendirmesinde de işe yarar: `De haber contado con datos completos, habríamos decidido antes` — Tam veriye sahip olsaydık daha önce karar verirdik. Bu sıkıştırılmış `de + infinitivo compuesto` resmî kayıtta görülebilir.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+## İhtiyatlı ifade
 
-## Kısa karşılaştırma
+`Es posible que hubiera otra explicación` geçmiş veya varsayımsal bağlamda belirsizlik sunar; `habría` bazen dolaylı/teyit edilmemiş bilgi aktarır. Bağlamı vermeden “condicional = -rdı” eşitliği kurma.
 
-- İspanyolca: `Si lo hubiera sabido, habría reservado antes.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+❌ `*Si habría tenido datos, habría cambiado` ✅ `Si hubiera tenido datos, habría cambiado`. ❌ `*Si hubiera sabido, cambiaría ayer` ✅ `Si hubiera sabido, habría cambiado ayer`. ❌ `*Si tendría tiempo, iría` ✅ `Si tuviera tiempo, iría`.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-mood-secimi-ve-nuans/01-konu.md) · [Sonraki modül →](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md)
+**Mini uygulama:** Bir geçmiş karar için gerçek olay çizgisi, gerçekleşmeyen alternatif ve bugünkü etkisini üç cümlede ayır.
+
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

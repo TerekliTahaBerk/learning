@@ -1,31 +1,48 @@
-# Cevaplar ve tekrar — Eğitim, kariyer ve iş yeri
+# Cevaplar ve birikimli tekrar · Eğitim, kariyer ve iş yeri
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: gelecek zaman; koşul kipi; olasılık ve varsayım. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `En unos años trabajaré en un equipo internacional.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `la carrera` — kariyer/bölüm. Quiero desarrollar mi carrera. — Kariyerimi geliştirmek istiyorum.
+2. `el puesto` — pozisyon. Solicitaré el puesto. — Pozisyona başvuracağım.
+3. `la solicitud` — başvuru. Envié la solicitud. — Başvuruyu gönderdim.
+4. `el currículum` — özgeçmiş. Actualicé mi currículum. — Özgeçmişimi güncelledim.
+5. `la entrevista` — görüşme. Tengo una entrevista. — Görüşmem var.
 
-## Sık hata
+## B. Biçim
+6. `tendré` — Düzensiz gelecek kökü.
+7. `Podría` — Nazik rica.
+8. `trabajaremos` — Gelecek sonu.
+9. `solicitaría` — Varsayım.
+10. `olasılık/tahmin` — Şimdiki ana dair çıkarım.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Daha büyük projeleri yönetmeyi öğrenmek istiyor.
+12. İki veri henüz gelmedi.
+13. Eksik bilgi, bitirme zamanı, ihtiyaç duyduğu yardım.
+14. Ortak takvim ve toplantı sonrası kısa özet.
+15. Yararını doğrulamadan kesin hüküm vermemek için.
 
-## Aktif hatırlama
+**Ek okuma yanıtı:** Kursu/raporu takvim, veri ve ekip desteğine bağlıyor.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## D. Çeviri ve düzeltme
+16. `Enviaré el informe mañana.` — Raporu yarın göndereceğim.
+17. `¿Podrías enviarme tu currículum?` — Bana özgeçmişini gönderebilir misin?
+18. `A largo plazo dirigiré un equipo.` — Uzun vadede ekip yöneteceğim.
+19. `Tendré tiempo.` — Düzensiz gelecek kökü.
+20. `¿Podrías enviar el informe?` — Yardımcıdan sonra mastar.
+21. `Voy a trabajar.` — `ir a`dan sonra mastar.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `A largo plazo, Mina dirigirá un equipo y mejorará sus habilidades.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Dos colegas hablan de una solicitud de trabajo. Uno promete enviar un borrador y la otra persona ofrecerá comentarios.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-anlati-ve-gecmis-zaman-kontrolu/01-konu.md) · [Sonraki modül →](../03-gorus-gerekce-ve-tartisma/01-konu.md)
+## Hata ve tekrar
+
+Bu modülün üç hata türü: Düzensiz gelecek kökü.; Yardımcıdan sonra mastar.; `ir a`dan sonra mastar.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ B1](../README.md) · [Sonraki modül →](../03-gorus-gerekce-ve-tartisma/01-konu.md)

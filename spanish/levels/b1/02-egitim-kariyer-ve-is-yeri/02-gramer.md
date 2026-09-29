@@ -1,29 +1,25 @@
-# Dilbilgisi — Eğitim, kariyer ve iş yeri
+# Dilbilgisi · Eğitim, kariyer ve iş yeri
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-gelecek zaman; koşul kipi; olasılık ve varsayım.
+## Futuro simple
 
-Basit gelecek: mastar + `-é, -ás, -á, -emos, -éis, -án`; düzensiz kökler `tendr-, podr-, saldr-, har-, dir-, querr-`. Koşul kipi mastar + `-ía...`; nazik istek ve varsayım: `¿Podrías enviarlo?`. Gelecek, şimdiki ana dair olasılık da bildirir: `Estará en la oficina` = herhalde ofistedir.
+Mastara `-é, -ás, -á, -emos, -éis, -án` eklenir: `trabajaré, trabajarás, trabajará, trabajaremos, trabajaréis, trabajarán`. `comeré`, `viviré` de aynı sonları alır. Sık düzensiz kök: `tendr-` (tener), `podr-` (poder), `saldr-` (salir), `vendr-` (venir), `dir-` (decir), `har-` (hacer), `querr-` (querer), `sabr-` (saber). Gelecek yalnızca zaman değildir: `Estará en una reunión` — Herhalde toplantıdadır (şimdiki ana dair tahmin).
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Condicional simple
 
-## Kullanım
+Aynı mastar/kök üzerine `-ía, -ías, -ía, -íamos, -íais, -ían`: `trabajaría`, `tendría`, `podría`. Nazik istek: `¿Podrías enviarme el informe?` — Raporu bana gönderebilir misin? Varsayım: `Con más tiempo, estudiaría otro idioma` — Daha çok vaktim olsa başka dil öğrenirdim. Geçmişteki olasılık: `Serían las diez cuando llamó` — Aradığında saat herhalde ondu.
 
-- **Olumlu:** `En unos años trabajaré en un equipo internacional.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## `ir a` ile karşılaştır
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Voy a solicitar el puesto` somut niyet; `Solicitaré el puesto` vaat/karar/tahmin bağlamında kullanılabilir. Kesinlik farkını yalnızca biçim belirlemez; bağlam, ton ve zaman zarfı da etkiler. Türkçe “-ecek” hem niyet hem tahmin olabilir; İspanyolcada amaçla biçimi seç.
 
-## Türkçe konuşanlar için dikkat
+## Profesyonel kayıt
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Le agradecería que me enviara el informe` daha resmî, subjuntivo içerir; `¿Podría enviarme el informe?` daha kısa nazik rica. `Necesito` doğrudan ihtiyaç bildirir; uygun hitap ve gerekçe eklemek kaydı ayarlar.
 
-## Kısa karşılaştırma
+❌ `*Teneré tiempo` ✅ `Tendré tiempo`. ❌ `*Podría envías el informe` ✅ `Podrías enviar el informe` (samimi) / `¿Podría enviarme el informe?` (nazik). ❌ `*Voy a trabajaré` ✅ `Voy a trabajar` veya `Trabajaré`.
 
-- İspanyolca: `En unos años trabajaré en un equipo internacional.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Üç kariyer hedefi, iki olasılık ve bir nazik iş ricası kur.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-anlati-ve-gecmis-zaman-kontrolu/01-konu.md) · [Sonraki modül →](../03-gorus-gerekce-ve-tartisma/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

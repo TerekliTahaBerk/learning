@@ -1,31 +1,48 @@
-# Cevaplar ve tekrar — İleri se kullanımları ve pasif yapılar
+# Cevaplar ve birikimli tekrar · İleri `se` kullanımları ve pasif yapılar
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: pasif se, impersonal se, dönüşlü/karşılıklı se ayrımı. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `Se buscan soluciones; aquí se trabaja con datos anónimos.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `la responsabilidad` — sorumluluk. La responsabilidad debe quedar clara. — Sorumluluk açık olmalı.
+2. `el agente` — eylemi yapan. El agente no aparece. — Fail belirtilmiyor.
+3. `la acción` — eylem. La acción se completó. — Eylem tamamlandı.
+4. `el proceso` — süreç. Se revisó el proceso. — Süreç incelendi.
+5. `el resultado` — sonuç. Se publicaron los resultados. — Sonuçlar yayımlandı.
 
-## Sık hata
+## B. Biçim
+6. `publicaron` — Çoğul özne uyumu.
+7. `entrevistó` — Belirli kişi nesnesi.
+8. `olvidó` — Tekil etkilenen şey.
+9. `olvidaron` — Çoğul etkilenen şey.
+10. `fueron` — Edilgen olay.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Fail ve arızanın süreçteki yeri açıklanmıyor.
+12. Teknik ekip; arama, telefonla teyit, protokol ve kayıt.
+13. Kendi mesajı kontrol etmemesini; hastanenin sorumluluğunun bittiğini kanıtlamaz.
+14. Tek kişi deneyimini tüm hastalara genelliyor ve sorumluluk odağını değiştiriyor.
+15. Kamusal hesap verme gerektiğinde fail açıkça belirtilmeli.
 
-## Aktif hatırlama
+**Ek okuma yanıtı:** Hesap verme ihtiyacı ve soruşturma bitmeden haksız kişisel suçlama riskine göre.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## D. Çeviri ve düzeltme
+16. `Se entrevistó a diez personas.` — On kişiyle görüşüldü.
+17. `Se nos olvidaron las llaves.` — Anahtarları unuttuk.
+18. `El hospital publicó los resultados.` — Hastane sonuçları yayımladı.
+19. `Se vende la casa.` — Pasif `se` tekil özne.
+20. `Se entrevistó a las personas.` — Kişisiz `se`.
+21. `Se me olvidó la cita.` — Tekil etkilenen şey.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `Se publicaron los resultados, pero el hospital debe explicar quién responderá por los errores.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Dos personas comparan una nota impersonal con la explicación posterior del equipo técnico. Piden aclarar responsabilidad y próximos pasos.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-dolayli-anlatim-ve-kayit/01-konu.md) · [Sonraki modül →](../06-baglaclar-ve-soylem-organizasyonu/01-konu.md)
+## Hata ve tekrar
+
+Bu modülün üç hata türü: Pasif `se` tekil özne.; Kişisiz `se`.; Tekil etkilenen şey.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ B2](../README.md) · [Sonraki modül →](../06-baglaclar-ve-soylem-organizasyonu/01-konu.md)

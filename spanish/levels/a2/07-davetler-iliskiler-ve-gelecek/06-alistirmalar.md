@@ -1,32 +1,42 @@
-# Alıştırmalar — Davetler, ilişkiler ve gelecek planı
+# Alıştırmalar · Davetler, ilişkiler ve gelecek planı
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “davet” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “parti/kutlama” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “kutlama” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “doğum günü” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “akşam yemeği” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `¿Te apetece venir a cenar? Acabo de llegar a casa.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Acabo ___ llegar.
+7. Seguimos ___ piso. (buscar)
+8. ¿Te apetece ___? (venir)
+9. Voy a ___ a llamar. (yeniden)
+10. ___ de trabajar allí. (yo, dejar geçmiş)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Paula daveti hangi gün için yapıyor?
+12. Deniz neden geç gelecek ve nasıl haber veriyor?
+13. Lucas daveti nasıl reddedip ilişkiyi sürdürüyor?
+14. Paula restoran aramayı hangi periphrasis ile sürdürüyor?
+15. Deniz’in geç kalması neden sorun olmuyor?
 
-3. `¿Te apetece venir a cenar? Acabo de llegar a casa.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Az önce eve geldim.”
+17. Türkçeden İspanyolcaya: “Cumartesi gelmek ister misin?”
+18. Türkçeden İspanyolcaya: “Pazar nasıl?”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Acabo llegar.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Seguimos buscar piso.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*¿Te apetece vienes?`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir davet yaz; nazikçe kabul et veya başka tarih öner.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `¿Te apetece venir a cenar? Acabo de llegar a casa.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-karsilastirma-sehir-ve-hizmetler/01-konu.md) · [Sonraki modül →](../08-a2-butunlestirme-ve-anlati/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A2](../README.md)

@@ -1,7 +1,15 @@
-# B1 Yazma Değerlendirmesi
+# B1 yazma değerlendirmesi
 
-Seviyene uygun bir modül teması seç. A1: kısa mesaj/tanıtım; A2: e-posta/anı; B1: görüş/şikâyet/özet; B2: argüman/rapor/kaynak sentezi. Üst uzunluk hedefi final sınavında belirtilmiştir.
+## Görev
 
-Düzenleme turu: (1) görev ve okur, (2) paragraf ve bağlaç, (3) fiil-zaman-kip, (4) artikel/uyum/zamir, (5) aksan ve noktalama.
+200–230 kelimelik rapor/görüş: sorun, veri, karşı görüş, öneri ve koşullu sonuç.
 
-Puan (20): görev 0–4, düzen 0–4, dil kontrolü 0–4, kelime 0–4, yazım/kayıt 0–4. Yanlış cümleleri ayrı hata günlüğüne al; metni iki gün sonra yeniden yaz.
+İlk taslağı sözlük olmadan yaz; sonra hedef yapıların altını çiz ve ikinci sürümü oluştur. [Final yanıt anahtarındaki](06-final-exam-answers.md) örnek metni yalnız kendi taslağından sonra incele.
+
+## Ölçütler (20 puan)
+
+- Görev ve içerik: 8
+- Dil doğruluğu: 6
+- Bütünlük, bağlaçlar ve sözcük seçimi: 6
+
+**Denetim:** Ana fikir, gerekçe, karşı görüş ve öneri kurulur., Geçmiş zaman katmanları, subjuntivo ve koşul işlevsel kullanılır., Bağlı paragraf ve uygun üslup korunur.

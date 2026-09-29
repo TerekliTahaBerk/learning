@@ -1,29 +1,27 @@
-# Dilbilgisi — Kimlik, ülkeler ve meslekler
+# Dilbilgisi · Kimlik, ülkeler ve meslekler
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-ser/tener, eril-dişil, tekil-çoğul, belirsiz/belirli artikeller.
+## İsim, artikel ve sayı
 
-İsimlerin çoğulunda ünlüden sonra `-s`, ünsüzden sonra `-es` gelir: `libro/libros`, `ciudad/ciudades`. Belirli artikeller `el/la/los/las`, belirsizler `un/una/unos/unas`. Meslek ve milliyet sıfat/isimlerinde cinsiyet ve sayı uyumunu öğren: `un profesor español`, `una profesora española`. Yaş `tener` ile: `Tengo 22 años`. `ser` kimlik, milliyet ve meslek bildirir.
+Türkçede `bir` belirsizlik gösterebilir, ancak belirli artikel yoktur. İspanyolcada ismi öğrenirken artikelini de öğren: `el país` (ülke), `la ciudad` (şehir). `el/la` belirli, `un/una` belirsizdir; çoğulları `los/las`, `unos/unas`. Tekil sayılabilen isim çoğu bağlamda artikelsiz bırakılmaz: `Tengo un libro.` — Bir kitabım var. Meslek genel kimlik olarak `ser`den sonra artikelsiz olabilir: `Soy médica.` — Doktorum. Niteleme eklenirse artikel doğaldır: `Es una médica excelente.` — Harika bir doktor.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+Çoğul genellikle ünlüden sonra `-s`, ünsüzden sonra `-es`: `el país → los países`, `la profesora → las profesoras`. Her `-o` eril, her `-a` dişil değildir; `la mano`, `el día` gibi sözcükleri artikel ile öğren.
 
-## Kullanım
+## Kimlik ve yaş
 
-- **Olumlu:** `Tengo 22 años. Soy turco y estudio español.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+`ser` köken, milliyet, meslek için: `Soy turca`, `Eres estudiante`, `Somos de İzmir`. Milliyet sıfatı özneyle uyumlanır: `turco/turca/turcos/turcas`; dil adı çoğu zaman eril isimdir: `el turco`, `el español`. `Hablo español` cümlesinde dil adı artikelsizdir. Yaş için `tener + sayı + años`: `Tengo veintidós años.` — Yirmi iki yaşındayım. `¿Cuántos años tienes?` — Kaç yaşındasın?
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Sayıların temeli
 
-## Türkçe konuşanlar için dikkat
+`cero, uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez; once, doce, trece, catorce, quince; veinte, treinta, cuarenta, cincuenta, cien`. 21–29 birleşik yazılır: `veintiuno`, isim önünde `veintiún años` ve `veintiuna personas`. `treinta y dos` gibi onluklar ayrı yazılır.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+## Soru ve hata
 
-## Kısa karşılaştırma
+`¿De qué país eres?` — Hangi ülkedensin? `¿A qué te dedicas?` — Ne iş yapıyorsun? `¿Qué idiomas hablas?` — Hangi dilleri konuşuyorsun?
 
-- İspanyolca: `Tengo 22 años. Soy turco y estudio español.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+❌ `*Soy 22 años.` ✅ `Tengo 22 años.` Türkçedeki “yaşındayım” ekine bakıp `ser` seçilmez. ❌ `*Soy un estudiante` her zaman gerekli sanmak ✅ `Soy estudiante.` Genel meslek/öğrencilik kimliğinde artikel kullanılmayabilir. ❌ `*La profesor turco` ✅ `La profesora turca.` İsim ve sıfat uyumlanır.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-selamlasma-ve-tanisma/01-konu.md) · [Sonraki modül →](../03-aile-ve-insanlari-tanimlama/01-konu.md)
+**Mini uygulama:** Kendi yaşını, mesleğini/öğrenciliğini, bildiğin iki dili söyle. Bir kişinin milliyetini eril ve dişil biçimde dönüştür.
+
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

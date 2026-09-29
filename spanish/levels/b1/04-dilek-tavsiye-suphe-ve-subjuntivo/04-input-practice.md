@@ -1,30 +1,37 @@
-# Girdi ve anlama — Dilek, tavsiye, şüphe ve subjuntivo
+# Okuma ve dinleme · Dilek, tavsiye, şüphe ve subjuntivo
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-Me alegra que hayas encontrado una solución; dudo que sea permanente.
+> Un grupo de vecinos quiere organizar un huerto comunitario en un terreno vacío. La idea gusta a muchas personas, pero hay dudas sobre el agua y el mantenimiento. En la reunión, Clara dice: “Quiero que el ayuntamiento nos dé permiso antes de comprar materiales”. Un vecino propone empezar de inmediato; Clara responde que es mejor que primero calculen el coste. Otro participante se alegra de que varias familias estén dispuestas a ayudar. Sin embargo, le preocupa que el proyecto dependa solo de voluntarios durante el verano. Deciden escribir al ayuntamiento para que explique las condiciones de uso del terreno. También piden que una persona con experiencia revise el plan de riego. Nadie afirma que el huerto vaya a resolver todos los problemas del barrio. La mayoría cree que puede crear un lugar de encuentro y enseñar a los niños de dónde vienen algunos alimentos. Acuerdan reunirse otra vez cuando reciban una respuesta. Después Clara envía un resumen breve y pide a todos que añadan sus preguntas antes del viernes.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Clara hangi işi malzeme almadan önce istiyor?
+2. Hangi iki endişe dile getiriliyor?
+3. Belediyeye neden yazıyorlar?
+4. Kimden hangi teknik bilgi isteniyor?
+5. Metin niçin “huerto bütün sorunları çözmez” sınırı koyuyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Ek okuma: metne yeni bilgi
 
-## Gözlem
+> Antes de terminar la reunión, Clara distinguió dos acuerdos. Todos querían que el ayuntamiento respondiera; solo algunos estaban dispuestos a trabajar cada semana en el huerto. Por eso pidió que cada persona indicara cuánto tiempo podía ofrecer. Esperaba que esa información evitara promesas imposibles. No dudaba de la buena intención del grupo, pero sí de que bastara sin una organización clara.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+**Çıkarım sorusu:** Clara hangi iki tutumu ayırıyor?
 
-## Dikte
+## Dinleme / TTS metni
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gorus-gerekce-ve-tartisma/01-konu.md) · [Sonraki modül →](../05-kosullar-olasilar-ve-oneriler/01-konu.md)
+> — Quiero que participes en la reunión del jueves. — Me gustaría, pero no estoy seguro de que pueda salir temprano del trabajo. — Entiendo. ¿Quieres que te enviemos un resumen? — Sí, por favor. Me alegra que estéis organizando el huerto. — Nos preocupa que falte agua en verano. — Entonces sugiero que habléis con una persona experta antes de comprar nada. — Buena idea. Le escribiré para que nos explique las opciones. — Espero que salga bien.
+
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
+
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ B1](../README.md)

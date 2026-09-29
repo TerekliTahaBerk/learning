@@ -1,32 +1,50 @@
-# Alıştırmalar — Selamlaşma ve tanışma
+# Alıştırmalar · Tanışma
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Notlarını kapat. Kapalı soruların her birinin cevabı [anahtarda](07-cevaplar-ve-tekrar.md) bulunur. Açık üretim için model yanıt verilmiştir.
 
-## A. Hatırlama
+## A. Tanıma ve eşleştirme
 
-1. `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+1. `Buenos días` sabah mı akşam mı kullanılır?
+2. `¿Cómo se llama usted?` samimi mi nazik mi?
+3. `¿De dónde eres?` ad mı köken mi sorar?
+4. `Igualmente` hangi ifadeye doğal yanıttır: `Mucho gusto` / `¿De dónde eres?`?
+5. `No entiendo` cümlesinden sonra hangi rica gelir: `¿Puedes repetir?` / `Adiós`?
 
-## B. Boşluk doldurma
+## B. Çekim ve boşluk
 
-3. `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+6. Yo ___ de Ankara. (`ser`)
+7. Tú ___ de Madrid. (`ser`)
+8. Ella ___ Paula. (`ser`)
+9. Nosotros ___ de Turquía. (`ser`)
+10. Ustedes ___ de Valencia. (`ser`)
+11. Yo ___ Deniz. (`llamarse`)
+12. ¿Cómo ___ tú? (`llamarse`)
+13. Ella ___ Lucía. (`llamarse`)
+14. ¿Cómo ___ usted? (`llamarse`)
+15. Ellos ___ Ali y Marta. (`llamarse`)
 
-## C. Çeviri ve kurma
+## C. Yazım, sözcük sırası, seçim
 
-6. Türkçeden İspanyolcaya: “Yeni tanıştığın birine adını, nereli olduğunu ve nasılsın sorusunu yönelt.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
+16. Soru işaretleri ve aksanı ekle: `Como te llamas?`
+17. Soru işaretleri ve aksanı ekle: `De donde eres?`
+18. Düzelt: `*Yo es Deniz.`
+19. Düzelt: `*Mi llamo Elif.`
+20. Düzelt: `*No soy de la Turquía.`
+21. Arkadaşına mı, kurs görevlisine mi? `¿Cómo se llama usted?`
+22. `tú` ile `tu` arasındaki anlam farkını birer Türkçe sözcükle yaz.
 
-## D. Düzeltme
+## D. Çeviri ve diyalog
 
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
+23. “Adım Ayşe.” İspanyolcaya çevir.
+24. “Nerelisin?” İspanyolcaya çevir (samimi).
+25. “Anlamıyorum. Daha yavaş, lütfen.” İspanyolcaya çevir.
+26. `Soy de Valencia.` Türkçeye çevir.
+27. `¿Puede repetir el nombre, por favor?` Türkçeye çevir.
+28. Diyaloğu tamamla: — Hola, ___? — Me llamo Can. ¿Y tú? — ___ Marta. Mucho gusto. — ___.
 
-## E. Serbest üretim
+## E. Üretim
 
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
+29. Üç cümleyle kendini tanıt ve karşı tarafa iki soru sor.
+30. 20–30 saniyelik ilk karşılaşma diyaloğu kaydet; anlaşılmadığında tekrar istemeyi ekle.
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-kimlik-ulkeler-ve-meslekler/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar ve tekrar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

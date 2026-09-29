@@ -1,32 +1,42 @@
-# Alıştırmalar — Boş zaman, hava ve planlar
+# Alıştırmalar · Boş zaman, hava ve planlar
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “hava durumu” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “güneş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “yağmur” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “rüzgâr” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “ilkbahar” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `El sábado voy a visitar un museo porque me interesa el arte.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Yo ___ a visitar un museo. (ir)
+7. Nosotros ___ a cocinar. (ir)
+8. Ahora Ece está ___. (leer)
+9. Hoy ___ frío. (hacer)
+10. Quiero salir, ___ llueve. (karşıtlık)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. İlk planları hangi iki seçenek arasında?
+12. Müzeye neden otobüsle gidiyorlar?
+13. Hava değişince nereye giriyorlar?
+14. Pazar için hangi üç etkinliği planlıyorlar?
+15. `está leyendo` neyi, `va a hacer frío` neyi belirtir?
 
-3. `El sábado voy a visitar un museo porque me interesa el arte.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Yarın müzeye gideceğim.”
+17. Türkçeden İspanyolcaya: “Şu anda kitap okuyorum.”
+18. Türkçeden İspanyolcaya: “Hava soğuk ama yürümek istiyorum.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Voy visitar el museo.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Estoy leo.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Voy a visitaré.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Hafta sonu için iki plan öner ve kabul/ret et.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `El sábado voy a visitar un museo porque me interesa el arte.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-alisveris-kiyafet-ve-fiyatlar/01-konu.md) · [Sonraki modül →](../09-saglik-vucut-ve-yolculuk/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

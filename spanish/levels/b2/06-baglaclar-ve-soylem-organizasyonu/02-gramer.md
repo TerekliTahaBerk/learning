@@ -1,29 +1,25 @@
-# Dilbilgisi — Bağlaçlar ve söylem organizasyonu
+# Dilbilgisi · Bağlaçlar ve söylem organizasyonu
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-concesivas, causales, consecutivas, finales, temporales.
+## İlişkiyi seç, bağlacı sonra seç
 
-Olgu olarak sunulan `aunque + indicativo`; olasılık/taviz `aunque + subjuntivo`. Neden: `dado que/puesto que + indicativo`; amaç: `para que + subjuntivo`; sonuç: `de ahí que + subjuntivo`; gelecek/bitmemiş olay zamanında `cuando + subjuntivo`, alışkanlık/gerçek zamanda `cuando + indicativo`.
+`porque/ya que/dado que` neden sunar; `por tanto/por consiguiente` sonuç; `para que/a fin de que` amaç; `aunque/aun cuando/si bien` taviz. Bunlar birbirinin süslü eşanlamlısı değildir. `Dado que` bilinen gerekçeyi öne alabilir: `Dado que faltan datos, aplazamos la decisión`. `De ahí que` çıkarım sonucu ve subjuntivo: `Faltan datos; de ahí que sea prudente esperar`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Kip kararı
 
-## Kullanım
+`Aunque los datos son limitados, decidimos publicar` — Sınırlılık bilinen olgu. `Aunque los datos sean limitados, publicaríamos un resumen` — Sınırlı olsalar bile, ihtimal/taviz. `Aunque los datos fueran limitados, habría que explicarlos` — Daha uzak varsayım. `Cuando llegue el informe, lo revisaré` gelecekte henüz gerçekleşmemiş zaman; subjuntivo. `Cuando llega el informe, siempre lo reviso` alışkanlık; indicativo. `Para que el lector lo entienda` amaç; subjuntivo.
 
-- **Olumlu:** `Aun cuando los datos son limitados, la tendencia resulta clara.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Resmî ve gündelik kayıt
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Porque` her düzeyde doğal; sırf B2 görünmek için `dado que`yi her cümleye koyma. `Sin embargo` konuşma ve yazıda yaygın; `no obstante` daha resmî olabilir. Noktalama: `Sin embargo, faltan datos.` cümle başında virgül; `faltan datos; sin embargo, debemos decidir` iki ana cümleyi noktalı virgülle bağlayabilir. `Aunque` ile başlayan yan cümleden sonra virgül: `Aunque faltan datos, decidiremos`.
 
-## Türkçe konuşanlar için dikkat
+## Argüman mimarisi
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+Tez → gerekçe → kanıt/örnek → sınır/karşı sav → sonuç. `En primer lugar` sıralar, `en cambio` seçenekleri karşılaştırır, `es decir` açıklar, `en definitiva` sonuçlandırır. Bağlayıcının taşıdığı mantıksal ilişki yoksa sözcüğü çıkar. Türkçe uzun yan cümleleri bire bir zincirlemek yerine iddia ve dayanağı kısa cümlelerde görünür kıl.
 
-## Kısa karşılaştırma
+❌ `*Para que entiendes` ✅ `Para que entiendas`. ❌ `*Cuando llegará, lo llamaré` ✅ `Cuando llegue, lo llamaré`. ❌ `*Faltan datos, de ahí que es prudente esperar` ✅ `... de ahí que sea prudente esperar`.
 
-- İspanyolca: `Aun cuando los datos son limitados, la tendencia resulta clara.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Aynı veriyi bilinen neden, açık taviz ve sonuç olarak üç ayrı ilişkiyle yaz; anlam farkını belirt.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-ileri-se-ve-pasif-yapilar/01-konu.md) · [Sonraki modül →](../07-iliskili-yapilar-vurgulama-ve-adlastirma/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

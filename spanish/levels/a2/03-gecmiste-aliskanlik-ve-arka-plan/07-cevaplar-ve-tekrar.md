@@ -1,31 +1,46 @@
-# Cevaplar ve tekrar — Geçmişte alışkanlık ve arka plan
+# Cevaplar ve birikimli tekrar · Geçmişte alışkanlık ve arka plan
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: imperfecto; indefinido/imperfecto ayrımı. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `Cuando era niño, jugaba en la calle.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `la infancia` — çocukluk. Recuerdo mi infancia. — Çocukluğumu hatırlıyorum.
+2. `el recuerdo` — anı. Tengo muchos recuerdos. — Çok anım var.
+3. `la costumbre` — alışkanlık. Era una costumbre familiar. — Aile alışkanlığıydı.
+4. `la casa` — ev. La casa era pequeña. — Ev küçüktü.
+5. `el jardín` — bahçe. Teníamos un jardín. — Bahçemiz vardı.
 
-## Sık hata
+## B. Biçim
+6. `jugaba` — Alışkanlık.
+7. `tenía` — Geçmiş tasvir.
+8. `íbamos` — Düzensiz imperfecto.
+9. `Eran` — Saat dokuz çoğul.
+10. `leía` — Kesilen süreç.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Deniz kenarında küçük bir evde.
+12. Okula yürüyerek gider, öğleden sonra avluda oynardı.
+13. Yağmur yağıyordu; herkes evdeydi/anlatıcı okuyordu.
+14. Baba el feneri aradı; büyükanne hikâye anlatmaya başladı.
+15. Yağmur sürmekte olan arka plan; kesinti olay çizgisini ilerletir.
 
-## Aktif hatırlama
+## D. Çeviri ve düzeltme
+16. `De niña vivía en este barrio.` — Çocukken bu mahallede yaşardım.
+17. `Leía cuando sonó el teléfono.` — Telefon çaldığında okuyordum.
+18. `Eran las nueve y llovía.` — Saat dokuzdu ve yağmur yağıyordu.
+19. `Cuando era niño, jugaba cada tarde.` — Alışkanlık imperfecto.
+20. `Eran las nueve.` — Saat dokuz çoğul.
+21. `Leía y de repente sonó el teléfono.` — Ani tek olay indefinido.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `De niño jugaba en el patio cuando hacía buen tiempo.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Una persona recuerda su antiguo barrio y sus visitas a la abuela. Un día empezó a llover y los niños corrieron a su casa.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## Hata ve tekrar
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-gecmiste-olaylar-ve-anilar/01-konu.md) · [Sonraki modül →](../04-seyahat-konaklama-ve-sorun-cozme/01-konu.md)
+Bu modülün üç hata türü: Alışkanlık imperfecto.; Saat dokuz çoğul.; Ani tek olay indefinido.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ A2](../README.md) · [Sonraki modül →](../04-seyahat-konaklama-ve-sorun-cozme/01-konu.md)

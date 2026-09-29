@@ -1,29 +1,25 @@
-# Dilbilgisi — Ev ve şehir
+# Dilbilgisi · Ev ve şehir
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-hay/estar/ser, işaret sıfatları, yer edatları.
+## `hay` ile `estar`
 
-`Hay` belirsiz varlık tanıtır: `Hay una plaza`. `Estar` bilinen nesnenin konumunu söyler: `La plaza está aquí`. `ser` etkinlik yeri/zamanı veya tanımda kullanılır. Yer kalıpları: `al lado de`, `enfrente de`, `entre`, `detrás de`, `cerca de`; `a + el = al`, `de + el = del`.
+`Hay` bir şeyin varlığını bildirir: `Hay una farmacia en la calle.` — Sokakta bir eczane var. `Estar` bilinen/belirli şeyin yerini söyler: `La farmacia está al lado del banco.` — Eczane bankanın yanında. İspanyolcada `*Hay la farmacia` standart yer belirtimi değildir; varlığı ilk kez tanıtıyorsan `hay una`, yerini soruyorsan `¿Dónde está la...?`. Türkçedeki “eczane var/eczane burada” farkını düşün. `hay` hem tekil hem çoğulda aynıdır: `Hay una silla`, `Hay tres sillas`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## `tener` ve ev
 
-## Kullanım
+`Mi piso tiene dos habitaciones` — Dairemde iki oda var. Ev gibi bir bütünün parçalarını `tener` ile belirtmek doğaldır. `En el salón hay una mesa` — Salonda bir masa var. İsimden sonra yer belirlemek için `estar`: `La mesa está junto a la ventana`.
 
-- **Olumlu:** `Hay una farmacia cerca de mi casa. Está al lado del banco.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## İşaret ve yer
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+Yakında `este/esta/estos/estas`; dinleyiciye yakın veya orta uzaklıkta `ese/esa/esos/esas`; uzakta `aquel/aquella/aquellos/aquellas`. İsimle uyumlanır: `esta casa`, `estos edificios`. `Aquí` burada, `ahí` orada/yakında, `allí` orada/uzakta. Yer ifadeleri: `a la derecha de`, `a la izquierda de`, `delante de`, `detrás de`, `entre`, `al lado de`, `enfrente de`. `a + el = al`, `de + el = del`.
 
-## Türkçe konuşanlar için dikkat
+## Yol tarifi
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`¿Dónde está la estación?` — İstasyon nerede? `Sigue recto` — Dümdüz git. `Gira a la izquierda` — Sola dön. Bunlar A1'de hazır iletişim kalıbı; emir çekimini A2'de sistematik öğreneceksin.
 
-## Kısa karşılaştırma
+❌ `*Hay el banco aquí.` ✅ `El banco está aquí.` Belirli yerin konumu. ❌ `*Esta libro` ✅ `Este libro.` Eril uyum. ❌ `*La mesa es en la cocina.` ✅ `La mesa está en la cocina.` Konum `estar`.
 
-- İspanyolca: `Hay una farmacia cerca de mi casa. Está al lado del banco.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Odanda üç nesne tanıt (`hay`), sonra ikisinin yerini belirt (`estar`).
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-gunler-tarih-saat-ve-rutin/01-konu.md) · [Sonraki modül →](../06-yemek-ve-restoran/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

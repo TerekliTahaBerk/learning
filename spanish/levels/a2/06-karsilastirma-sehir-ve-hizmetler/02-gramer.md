@@ -1,29 +1,21 @@
-# Dilbilgisi — Karşılaştırma, şehir ve hizmetler
+# Dilbilgisi · Karşılaştırma, şehir ve hizmetler
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-karşılaştırma/üstünlük; belirsiz ve olumsuz sözcükler; se.
+## Karşılaştırma ve üstünlük
 
-Karşılaştırma `más/menos + sıfat + que`; eşitlik `tan + sıfat + como`; isim miktarı `más libros que`. Üstünlük `el/la más... de`. Belirsiz/olumsuz: `algo/nada`, `alguien/nadie`, `algún/ningún`; iki olumsuz unsur uyum sağlar: `No vi a nadie`. `que` kişi/eşya, `donde` yer için ilgi zamiri.
+`más/menos + sıfat + que`: `Este barrio es más tranquilo que el centro.` — Bu mahalle merkezden daha sakin. Eşitlik `tan + sıfat + como`: `Es tan cómodo como el metro.` — Metro kadar rahat. İsim miktarı `más/menos + isim + que`: `Hay menos autobuses que antes.` Üstünlük `el/la/los/las más + sıfat + de`: `Es el barrio más tranquilo de la ciudad`. Düzensiz karşılaştırma: `bueno→mejor`, `malo→peor`, `grande→mayor` bazı anlamlarda, `pequeño→menor` bazı anlamlarda. `más bueno` bazı bağlamlarda mümkün olsa da temel kalite karşılaştırmasında `mejor` öğren.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Belirsiz ve olumsuz sözcükler
 
-## Kullanım
+`algo/nada` bir şey/hiçbir şey; `alguien/nadie` biri/kimse; `algún/ningún` isimden önce: `algún servicio`, `ningún servicio`. `No hay nadie` doğal çift olumsuzluk düzenidir; Türkçedeki “kimse yok”la anlamca uyumlu ama İspanyolca söz dizimini öğren. `Nadie vino` baştaysa ayrıca `no` gerekmez. `No vi a nadie` belirli insan nesnesinde `a` kullanır.
 
-- **Olumlu:** `Este barrio es más tranquilo que el centro.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## `que`, `donde`, kişisiz `se`
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Un barrio que tiene parques` — parkları olan bir mahalle. `La plaza donde quedamos` — buluştuğumuz meydan. `En este barrio se vive bien` — Bu mahallede iyi yaşanır; özne belirsizdir. Başlangıçta bu kalıbı tanı; B1/B2'de pasif ve kişisiz `se` ayrımını açacağız.
 
-## Türkçe konuşanlar için dikkat
+❌ `*más mejor` ✅ `mejor`. ❌ `*No hay nadie servicio` ✅ `No hay ningún servicio`. ❌ `*El barrio donde tiene parques` ✅ `El barrio que tiene parques`. `donde` yer yan cümlesinde yer ilişkisi ister.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+**Mini uygulama:** İki semti üç ölçüte göre karşılaştır; bir üstünlük ve bir olumsuzluk cümlesi kur.
 
-## Kısa karşılaştırma
-
-- İspanyolca: `Este barrio es más tranquilo que el centro.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md) · [Sonraki modül →](../07-davetler-iliskiler-ve-gelecek/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

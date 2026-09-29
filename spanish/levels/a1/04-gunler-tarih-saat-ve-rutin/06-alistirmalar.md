@@ -1,32 +1,42 @@
-# Alıştırmalar — Günler, tarih, saat ve rutin
+# Alıştırmalar · Günler, tarih, saat ve rutin
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “pazartesi” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “salı” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “çarşamba” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “perşembe” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “cuma” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Me levanto a las siete; normalmente desayuno en casa.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Yo ___ español cada día. (estudiar)
+7. Nosotros ___ en casa. (comer)
+8. Ella ___ a las siete. (levantarse)
+9. ¿Qué hora es? ___ la una.
+10. ___ las ocho y media.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Derya saat kaçta uyanıyor, kaçta kalkıyor?
+12. İşe hangi araçla gidiyor?
+13. Öğleden sonra İspanyolcaya ne kadar zaman ayırıyor?
+14. Pazartesi gecesi ne yapıyor?
+15. Cumartesi programı nasıl farklı?
 
-3. `Me levanto a las siete; normalmente desayuno en casa.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Her gün yedide kalkarım.”
+17. Türkçeden İspanyolcaya: “Salı günü saat dokuzda dersim var.”
+18. Türkçeden İspanyolcaya: “Bazen gece okurum.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Yo habla español.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Son la una.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Me levantas a las siete.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir hafta içi gününü saatlerle anlat.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Me levanto a las siete; normalmente desayuno en casa.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-aile-ve-insanlari-tanimlama/01-konu.md) · [Sonraki modül →](../05-ev-ve-sehir/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A1](../README.md)

@@ -1,32 +1,42 @@
-# Alıştırmalar — B2 bütünleştirme: argümantasyon ve profesyonel iletişim
+# Alıştırmalar · B2 bütünleştirme: argümantasyon ve profesyonel iletişim
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “tez” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “sav” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “karşı sav” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “kanıt” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “belirti” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Insisto ___ revisar los datos.
+7. El plan carece ___ información.
+8. Lo apoyo siempre que se ___. (evaluar)
+9. Aunque la muestra ___ pequeña, el resultado interesa. (ser, bilinen)
+10. Si los datos contradijeran la previsión, ___ el plan. (revisar, nosotros)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Metnin tezi ve koşulu nedir?
+12. İki rapor niçin doğrudan çelişmiyor?
+13. Karşı savın en güçlü yönü ne, yazar nasıl yanıtlıyor?
+14. Eşitlik paragrafı hangi yeni ölçütü ekliyor?
+15. Sonuç, hangi durumda politikanın değişmesi gerektiğini nasıl açık bırakıyor?
 
-3. `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Yöntem açıklandığı sürece öneriyi desteklerim.”
+17. Türkçeden İspanyolcaya: “Rapor veriden yoksun.”
+18. Türkçeden İspanyolcaya: “Doğru anladıysam aşamalı uygulama öneriyorsun.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Insistió a cambiar.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Carece datos.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Siempre que funciona, lo apoyaré.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “900 kelimeye kadar rapor/deneme, kaynak özeti ve 5 dakikalık sunum üret.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-iliskili-yapilar-vurgulama-ve-adlastirma/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

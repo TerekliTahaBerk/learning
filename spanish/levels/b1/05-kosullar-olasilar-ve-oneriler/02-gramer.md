@@ -1,29 +1,23 @@
-# Dilbilgisi — Koşullar, olasılıklar ve öneriler
+# Dilbilgisi · Koşullar, olasılıklar ve öneriler
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-si + presente/futuro; si + imperfecto de subjuntivo + condicional tanıtım.
+## Açık koşul
 
-Bu yapının biçimini, anlamını ve bağlamını birlikte öğren. Önce örneği anla; sonra özne, zaman veya ortamı değiştirerek yeni cümle kur. Uygun olduğunda Türkçe karşılığın aynı söz dizimini kullanmadığını denetle.
+`Si + presente, presente/futuro/imperativo`: `Si llueve, nos quedamos`; `Si llueve, nos quedaremos`; `Si llueve, llama`. Şart gerçekleşebilir. `si` yan cümlesinde standart bu yapıda gelecek kullanılmaz: ❌ `*Si lloverá` ✅ `Si llueve`. Türkçede “yağarsa kalacağız” gelecek/şart ekleriyle kurulur; İspanyolcada koşulun fiili şimdiki olabilir.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Şimdiki/gelecek için varsayım
 
-## Kullanım
+`Si + imperfecto de subjuntivo, condicional simple`: `Si tuviera más tiempo, estudiaría otro idioma.` — Daha çok vaktim olsa başka bir dil çalışırdım. Bu, mevcut durumda olasılığın düşük/varsayımsal olduğunu gösterir; mutlak imkânsızlık değildir. `Si pudiera, iría` — Yapabilsem giderdim.
 
-- **Olumlu:** `Si tuviera más tiempo, aprendería otro idioma.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+Imperfecto de subjuntivo için üçüncü çoğul indefinido biçiminden `-ron` çıkarılır: `tuvieron → tuviera/tuviese`; `hablaron → hablara/hablase`. Bu derste yüksek sıklık: `fuera, tuviera, pudiera, hiciera, hubiera`. Tam çekim ve geçmiş karşı-olgusal ilişki B2'de genişler.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Olasılık ve öneri
 
-## Türkçe konuşanlar için dikkat
+`Podríamos ampliar la línea` — Hattı genişletebiliriz. `Sería útil que hubiera más autobuses` — Daha çok otobüs olması yararlı olurdu. `Quizá`, `tal vez` bağlama göre kip seçer; tek bir “belki = subjuntivo” kuralı yoktur. Çözümü gerekçeyle bağla: `Si... entonces...`, `por eso`, `de este modo`.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*Si tendría tiempo, iría` ✅ `Si tuviera tiempo, iría`. ❌ `*Si llueve, iríamos mañana` (gerçek açık plan anlatırken) ✅ `Si llueve, iremos mañana` (anlam hedefi). ❌ `*Si lloverá, no salimos` ✅ `Si llueve, no salimos`.
 
-## Kısa karşılaştırma
+**Mini uygulama:** Aynı öneriyi bir gerçekleşebilir ve bir varsayımsal koşulla kur; anlam farkını Türkçe açıkla.
 
-- İspanyolca: `Si tuviera más tiempo, aprendería otro idioma.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-dilek-tavsiye-suphe-ve-subjuntivo/01-konu.md) · [Sonraki modül →](../06-toplum-cevre-ve-medya/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

@@ -1,30 +1,31 @@
-# Girdi ve anlama — Sağlık, vücut ve temel yolculuk
+# Okuma ve dinleme · Sağlık, vücut ve temel yolculuk
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-—¿Qué te pasa? —Me duele la garganta. —Tienes que beber agua y descansar.
+> Deniz llega a una ciudad nueva por la mañana. Tiene una reserva en un hotel, pero primero necesita encontrar la estación de autobuses. Pregunta a una mujer: “Perdón, ¿dónde está la estación?”. La mujer le explica el camino: debe seguir recto y girar a la derecha después de la farmacia. Deniz camina, pero empieza a sentirse mal. Le duele la cabeza y tiene un poco de fiebre. En la farmacia explica: “Me duele la cabeza. ¿Puede ayudarme?”. La farmacéutica le recomienda consultar a un médico si la fiebre continúa. Deniz decide ir al hotel, beber agua y descansar. También llama a recepción para preguntar si hay un médico cerca.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Deniz önce hangi yeri arıyor?
+2. Yol tarifinde eczaneden sonra ne yapmalı?
+3. Hangi iki belirtiyi söylüyor?
+4. Eczacı hangi durumda doktora danışmasını öneriyor?
+5. `hay una farmacia` ve `está enfrente` farkı ne?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — Buenos días. ¿Qué le pasa? — Me duele la garganta y tengo fiebre. — ¿Desde cuándo? — Desde ayer. — Hay que descansar y beber agua. Si sigue con fiebre, consulte a un médico. — Gracias. ¿Hay una farmacia cerca del hotel? — Sí, está enfrente de la estación. — Perfecto. ¿Puede repetir la dirección más despacio? — Claro.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../08-bos-zaman-hava-ve-planlar/01-konu.md) · [Sonraki modül →](../10-a1-butunlestirme-ve-iletisim/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A1](../README.md)

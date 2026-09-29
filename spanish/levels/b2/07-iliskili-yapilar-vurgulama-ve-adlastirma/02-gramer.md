@@ -1,29 +1,25 @@
-# Dilbilgisi — İlgi cümleleri, vurgu ve adlaştırma
+# Dilbilgisi · İlgi cümleleri, vurgu ve adlaştırma
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-preposición + relativo; lo + sıfat; bilgi yapısı; nominalización.
+## Edatlı ilgi
 
-Edatlı ilgi: `la propuesta a la que se refieren`, kişi `con quien`; nötr `lo + sıfat` soyut niteliği adlaştırır: `lo importante`. Vurgu için `lo que importa es...`; isimleştirme metni sıkıştırır (`decidir→decisión`), ancak aşırı isimleştirme metni ağırlaştırır.
+`La propuesta a la que se refieren` — Atıfta bulundukları öneri. Fiilin edatı (`referirse a`) ilgi cümlesinde korunur. `La persona con quien hablé` — Konuştuğum kişi. `El informe sobre el que escribimos` — Hakkında yazdığımız rapor. Cansız/kişi ayrımı ve resmiyet bağlama göre `quien`, `el/la/los/las que`, `el/la cual` seçeneklerini etkiler. Temel `que`yi her edatın sonrasına doğrudan koyma: ❌ `*la propuesta a que se refieren` birçok gündelik bağlamda doğal değildir; ✅ `a la que` güvenli ve açık.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Bilinen/bilinmeyen referans ve kip
 
-## Kullanım
+`Conozco a una persona que puede hacerlo` — Böyle biriyle tanışığım; referans var. `Necesitamos a una persona que pueda hacerlo` — Böyle birini arıyoruz; kim olduğu/bulunup bulunmadığı açık. `No hay ninguna propuesta que resuelva todo` — Her şeyi çözen öneri yok. Türkçedeki `-en/-an` eki kip farkını göstermeyebilir; İspanyolcada referansın statüsüne bak.
 
-- **Olumlu:** `Lo más preocupante es que nadie explicó el cambio.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## `lo + sıfat` ve vurgu
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Lo importante es medir el efecto` — Önemli olan etkiyi ölçmek. `Lo más preocupante es que faltan datos` — En kaygı verici şey veri eksikliği. `lo`, burada eril bir isim artikeli değil, niteliği soyutlaştırır. `Lo que importa es...` — Önemli olan...; `Fue Ana quien propuso la prueba` — Denemeyi öneren Ana'ydı. Vurgu yapısı hangi bilginin yeni/önemli olduğunu değiştirir, olayın kendisini değil.
 
-## Türkçe konuşanlar için dikkat
+## Adlaştırma ve kayıt
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`El equipo decidió ampliar el programa` — Ekip programı genişletmeye karar verdi. `La decisión de ampliar el programa...` — Programı genişletme kararı... İkinci biçim karmaşık bilgiyi isim öbeğinde sıkıştırır; raporda yararlı olabilir, ama uzun adlaştırma zinciri faili gizler. `La revisión de la evaluación de la implementación...` yerine gerektiğinde eylemi açık fiille yaz: `El equipo revisó cómo se aplicó la medida`.
 
-## Kısa karşılaştırma
+❌ `*La persona que hablé` ✅ `La persona con la que hablé` (konuşmak `con`). ❌ `*El propuesta a la que` ✅ `La propuesta a la que`. ❌ `*Lo importante son medir` ✅ `Lo importante es medir`.
 
-- İspanyolca: `Lo más preocupante es que nadie explicó el cambio.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Bir uzun isim zincirini fiilli iki cümleye aç; aynı öneri için edilgen/etken vurgu değiştir.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-baglaclar-ve-soylem-organizasyonu/01-konu.md) · [Sonraki modül →](../08-b2-argumentasyon-ve-profesyonel-iletisim/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

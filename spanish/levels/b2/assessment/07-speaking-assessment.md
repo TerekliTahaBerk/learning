@@ -1,14 +1,16 @@
-# B2 Konuşma Değerlendirmesi
+# B2 konuşma değerlendirmesi
 
-1. Hazırlık için 1 dakika düşün, tam metin yazma; anahtar sözcük kullan.
-2. Seviye README'sindeki Can Do görevlerinden birini ve iki rastgele modül temasını birleştir.
-3. Zaman hedefi: A1 1 dk · A2 2 dk · B1 3 dk · B2 4 dk. Ardından iki takip sorusunu yanıtla.
+## Görevler
 
-| Ölçüt | 0 | 1 | 2 | 3 |
-|---|---|---|---|---|
-| Görev ve anlaşılabilirlik | görev tamamlanmadı | sık kopma | çoğunlukla açık | açık ve tutarlı |
-| Akıcılık/etkileşim | yanıt yok | yoğun duraklama | sürdürülebilir | esnek ve doğal |
-| Dil kontrolü | anlam engelleniyor | temel hatalar sık | hatalar var ama mesaj açık | hedef yapılar güvenilir |
-| Kelime ve telaffuz | çok sınırlı | tekrar/yanlış anlama | yeterli çeşit | bağlama uygun ve belirgin |
+1. **Kısa sunum:** Dört dakikalık tartışma: tez, iki kaynak, karşı görüş ve pilot tasarımı.
+2. **Etkileşim:** Dinleyici iki takip sorusu sorsun. Birini açıklığa kavuşturmasını iste, sonra yanıt ver.
+3. **Yeniden anlatım:** [Final dinleme betiğini](05-final-exam.md) bir kez dinle; ana düşünce ve iki ayrıntıyı kendi sözlerinle aktar.
 
-Kaydı dinle; yalnızca iki hedef belirle. Aynı görevi bir hafta sonra yeniden kaydet.
+## Ölçütler (16 puan)
+
+- Görev başarısı ve ilgili ayrıntı: 6
+- Akıcılık/anlaşılabilirlik: 4
+- Dil çeşitliliği ve doğruluk: 4
+- Soruyu anlama, açıklama isteme ve takip yanıtı: 2
+
+Ses kaydını dinleyip her ölçüte ayrı puan ver. Yarım puanın altında kalan ölçüt için ilgili modülde yeni kayıt oluştur.

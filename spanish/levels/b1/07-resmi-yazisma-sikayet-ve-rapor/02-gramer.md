@@ -1,29 +1,25 @@
-# Dilbilgisi — Resmî yazışma, şikâyet ve rapor
+# Dilbilgisi · Resmî yazışma, şikâyet ve rapor
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-dolaylı anlatıma giriş; emir ve zamir birleşimleri; kayıt.
+## Şikâyet metninin işlevi
 
-Aktarma: `Dice que llega` → `Dijo que llegaba/llegaría` bağlama göre; geçmiş bildirme fiilinden sonra zaman bakış noktası kayabilir. Zamir emirle bitişir: `Dígamelo`; olumsuzda önce gelir: `No me lo diga`. Resmî kayıt: `Le agradecería que...` ve açık talep.
+Resmî e-posta yalnızca kızgınlık belirtmez: konu/işlem numarası, olay kronolojisi, kanıt, açık talep ve makul kapanış içerir. `Le escribo en relación con...` — ... hakkında yazıyorum. `Adjunto la factura` — Faturayı ekliyorum. `Le agradecería que revisaran el importe` — Tutarı gözden geçirirseniz memnun olurum. `usted` kullanıldığında fiil üçüncü tekildir; kurumu çoğul gördüğünde `ustedes` üçüncü çoğul.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Dolaylı anlatıma giriş
 
-## Kullanım
+Doğrudan: `La empresa dijo: “El paquete sale hoy”`. Aktarma: `La empresa dijo que el paquete salía ese día` — Şirket paketin o gün çıkacağını söyledi. Bildirme fiili geçmişteyse, iç cümle konuşma zamanına göre geri kayabilir; hâlâ geçerli bilgi için indicativo şimdiki de bağlama göre kalabilir. `mañana→al día siguiente`, `aquí→allí` gibi yer/zaman ifadesi de bakış noktasına göre değişir. B2'de bu sistem ayrıntılı işlenir.
 
-- **Olumlu:** `Le agradecería que revisaran la factura.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Zamir ve emir
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+Nazik olumlu emirle zamir sona bitişir: `Envíemelo` — Onu bana gönderin. Olumsuzda önce: `No me lo envíe todavía` — Henüz bana göndermeyin. İki zamirin sırası dolaylı + dolaysızdır. A2'de öğrenilen `se lo`yu hatırla: `Se lo envié al departamento` — Onu bölüme gönderdim.
 
-## Türkçe konuşanlar için dikkat
+## Kayıt ve yumuşatma
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Quiero mi dinero` açık fakat sert olabilir; `Solicito la devolución del importe` resmî ve belirli. `¿Podrían confirmarme la fecha?` nazik istek. `por favor` tek başına kötü düzenlenmiş bir şikâyeti profesyonel yapmaz. Türkçe resmî üsluptaki uzun cümleleri İspanyolcaya tek bir zincir olarak çevirme; kısa, kanıtlı paragraflar kur.
 
-## Kısa karşılaştırma
+❌ `*Me dijeron que el paquete sale ayer` ✅ `Me dijeron que el paquete salió ayer` (olay tamamlandıysa). ❌ `*No envíemelo` ✅ `No me lo envíe`. ❌ `*Le agradezco que revisar` ✅ `Le agradecería que revisara/revisaran`.
 
-- İspanyolca: `Le agradecería que revisaran la factura.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** 80 kelimelik bir şikâyette olay, kanıt ve talebi ayrı cümlelerle belirt.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-toplum-cevre-ve-medya/01-konu.md) · [Sonraki modül →](../08-b1-butunlestirme-ve-sunum/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

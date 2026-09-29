@@ -1,31 +1,46 @@
-# Cevaplar ve tekrar — Ev ve şehir
+# Cevaplar ve birikimli tekrar · Ev ve şehir
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: hay/estar/ser, işaret sıfatları, yer edatları. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `Hay una farmacia cerca de mi casa. Está al lado del banco.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `el piso` — daire. Mi piso es pequeño. — Dairem küçük.
+2. `la casa` — ev. La casa está cerca. — Ev yakın.
+3. `la habitación` — oda. Hay dos habitaciones. — İki oda var.
+4. `el salón` — oturma odası. El salón tiene una ventana. — Salonda bir pencere var.
+5. `la cocina` — mutfak. La cocina está a la derecha. — Mutfak sağda.
 
-## Sık hata
+## B. Biçim
+6. `hay` — Varlık.
+7. `está` — Belirli yerin konumu.
+8. `tiene` — Bütünün parçaları.
+9. `Esta` — Dişil tekil işaret.
+10. `del` — `de + el`.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Bir yatak odası, salon, mutfak ve banyo.
+12. Pencerenin önünde.
+13. Karşısında.
+14. Sağa.
+15. İlki varlığı tanıtır, ikincisi bilinen eczanenin konumunu söyler.
 
-## Aktif hatırlama
+## D. Çeviri ve düzeltme
+16. `Hay un parque al lado de mi casa.` — Evimin yanında bir park var.
+17. `El parque está enfrente del banco.` — Park bankanın karşısında.
+18. `¿Dónde está la estación?` — İstasyon nerede?
+19. `El banco está aquí.` — Belirli yer konumu.
+20. `Este libro está aquí.` — Eril isimle uyum.
+21. `La mesa está en la cocina.` — Konum `estar`.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `En mi barrio hay una farmacia al lado de la estación.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Una persona pide el camino a la estación. La otra explica dónde está y también indica una farmacia cercana.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## Hata ve tekrar
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-gunler-tarih-saat-ve-rutin/01-konu.md) · [Sonraki modül →](../06-yemek-ve-restoran/01-konu.md)
+Bu modülün üç hata türü: Belirli yer konumu.; Eril isimle uyum.; Konum `estar`.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ A1](../README.md) · [Sonraki modül →](../06-yemek-ve-restoran/01-konu.md)

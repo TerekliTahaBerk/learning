@@ -1,35 +1,63 @@
-# B2 Final Sınavı
+# B2 Final sınavı: B2 final: kaynakları tartarak savunma
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 110 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Subjuntivo/indicativo seçimi ve anlam nüansı: `Aunque parece sencillo, no significa que lo sea.`
-- Varsayımsal ve karşı-olgusal anlatım: `Si lo hubiera sabido, habría reservado antes.`
-- Gelecek, geçmiş ve zaman ilişkileri: `Para entonces ya habrán publicado el informe.`
-- Dolaylı anlatım, zaman kayması ve kayıt: `Dijo que no podría asistir al día siguiente.`
-- İleri se kullanımları ve pasif yapılar: `Se buscan soluciones; aquí se trabaja con datos anónimos.`
-- Bağlaçlar ve söylem organizasyonu: `Aun cuando los datos son limitados, la tendencia resulta clara.`
-- İlgi cümleleri, vurgu ve adlaştırma: `Lo más preocupante es que nadie explicó el cambio.`
-- B2 bütünleştirme: argümantasyon ve profesyonel iletişim: `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Si los datos ___ públicos, el debate habría sido distinto. (ser)
+2. Negó que se ___ la consulta. (cancelar)
+3. Se ___ los criterios mañana. (publicar)
+4. Para diciembre ya ___ evaluado el plan. (haber, nosotros)
+5. El informe ___ conclusiones discutimos falta. (cuyo)
+6. Aunque ___ riesgos, avanzó. (haber, bilinen)
+7. Dijo que ___ cambios. (haber, gelecek aktarımı)
+8. Buscamos soluciones que ___ accesibles. (ser)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. kanıt
+2. yanlılık
+3. uygulanabilirlik
+4. dolayısıyla
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Una ciudad estudia reducir el tráfico en el centro. Un informe municipal sostiene que limitar el acceso de automóviles disminuiría la contaminación y permitiría ampliar las aceras. Se basa en mediciones de calidad del aire realizadas durante doce meses. Una asociación de comerciantes acepta el objetivo ambiental, pero advierte que el informe no mide cuántos clientes llegan desde pueblos sin transporte frecuente. Su encuesta, respondida por noventa tiendas, indica que muchas dependen de esas visitas; sin embargo, no pregunta a los clientes cómo viajarían si hubiera mejores autobuses. La responsable del proyecto afirma que habrá excepciones para entregas y personas con movilidad reducida. Aun así, la asociación pide publicar los criterios antes de aprobar la norma. Un grupo vecinal propone una prueba de seis meses con rutas de autobús adicionales y datos semanales de ventas, aire y desplazamientos. Esa opción permitiría corregir efectos imprevistos, aunque retrasaría una decisión definitiva. Ninguna fuente, por sí sola, demuestra qué política será mejor: las mediciones ambientales son sólidas para describir el problema, mientras que la encuesta comercial revela un riesgo cuya magnitud sigue sin verificarse.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Belediye raporu hangi veriye dayanıyor?
+2. Anketin sınırlılığı?
+3. Hangi istisnalar?
+4. Pilotun ölçütleri?
+5. İki kaynağın gücü?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— El informe ambiental es convincente, pero la encuesta comercial muestra otro riesgo. — ¿No crees que esa encuesta esté sesgada? — Podría estarlo: solo respondieron noventa tiendas. Propongo que midamos cómo viajan los clientes durante la prueba. — Si hubiéramos reunido esos datos antes, habríamos evitado parte de la discusión. — Para diciembre habremos comparado ventas, aire y movilidad.
+
+</details>
+
+1. Anket kaç dükkân?
+2. Yeni ne ölçülecek?
+3. Aralıkta ne karşılaştırılacak?
+4. Anketin sınırlılığı?
+5. Geçmiş pişmanlık?
+
+## 5. Yazma — 20 puan
+
+260–300 kelimelik dengeli görüş: iki kaynağın gücü ve sınırı, koşullu öneri, ölçülebilir sonuç.
+
+## 6. Konuşma — 16 puan
+
+Dört dakikalık tartışma: tez, iki kaynak, karşı görüş ve pilot tasarımı.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](06-final-exam-answers.md) · [Değerlendirme dizini](README.md)

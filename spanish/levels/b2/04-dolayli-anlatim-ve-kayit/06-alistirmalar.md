@@ -1,32 +1,42 @@
-# Alıştırmalar — Dolaylı anlatım, zaman kayması ve kayıt
+# Alıştırmalar · Dolaylı anlatım, zaman kayması ve kayıt
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “alıntı” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “açıklama” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “sözcü” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “kaynak” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “tanıklık” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Dijo que no podría asistir al día siguiente.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. “Volveremos mañana”. Dijo que ___ al día siguiente.
+7. “He terminado”. Dijo que ___ terminado.
+8. “¿Dónde están?”. Preguntó ___ estaban.
+9. “Envíenlo”. Pidió que lo ___. (enviar, nosotros)
+10. “Quizá abramos”. Dijo que quizá ___ otra convocatoria. (abrir, onlar)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. İlk haber başlığı hangi olasılığı kesin bilgiye çeviriyor?
+12. Başvurularla kontenjan arasında hangi yanlış çıkarım yapılıyor?
+13. Düzeltmiş özet hangi iki belirsizliği koruyor?
+14. Sınıfların yeriyle ilgili hangi üç söz edimi var?
+15. Son paragraf neden bu ayrımın etik/pratik önemini vurguluyor?
 
-3. `Dijo que no podría asistir al día siguiente.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Ertesi gün ayrıntıları sunacaklarını söyledi.”
+17. Türkçeden İspanyolcaya: “Sınıfların nerede olacağını sordu.”
+18. Türkçeden İspanyolcaya: “Seçenekleri göndermemizi istedi.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Dijo que vendrá ayer.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Preguntó ¿dónde estaban?`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Pidió que enviamos el borrador.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Kısa röportajı resmi rapor üslubunda aktar.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Dijo que no podría asistir al día siguiente.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md) · [Sonraki modül →](../05-ileri-se-ve-pasif-yapilar/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

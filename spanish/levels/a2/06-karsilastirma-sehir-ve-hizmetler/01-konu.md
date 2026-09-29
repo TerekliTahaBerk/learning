@@ -1,20 +1,20 @@
-# Karşılaştırma, şehir ve hizmetler
+# 06 · Karşılaştırma, şehir ve hizmetler
 
-**Bu modülde:** mahalle, hizmet, teknoloji, alışveriş.
+**İletişim hedefi:** İki semt/hizmeti karşılaştırmak, olumsuzluk ve belirsizliği doğru kurmak, `que/donde` ile kısa açıklama yapmak.
 
-## Öğrenme hedefleri
+Bu modülden önceki dersin beş kelimesini ve iki cümlesini notsuz hatırla. Ardından şu sırayla ilerle:
 
-- Konu alanında temel bir etkileşimi anlayıp sürdürebilmek.
-- `Este barrio es más tranquilo que el centro.` örneğindeki yapıyı yeni bilgiyle kullanabilmek.
-- Kısa girdiden ana fikri ve hedef ifadeleri çıkarabilmek.
-- Kendi yaşamından sözlü ve yazılı örnek üretebilmek.
+1. [Dilbilgisi](02-gramer.md) — biçimi, anlamı ve Türkçeden aktarım riskini öğren.
+2. [Kelime ve kalıplar](03-kelime.md) — artikel/çoğul veya fiil kalıbıyla çalış.
+3. [Okuma ve dinleme](04-input-practice.md) — metinleri önce genel anlam, sonra ayrıntı için işle.
+4. [Konuşma ve yazma](05-output-practice.md) — hedefi kendi yaşamına uygula.
+5. [Alıştırmalar](06-alistirmalar.md) — kapalı notla çöz; [anahtarı](07-cevaplar-ve-tekrar.md) sonradan aç.
 
-## Ön bilgi ve sıra
+## Başarı ölçütü
 
-Önce [telaffuz ve yazım](../../../reference/01-pronunciation-guide.md) ilkelerini uygula. Dilbilgisi dosyasında açıklanan yapıyı konu ve kelime örnekleriyle eşleştir; sonra girdi, çıktı ve alıştırmaya geç. Bu modülde yeni sözcükleri artikeli ve örnek cümlesiyle öğren.
+- [ ] İki semt/hizmeti karşılaştırmak, olumsuzluk ve belirsizliği doğru kurmak, `que/donde` ile kısa açıklama yapmak.
+- [ ] Metindeki ana bilgiyi ve beş ayrıntıyı çıkarabiliyorum.
+- [ ] Yeni kelimeleri en az beş kişisel cümlede kullanabiliyorum.
+- [ ] Konuşma ve yazma görevini notsuz ikinci kez yapabiliyorum.
 
-## Model
-
-**Este barrio es más tranquilo que el centro.** — *Türkçe anlamı bağlama göre değişir; cümle: Este barrio es más tranquilo que el centro.*
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md) · [Sonraki modül →](../07-davetler-iliskiler-ve-gelecek/01-konu.md)
+[↑ A2 dizini](../README.md) · [← Önceki modül](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md) · [Sonraki modül →](../07-davetler-iliskiler-ve-gelecek/01-konu.md)

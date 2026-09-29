@@ -9,7 +9,7 @@ Bu alan, sıfırdan başlayıp B2 düzeyinde bağımsız iletişime ilerlemek is
 3. [A1 Modül 01](levels/a1/README.md) ile sırayla ilerle. Modüllerin içindeki yedi dosyayı sırayla tamamla.
 4. [İlerleme çizelgesinde](PROGRESS.md) her adımı işaretle; bölüm değerlendirmelerini modül sonunda yap.
 
-## Levels
+## Düzeyler
 
 - [A1](levels/a1/README.md) — temel etkileşim ve günlük ihtiyaçlar
 - [A2](levels/a2/README.md) — tanıdık konularda geçmiş, plan ve sorun çözme
@@ -19,14 +19,14 @@ Bu alan, sıfırdan başlayıp B2 düzeyinde bağımsız iletişime ilerlemek is
 ## Sistem haritası
 
 - [Roadmap](ROADMAP.md) · [Study System](STUDY-SYSTEM.md) · [Progress](PROGRESS.md) · [İçerik manifestosu](CONTENT-MANIFEST.md)
-- [Grammar Index](reference/03-grammar-index.md) · [Vocabulary Index](reference/04-vocabulary-index.md) · [Pronunciation Guide](reference/01-pronunciation-guide.md) · [Verb System](reference/05-verb-system-overview.md)
-- [Türkçe konuşanlar için rehber](reference/12-turkish-speaker-guide.md) · [Bölgesel farklılıklar](reference/11-spain-vs-latin-america.md) · [Kaynaklar](SOURCES.md)
+- [Dilbilgisi dizini](reference/03-grammar-index.md) · [Kelime dizini](reference/04-vocabulary-index.md) · [Telaffuz](reference/01-pronunciation-guide.md) · [Fiil sistemi](reference/05-verb-system-overview.md)
+- [Türkçe konuşanlar için rehber](reference/12-turkish-speaker-guide.md) · [Aktif hatırlama](reference/active-recall-bank.md) · [Hata bankası](reference/common-error-bank.md) · [Bölgesel farklılıklar](reference/11-spain-vs-latin-america.md) · [Kaynaklar](SOURCES.md)
 
 ## Ders düzeni
 
 Her modül konu ve işlev, Türkçe dilbilgisi açıklaması, bağlamlı kelime, okuma/dinleme girdisi, konuşma/yazma çıktısı, çeşitli alıştırmalar ve cevaplı tekrar içerir. Çalışma metinleri özgündür. Dinleme metinleri TTS, sesli okuma, gölgeleme ve dikte için sunulur; kayıt dosyası olduğu iddia edilmez.
 
-Kelimeyi tek başına değil, artikel ve örnek cümleyle öğren. İlk karşılaşmada tanıma, sonra aralıklı hatırlama, ardından kendi cümlende üretim hedefle. Her seviyenin sonunda dilbilgisi, kelime, okuma, dinleme metni, yazma ve konuşmayı birleştiren değerlendirme vardır.
+Kelimeyi tek başına değil, artikel ve örnek cümleyle öğren. İlk karşılaşmada tanıma, sonra aralıklı hatırlama, ardından kendi cümlende üretim hedefle. Her düzeyde üç birikimli tekrar paketi, iki ara kontrol ve dilbilgisi, kelime, okuma, dinleme metni, yazma ile konuşmayı birleştiren final vardır.
 
 ## Referans kullanımı
 

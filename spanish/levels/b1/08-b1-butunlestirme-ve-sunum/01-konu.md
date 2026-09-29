@@ -1,20 +1,20 @@
-# B1 bütünleştirme: sunum ve bağımsız anlatım
+# 08 · B1 bütünleştirme: sunum ve bağımsız anlatım
 
-**Bu modülde:** kültür, iş, teknoloji, seyahat.
+**İletişim hedefi:** Sorun, kanıt, öneri ve sınırlamayı düzenli sunumda birleştirmek; geçmiş, koşul ve subjuntivo seçimini denetlemek.
 
-## Öğrenme hedefleri
+Bu modülden önceki dersin beş kelimesini ve iki cümlesini notsuz hatırla. Ardından şu sırayla ilerle:
 
-- Konu alanında temel bir etkileşimi anlayıp sürdürebilmek.
-- `Aunque el proyecto es útil, conviene que midamos sus efectos.` örneğindeki yapıyı yeni bilgiyle kullanabilmek.
-- Kısa girdiden ana fikri ve hedef ifadeleri çıkarabilmek.
-- Kendi yaşamından sözlü ve yazılı örnek üretebilmek.
+1. [Dilbilgisi](02-gramer.md) — biçimi, anlamı ve Türkçeden aktarım riskini öğren.
+2. [Kelime ve kalıplar](03-kelime.md) — artikel/çoğul veya fiil kalıbıyla çalış.
+3. [Okuma ve dinleme](04-input-practice.md) — metinleri önce genel anlam, sonra ayrıntı için işle.
+4. [Konuşma ve yazma](05-output-practice.md) — hedefi kendi yaşamına uygula.
+5. [Alıştırmalar](06-alistirmalar.md) — kapalı notla çöz; [anahtarı](07-cevaplar-ve-tekrar.md) sonradan aç.
 
-## Ön bilgi ve sıra
+## Başarı ölçütü
 
-Önce [telaffuz ve yazım](../../../reference/01-pronunciation-guide.md) ilkelerini uygula. Dilbilgisi dosyasında açıklanan yapıyı konu ve kelime örnekleriyle eşleştir; sonra girdi, çıktı ve alıştırmaya geç. Bu modülde yeni sözcükleri artikeli ve örnek cümlesiyle öğren.
+- [ ] Sorun, kanıt, öneri ve sınırlamayı düzenli sunumda birleştirmek; geçmiş, koşul ve subjuntivo seçimini denetlemek.
+- [ ] Metindeki ana bilgiyi ve beş ayrıntıyı çıkarabiliyorum.
+- [ ] Yeni kelimeleri en az beş kişisel cümlede kullanabiliyorum.
+- [ ] Konuşma ve yazma görevini notsuz ikinci kez yapabiliyorum.
 
-## Model
-
-**Aunque el proyecto es útil, conviene que midamos sus efectos.** — *Türkçe anlamı bağlama göre değişir; cümle: Aunque el proyecto es útil, conviene que midamos sus efectos.*
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-resmi-yazisma-sikayet-ve-rapor/01-konu.md)
+[↑ B1 dizini](../README.md) · [← Önceki modül](../07-resmi-yazisma-sikayet-ve-rapor/01-konu.md)

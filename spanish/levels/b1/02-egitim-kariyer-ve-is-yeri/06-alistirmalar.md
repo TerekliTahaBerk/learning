@@ -1,32 +1,42 @@
-# Alıştırmalar — Eğitim, kariyer ve iş yeri
+# Alıştırmalar · Eğitim, kariyer ve iş yeri
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “kariyer/bölüm” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “pozisyon” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “başvuru” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “özgeçmiş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “görüşme” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `En unos años trabajaré en un equipo internacional.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Mañana ___ tiempo. (tener, futuro yo)
+7. ¿___ enviarme el informe? (poder, condicional usted)
+8. Nosotros ___ juntos. (trabajar, futuro)
+9. Con más experiencia yo ___ el puesto. (solicitar, condicional)
+10. A esta hora estará en una reunión. Bu biçim ne anlatır?
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Mina neden yeni eğitim planı hazırlıyor?
+12. Raporu bugün göndermemesinin gerekçesi ne?
+13. E-postasında hangi üç bilgiye yer veriyor?
+14. Önerdiği iki süreç değişikliği ne?
+15. Son cümlede ekip neden bir aylık deneme seçiyor?
 
-3. `En unos años trabajaré en un equipo internacional.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Raporu yarın göndereceğim.”
+17. Türkçeden İspanyolcaya: “Bana özgeçmişini gönderebilir misin?”
+18. Türkçeden İspanyolcaya: “Uzun vadede ekip yöneteceğim.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Teneré tiempo.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Podría envías el informe.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Voy a trabajaré.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Profesyonel e-posta yaz; kariyer hedeflerini açıkla.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `En unos años trabajaré en un equipo internacional.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-anlati-ve-gecmis-zaman-kontrolu/01-konu.md) · [Sonraki modül →](../03-gorus-gerekce-ve-tartisma/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B1](../README.md)

@@ -1,35 +1,63 @@
-# B1 Final Sınavı
+# B1 Final sınavı: B1 final: bağımsız anlatım
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 95 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Anlatı ve geçmiş zaman kontrolü: `Cuando llegué, ya habían cerrado la puerta.`
-- Eğitim, kariyer ve iş yeri: `En unos años trabajaré en un equipo internacional.`
-- Görüş, gerekçe ve tartışma: `Creo que la tecnología facilita el acceso; no creo que resuelva todo.`
-- Dilek, tavsiye, şüphe ve subjuntivo: `Te recomiendo que reserves con antelación.`
-- Koşullar, olasılıklar ve öneriler: `Si tuviera más tiempo, aprendería otro idioma.`
-- Toplum, çevre ve medya: `Se publicaron los resultados; se recomienda reducir residuos.`
-- Resmî yazışma, şikâyet ve rapor: `Le agradecería que revisaran la factura.`
-- B1 bütünleştirme: sunum ve bağımsız anlatım: `Aunque el proyecto es útil, conviene que midamos sus efectos.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Ya ___ empezado cuando llegamos. (haber)
+2. Dudo que ellos ___ hoy. (venir)
+3. Si yo ___ recursos, ampliaría el curso. (tener)
+4. Se ___ los resultados ayer. (publicar)
+5. Le agradecería que me ___. (responder, usted)
+6. Mientras ___, se fue la luz. (hablar, ellos)
+7. El próximo mes ___ el informe. (presentar, nosotros)
+8. Aunque ___ difícil, merece la pena. (ser)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. öneri
+2. rapor
+3. sonuç
+4. buna karşılık
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Un centro cultural abrió un curso gratuito de español para nuevos vecinos. Durante el primer mes asistían quince personas, pero varias dejaron de venir porque el horario coincidía con su trabajo. La coordinadora había preparado las clases antes de conocer esa dificultad. En una reunión, los participantes propusieron dos grupos: uno por la mañana y otro por la tarde. Algunos temían que dividirlos redujera la conversación en clase; otros creían que habría más continuidad. El centro realizó una encuesta y publicó los resultados. La mayoría prefería el grupo de tarde. Finalmente se organizaron dos sesiones semanales, con un encuentro común al mes. A los tres meses aumentó la asistencia. La coordinadora concluyó que escuchar a los alumnos había sido más útil que mantener el plan inicial. Ahora quiere solicitar fondos para cuidar a los niños durante las clases.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Sorun neydi?
+2. İtiraz neydi?
+3. Karar hangi veriye dayandı?
+4. Aylık uygulama ne?
+5. Fon ne için?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— Ya he leído el informe. ¿Por qué cambió el horario? — Muchos alumnos trabajaban por la mañana. — ¿Habían pedido un grupo de tarde? — Sí, en la segunda reunión. — ¿Funcionó? — La asistencia aumentó. Sin embargo, conviene que mantengamos un encuentro común cada mes. — Si recibimos fondos, ofreceríamos cuidado infantil.
+
+</details>
+
+1. Saat niçin değişti?
+2. Teklif ne zaman?
+3. Sonuç?
+4. Ne sürmeli?
+5. Ek fon neye?
+
+## 5. Yazma — 20 puan
+
+200–230 kelimelik rapor/görüş: sorun, veri, karşı görüş, öneri ve koşullu sonuç.
+
+## 6. Konuşma — 16 puan
+
+Üç dakikalık sunum; sonuç, sınırlılık ve gerekçeli takip yanıtı.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](06-final-exam-answers.md) · [Değerlendirme dizini](README.md)

@@ -1,31 +1,48 @@
-# Cevaplar ve tekrar — Varsayımsal ve karşı-olgusal anlatım
+# Cevaplar ve birikimli tekrar · Varsayımsal ve karşı-olgusal anlatım
 
-## Yanıt anahtarı
+[Alıştırmaları](06-alistirmalar.md) tamamladıktan sonra aç. Açık üretimde aşağıdaki model tek olası yanıt değildir.
 
-1. Hedef: imperfecto/pluperfecto subjuntivo; condicional simple/compuesto; si kalıpları. Cümlede yapının görevini ve anlamını belirt.
-2. Kelime dosyasındaki üç kelime; artikeller, çoğullar ve örnek bağlam doğru olmalı.
-3. Olumsuz örnek: `No vivo en Madrid.` `no`, çekimli fiilden önce gelir.
-4. Örnek soru: `¿Dónde vives?` Soru açılış/kapanış işaretlerini kullan.
-5. Kişisel yanıt; hedef biçim doğru kullanılmalı.
-6. Birden fazla doğru çeviri mümkündür; [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md) ile Türkçe kalıbı bire bir taşımadığını kontrol et.
-7. `Si lo hubiera sabido, habría reservado antes.` cümlesini doğru Türkçe anlamıyla aktar.
-8. İki kelimenin anlamı, artikel/çekimi ve cümledeki kullanımı doğru olmalı.
-9. Düzeltme: `Tengo 22 años.` Yaş `tener` ile kurulur; ayrıca kişi ve fiil uyumunu denetle.
-10–12. Üretim yanıtları kişiseldir. Rubrik: anlam açıklığı, hedef biçim, kelime seçimi, yazım/telaffuz.
+## A. Kelime
+1. `la hipótesis` — varsayım. Formulamos una hipótesis. — Varsayım kuruyoruz.
+2. `la posibilidad` — olasılık. Existía otra posibilidad. — Başka olasılık vardı.
+3. `la alternativa` — alternatif. Había una alternativa. — Başka seçenek vardı.
+4. `la consecuencia` — sonuç. La consecuencia habría sido distinta. — Sonuç farklı olurdu.
+5. `la decisión` — karar. Tomamos una decisión. — Karar verdik.
 
-## Sık hata
+## B. Biçim
+6. `hubiera` — Geçmiş karşı-olgu.
+7. `ampliaría` — Şimdiki varsayım sonucu.
+8. `habríamos` — Geçmiş varsayımsal sonuç.
+9. `negociaremos` — Açık gelecek koşulu.
+10. `haber` — Sıkıştırılmış koşul.
 
-Türkçe cümle yapısını doğrudan aktarmak veya cümlenin yalnızca bir bölümünü çekimlemek. Düzeltme: önce tüm İspanyolca kalıbı oku; fiil, isim ve zamir uyumunu cümlenin tamamında denetle.
+## C. Metin
+11. Açılıştan önce tam akustik çalışma yapılmaması.
+12. Biri öngörü ve maliyet bilgisini vurguluyor; diğeri bilginin bütçe yaratmayacağını söylüyor.
+13. `Si contara con más recursos... ampliaría`; `Si las pruebas... muestran... apoyaremos`.
+14. Bütün alternatif sonuçları bilmiyoruz; kesinlik abartılır.
+15. Onarım, ölçüm ve komşularla diyalog.
 
-## Aktif hatırlama
+**Ek okuma yanıtı:** Ön bilgi, mali kaynak ve açılış zamanı/kültürel fırsat.
 
-- Bu modülün hedef yapısı hangi anlamı taşıyor?
-- Hangi örnek kişisel hayatıma uyarlanabilir?
-- Hangi hata Türkçe aktarımından doğabilir?
-- Bir hafta sonra bu konuyu nasıl hatırlayacağım?
+## D. Çeviri ve düzeltme
+16. `Si lo hubiera sabido, habría llamado.` — Bilseydim arardım.
+17. `Si tuviera más dinero, ampliaría la obra.` — Daha çok param olsa inşaatı genişletirdim.
+18. `Si la prueba funciona, negociaremos de nuevo.` — Deneme işe yararsa yeniden görüşeceğiz.
+19. `Si hubiera sabido, habría llamado.` — Koşul yan cümlesi pluscuamperfecto subjuntivo.
+20. `Si tuviera dinero, ampliaría mañana.` — Geleceğe dönük varsayımda condicional simple.
+21. `Si la prueba funciona, negociaremos.` — Açık koşul `si + presente`.
 
-- [ ] Notlara bakmadan üç model cümle kurdum.
-- [ ] Girdiyi özetledim ve bir kez sesli ürettim.
-- [ ] Yanlışlarımı not edip tekrar tarihini belirledim.
+## E. Açık yanıtlar için model ve kontrol
+22. Model: `Si hubiéramos reservado más presupuesto, habríamos evitado parte del retraso.` İki hedef sözcüğü yeni bağlamda birleştir.
+23. Model: `Un grupo reflexiona sobre el estudio acústico que no encargó. Decide medir el ruido ahora y negociar según resultados futuros.` Konuşmanın amacı ve sonucu yer almalı.
+24. Üç kişisel cümlede en az bir hedef yapı doğru biçimde yer alsın.
+25. Önceki modül ifadesi konuya doğal bağlansın; yalnızca ayrı bir ezber cümlesi ekleme.
+26. Soru-yanıt sırası, anlaşılabilir telaffuz ve görevi sürdürme kontrol edilir.
+27. Metinde görev, fiil, artikel/uyum ve yazım için ayrı kontrol turu yap.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-mood-secimi-ve-nuans/01-konu.md) · [Sonraki modül →](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md)
+## Hata ve tekrar
+
+Bu modülün üç hata türü: Koşul yan cümlesi pluscuamperfecto subjuntivo.; Geleceğe dönük varsayımda condicional simple.; Açık koşul `si + presente`.. Yanlış yaptığın bir cümleyi 24 saat sonra yeni kelimeyle tekrar kur.
+
+[← Alıştırmalar](06-alistirmalar.md) · [↑ B2](../README.md) · [Sonraki modül →](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md)

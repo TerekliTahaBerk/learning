@@ -1,32 +1,42 @@
-# Alıştırmalar — Anlatı ve geçmiş zaman kontrolü
+# Alıştırmalar · Anlatı ve geçmiş zaman kontrolü
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “anı/olay” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “anlatı” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “başlangıç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “sonuç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “dönüm” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Cuando llegué, ya habían cerrado la puerta.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Cuando llegué, el tren ya ___ ___. (salir)
+7. Fuera ___ y el andén ___ lleno. (llover/estar)
+8. De repente ___ la pantalla. (cambiar)
+9. Nosotros ___ reservado dos asientos.
+10. Mientras esperaba, ___ la cartera. (perder, tek olay)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Hangi bilgi `había reservado` ile ana olaylardan önceye yerleştiriliyor?
+12. İstasyondaki hava ve kalabalık hangi zamanla kuruluyor?
+13. Kahraman cüzdanını ne zaman kaybettiğini fark ediyor?
+14. Yolcu ona nasıl yardım ediyor?
+15. Son cümle anlatıyı nasıl bugüne bağlıyor?
 
-3. `Cuando llegué, ya habían cerrado la puerta.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Vardığımda tren çoktan kalkmıştı.”
+17. Türkçeden İspanyolcaya: “Yağmur yağarken cüzdanımı kaybettim.”
+18. Türkçeden İspanyolcaya: “Ondan önce yer ayırtmıştık.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Cuando llegué, el tren salió ya.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Había llegué tarde.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Mientras esperaba, perdía la cartera.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Beklenmedik gelişme içeren 180 kelimelik anlatı yaz.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Cuando llegué, ya habían cerrado la puerta.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-egitim-kariyer-ve-is-yeri/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B1](../README.md)

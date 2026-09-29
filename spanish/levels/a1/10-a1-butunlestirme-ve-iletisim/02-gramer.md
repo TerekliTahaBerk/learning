@@ -1,29 +1,25 @@
-# Dilbilgisi — A1 bütünleştirme: günlük yaşam
+# Dilbilgisi · A1 bütünleştirme: günlük yaşam
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-karma şimdiki zaman, soru kalıpları, gustar, yakın gelecek, bağlaçlar.
+## Eski yapıları birlikte seçme
 
-Bu yapının biçimini, anlamını ve bağlamını birlikte öğren. Önce örneği anla; sonra özne, zaman veya ortamı değiştirerek yeni cümle kur. Uygun olduğunda Türkçe karşılığın aynı söz dizimini kullanmadığını denetle.
+Kimlik için `ser`: `Soy de Turquía`. Konum/durum için `estar`: `Mi casa está cerca del centro`; `Estoy cansada`. Varlık için `hay`: `En mi barrio hay un parque`. Yaş/sahiplik için `tener`: `Tengo 25 años`, `Tengo una hermana`. Tercih için `me gusta/n`: `Me gusta el té`; `Me gustan los museos`. Plan için `ir a + infinitivo`: `Voy a visitar a mis amigos`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Bağlı anlatım
 
-## Kullanım
+`y` ekler, `pero` karşıtlık, `porque` gerekçe, `o` seçenek kurar. Tek bir uzun, karmaşık cümle zorlamak yerine iki ya da üç açık cümleyi bağla: `Trabajo por la mañana. Por la tarde estudio español porque quiero viajar.` — Sabah çalışırım. Öğleden sonra seyahat etmek istediğim için İspanyolca çalışırım.
 
-- **Olumlu:** `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Soruyu ve yanıtı eşleştir
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`¿Dónde vives? → Vivo en Ankara.` `¿A qué hora te levantas? → Me levanto a las siete.` `¿Qué te gusta hacer? → Me gusta leer.` `¿Qué vas a hacer mañana? → Voy a visitar a mi hermana.` Yanıtın kişi ve fiil çekimi soruyla uyumlu olmalı.
 
-## Türkçe konuşanlar için dikkat
+## Üçlü karşıtlık
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Hay una farmacia en mi barrio` ilk kez varlığı tanıtır. `La farmacia está cerca de mi casa` aynı belirli yerin konumu. `Mi barrio es tranquilo` mahallenin niteliği. Türkçe “var/olmak/bulunmak” üzerinden tek İspanyolca fiil seçme.
 
-## Kısa karşılaştırma
+❌ `*Mi barrio hay tranquilo.` ✅ `Mi barrio es tranquilo.` Nitelik `ser`. ❌ `*Me gusta los museos.` ✅ `Me gustan los museos.` Çoğul özne. ❌ `*Mañana voy visito.` ✅ `Mañana voy a visitar.` Plan kalıbı.
 
-- İspanyolca: `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Kendinle ilgili 8 cümle kur; en az bir `ser`, `estar`, `hay`, `tener`, `gustar` ve `ir a` kullan.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../09-saglik-vucut-ve-yolculuk/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

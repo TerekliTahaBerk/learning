@@ -1,29 +1,21 @@
-# Dilbilgisi — Yemek ve restoranda iletişim
+# Dilbilgisi · Yemek ve restoranda iletişim
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-gustar/encantar, querer, pedir, sayılabilen isimler.
+## `gustar` ve `encantar`
 
-`gustar` ile hoşlanan kişi `me/te/le/nos/os/les`, fiil ise beğenilen isimle uyumlanır: `Me gusta la sopa`; `Me gustan las tapas`. Mastar tekil fiil alır: `Me gusta cocinar`. `encantar` aynı örüntüye sahiptir. Sipariş: `Quisiera...`, `¿Me trae...?`; nezaket için rica biçimini kullan.
+Türkçede “kahveyi severim” cümlesinde seven kişi öznedir. İspanyolca `Me gusta el café` yapısında `el café` fiilin öznesidir; beğenen kişi `me` ile gösterilir. Tekil isim veya mastar: `Me gusta el café`, `Me gusta cocinar`. Çoğul isim: `Me gustan las verduras`. `encantar` daha güçlü beğeni bildirir ve aynı kalıpla çekimlenir: `Me encantan las frutas`. Kişiler: `me, te, le, nos, os, les`. Açıklık/vurgu: `A Ana le gusta el té`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## `querer`, `preferir`, `pedir`
 
-## Kullanım
+`Quiero una sopa` doğrudan istek; `Quisiera una sopa, por favor` daha nazik sipariştir. `preferir` kök değiştirir: `prefiero, prefieres, prefiere, preferimos, preferís, prefieren`. `pedir` = istemek/sipariş etmek: `Pido la cuenta`. `preguntar` = soru sormak: `Pregunto el precio`. Türkçedeki “sormak/istemek” ayrımını bağlamla seç.
 
-- **Olumlu:** `Me gusta el café, pero prefiero el té. Quisiera una ensalada.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Miktar ve olumsuzluk
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`un vaso de agua` — bir bardak su; `una taza de café` — bir fincan kahve. Genel beğenide artikel sık kullanılır: `Me gusta la sopa`. Olumsuzluk: `No me gusta el pescado` — Balığı sevmem. Soruda `¿Te gustan las aceitunas?` — Zeytin sever misin?
 
-## Türkçe konuşanlar için dikkat
+❌ `*Yo gusto el café.` ✅ `Me gusta el café.` Beğenilen şey fiille uyumlanır. ❌ `*Me gusta las tapas.` ✅ `Me gustan las tapas.` Çoğul özne. ❌ `*Pregunto una ensalada.` ✅ `Pido una ensalada.` Sipariş istemek `pedir`.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+**Mini uygulama:** Sevdiğin iki yemek, sevmediğin bir içecek ve nazik bir sipariş söyle.
 
-## Kısa karşılaştırma
-
-- İspanyolca: `Me gusta el café, pero prefiero el té. Quisiera una ensalada.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-ev-ve-sehir/01-konu.md) · [Sonraki modül →](../07-alisveris-kiyafet-ve-fiyatlar/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

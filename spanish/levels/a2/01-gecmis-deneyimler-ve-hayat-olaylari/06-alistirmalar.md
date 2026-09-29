@@ -1,32 +1,42 @@
-# Alıştırmalar — Geçmiş deneyimler ve hayat olayları
+# Alıştırmalar · Geçmiş deneyimler ve hayat olayları
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “deneyim” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “gezi” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “ülke” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “şehir” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “müze” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Este año he visitado dos ciudades nuevas.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Yo ___ visitado tres museos.
+7. Ella ___ escrito a su amiga.
+8. Nosotros hemos ___. (volver)
+9. Todavía no ___ probado ese plato. (yo)
+10. ¿Has ___ alguna vez en Lisboa? (estar)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Bu yıl anlatıcı hangi yeni yerleri tanımış?
+12. Ocaktaki sergi ziyareti ile bu haftaki müze ziyareti farklı zaman çerçevesiyle nasıl sunuluyor?
+13. Arkadaşı müzeye daha önce gitmiş miydi?
+14. Anlatıcı hangi iki üretim malzemesine sahip ama henüz yazmamış?
+15. Son cümledeki amaç yalnızca yer saymaktan nasıl farklı?
 
-3. `Este año he visitado dos ciudades nuevas.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Bu yıl üç müze gezdim.”
+17. Türkçeden İspanyolcaya: “Henüz o yemeği tatmadım.”
+18. Türkçeden İspanyolcaya: “Hiç Madrid’de bulundun mu?”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*He visitada tres ciudades.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Tengo escrito a Ana.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*No he nunca ido.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bu yıl yaptığın üç şeyi ve henüz yapmadığın bir şeyi anlat.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Este año he visitado dos ciudades nuevas.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-gecmiste-olaylar-ve-anilar/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A2](../README.md)

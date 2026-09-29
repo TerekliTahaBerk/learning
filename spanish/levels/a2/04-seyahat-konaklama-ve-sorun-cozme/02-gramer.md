@@ -1,29 +1,28 @@
-# Dilbilgisi — Seyahat, konaklama ve sorun çözme
+# Dilbilgisi · Seyahat, konaklama ve sorun çözme
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-dolaylı/dolaysız nesne zamirleri; nazik rica.
+## İki nesne türü
 
-Dolaysız nesne: `lo/la/los/las`; dolaylı: `le/les`; fiilden önce gelir: `La habitación la reservé ayer`; `Le escribo al hotel`. İki zamir yan yana gelince `le/les → se`: `Le doy el mapa → Se lo doy`. Mastarla iki konum: `Lo quiero ver / Quiero verlo`.
+`Reservé la habitación` — Odayı ayırttım. `la habitación` dolaysız nesne: `La reservé.` — Onu ayırttım. `Escribí al hotel` — Otele yazdım. `al hotel` alıcı/hedef: `Le escribí.` — Ona yazdım.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+| İşlev | Tekil | Çoğul | Örnek |
+|---|---|---|---|
+| dolaysız nesne | `lo/la` | `los/las` | `Lo compré.` — Onu aldım. |
+| dolaylı nesne | `le` | `les` | `Le envié el correo.` — Ona e-postayı gönderdim. |
 
-## Kullanım
+Birinci/ikinci kişi `me, te, nos, os` bağlama göre nesne işlevi görür. Kişi nesnesi açık isimle de `a` alabilir: `Vi a Ana` → `La vi`. Türkçede belirtme ve yönelme eklerini alışkanlıkla taşıyan biri `le` ile `lo`yu anlam farkını düşünmeden değiştirebilir. “Neyi/kimi?” dolaysız; “kime?” dolaylı.
 
-- **Olumlu:** `¿Puede ayudarme? La reserva no aparece.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Zamir konumu ve birleşim
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+Çekimli fiilden önce: `Lo quiero reservar`; mastara bitişik: `Quiero reservarlo`. İki zamir bir arada dolaylı + dolaysız sırasındadır: `Le di el mapa → Se lo di` (`le lo` denmez). `Se lo envié al hotel` — Onu otele gönderdim. `se` burada dönüşlü değildir; `le/les`in `lo/la/los/las` önündeki biçimidir.
 
-## Türkçe konuşanlar için dikkat
+## Sorun anlatma ve nazik rica
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`La reserva no aparece` — Rezervasyon görünmüyor. `¿Podría ayudarme?` — Yardım edebilir misiniz? `Le envié el correo ayer` — Size/ona e-postayı dün gönderdim. `El problema es que...` — Sorun şu ki... Nazik rica koşul biçimini hazır kalıp olarak kullan; ayrıntılı koşul kipini B1'de açacağız.
 
-## Kısa karşılaştırma
+❌ `*Quiero lo reservar.` ✅ `Lo quiero reservar` / `Quiero reservarlo`. ❌ `*Le lo envié.` ✅ `Se lo envié.` ❌ `*Vi Ana.` ✅ `Vi a Ana.` Belirli kişi nesnesi `a` alır.
 
-- İspanyolca: `¿Puede ayudarme? La reserva no aparece.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Bir rezervasyon numarasını görevliye gönderdiğini `se lo` ile söyle; hangi zamirin hangi nesneyi karşıladığını açıkla.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gecmiste-aliskanlik-ve-arka-plan/01-konu.md) · [Sonraki modül →](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

@@ -1,29 +1,30 @@
-# Dilbilgisi — Geçmiş olaylar ve anılar
+# Dilbilgisi · Geçmiş olaylar ve anılar
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-indefinido; düzenli ve sık düzensiz biçimler.
+## Indefinido biçimi
 
-Indefinido düzenli: `hablé, hablaste, habló, hablamos, hablasteis, hablaron`; `comí...`, `viví...`. Sık düzensizler: `fui, tuve, estuve, hice, dije, pude, puse, vine, quise`. Tamamlanmış zaman çerçevesi: `ayer`, `el año pasado`, `en 2022`.
+| Kişi | hablar | comer | vivir |
+|---|---|---|---|
+| yo | hablé | comí | viví |
+| tú | hablaste | comiste | viviste |
+| él/ella/usted | habló | comió | vivió |
+| nosotros/as | hablamos | comimos | vivimos |
+| vosotros/as | hablasteis | comisteis | vivisteis |
+| ellos/ellas/ustedes | hablaron | comieron | vivieron |
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+`hablamos` ve `vivimos` şimdiki zamanla aynı yazılır; bağlamdaki zaman çerçevesi belirler. Sık düzensiz kökler: `tener→tuv-`, `estar→estuv-`, `poder→pud-`, `poner→pus-`, `venir→vin-`, `hacer→hic-` (`hizo`), `decir→dij-` (`dijeron`), `traer→traj-` (`trajeron`). Özel biçimler: `ser/ir→fui, fuiste, fue, fuimos, fuisteis, fueron`; `dar→di`; `ver→vi`.
 
-## Kullanım
+## Anlam: olay çizgisini ilerletme
 
-- **Olumlu:** `Ayer perdí el autobús y llegué tarde.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+`El sábado salí, compré un billete y visité a mi hermana.` — Cumartesi çıktım, bilet aldım ve kız kardeşimi ziyaret ettim. Her fiil tamamlanmış bir sonraki olayı getirir. `Ayer`, `la semana pasada`, `en 2021` gibi kapalı dönemler sık eşlik eder, ancak seçim sadece kelimeye bağlı değildir. Türkçedeki “-di” olayı bitmiş sunabilir; İspanyolcada aynı hikâyede arka plan için farklı zaman gerekir.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Perfecto ile karşılaştırma
 
-## Türkçe konuşanlar için dikkat
+`Este mes he ido dos veces` (bu ay hâlâ sürüyor; birçok İspanya kullanımında) / `El mes pasado fui dos veces` (kapalı ay). Latin Amerika'da perfecto/indefinido tercihinin coğrafi ve söylemsel farklılıkları vardır; kullanımı tek bir anahtar sözcük listesine indirme.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*Ayer he fui al cine.` ✅ `Ayer fui al cine.` İki çekimli geçmiş biçimini birleştirme. ❌ `*Él hació la reserva.` ✅ `Él hizo la reserva.` Düzensiz biçim. ❌ `*Nosotros salimos y después ir a casa.` ✅ `Salimos y después fuimos a casa.` Olay dizisindeki iki fiil çekimli.
 
-## Kısa karşılaştırma
+**Mini uygulama:** Geçen hafta sonundan beş olayı sırala; her fiilin tamamlanmış bir adımı gösterdiğini açıkla.
 
-- İspanyolca: `Ayer perdí el autobús y llegué tarde.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-gecmis-deneyimler-ve-hayat-olaylari/01-konu.md) · [Sonraki modül →](../03-gecmiste-aliskanlik-ve-arka-plan/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

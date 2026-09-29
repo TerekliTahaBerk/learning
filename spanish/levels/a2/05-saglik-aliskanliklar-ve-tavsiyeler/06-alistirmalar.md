@@ -1,32 +1,42 @@
-# Alıştırmalar — Sağlık, alışkanlıklar ve tavsiyeler
+# Alıştırmalar · Sağlık, alışkanlıklar ve tavsiyeler
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “randevu” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “doktor” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “muayene” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “belirti” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “ateş” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `No tomes este medicamento con el estómago vacío.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. ___ agua. (tú olumlu)
+7. No ___ este medicamento. (tú, tomar)
+8. ___ hoy. (usted, descansar)
+9. Me duele la espalda ___ hace tres días.
+10. Llegué ___ tres días.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Derya kaç gün boğaz ağrısı çekti?
+12. İlk gün neden doktora gitmedi?
+13. Doktorun üç önerisi neydi?
+14. Derya eve gidince iş arkadaşına ne yazdı?
+15. Son paragrafta hangi alışkanlığı değiştirmek istiyor?
 
-3. `No tomes este medicamento con el estómago vacío.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Üç gündür sırtım ağrıyor.”
+17. Türkçeden İspanyolcaya: “Bugün dinlen.”
+18. Türkçeden İspanyolcaya: “Bu ilacı alma.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*No toma este medicamento.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Me duele desde tres días.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Tómalo no.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Doktora belirtileri anlat ve basit tavsiye ver.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `No tomes este medicamento con el estómago vacío.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-seyahat-konaklama-ve-sorun-cozme/01-konu.md) · [Sonraki modül →](../06-karsilastirma-sehir-ve-hizmetler/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A2](../README.md)

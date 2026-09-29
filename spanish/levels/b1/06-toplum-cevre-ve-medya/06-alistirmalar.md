@@ -1,32 +1,42 @@
-# Alıştırmalar — Toplum, çevre ve medya
+# Alıştırmalar · Toplum, çevre ve medya
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “medya organı” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “haber” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “rapor” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “kaynak” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “veri” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Se publicaron los resultados; se recomienda reducir residuos.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Se ___ los resultados. (publicar, pasif)
+7. Aquí se ___ con datos anónimos. (trabajar)
+8. Se ___ a treinta vecinos. (entrevistar, kişisiz)
+9. Los informes fueron ___. (publicar)
+10. Publicamos los datos para que los vecinos ___ leerlos. (poder)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Rapor hangi olumlu değişimi bildiriyor?
+12. Haber başlığı neden rapordan daha güçlü bir iddia kuruyor?
+13. Verinin genellenmesinde hangi iki sınır var?
+14. Komşu dernekleri hangi iki farklı noktayı vurguluyor?
+15. Son cümle `tendencia` ile `solución definitiva` arasındaki farkı nasıl kuruyor?
 
-3. `Se publicaron los resultados; se recomienda reducir residuos.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Sonuçlar yayımlandı.”
+17. Türkçeden İspanyolcaya: “Burada anonim verilerle çalışılır.”
+18. Türkçeden İspanyolcaya: “Komşular okusun diye verileri yayımlıyoruz.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Se publicó los resultados.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Se entrevistaron a diez vecinos.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Los informes fue publicados.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir kısa haberi özetle, kaynağın güvenilirliğini tartış.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Se publicaron los resultados; se recomienda reducir residuos.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-kosullar-olasilar-ve-oneriler/01-konu.md) · [Sonraki modül →](../07-resmi-yazisma-sikayet-ve-rapor/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B1](../README.md)

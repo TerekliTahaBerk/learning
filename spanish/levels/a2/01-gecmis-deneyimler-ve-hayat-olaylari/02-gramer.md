@@ -1,29 +1,30 @@
-# Dilbilgisi — Geçmiş deneyimler ve hayat olayları
+# Dilbilgisi · Geçmiş deneyimler ve hayat olayları
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-pretérito perfecto; zaman zarfları; geçmiş ortaç.
+## Biçim: `haber + participio`
 
-Pretérito perfecto: `haber` şimdiki zaman + değişmeyen ortaç: `he/has/ha/hemos/habéis/han + hablado/comido/vivido`. Sık düzensiz ortaçlar: `hecho, dicho, visto, escrito, puesto, vuelto, abierto`. `hoy, esta semana, alguna vez, todavía no` ile bugüne bağlı deneyim/eylem anlatılır; coğrafi kullanım değişebilir.
+| Kişi | `haber` | `visitar` ile örnek |
+|---|---|---|
+| yo | he | he visitado |
+| tú | has | has visitado |
+| él/ella/usted | ha | ha visitado |
+| nosotros/as | hemos | hemos visitado |
+| vosotros/as | habéis | habéis visitado |
+| ellos/ellas/ustedes | han | han visitado |
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+Düzenli ortaç `-ar → -ado`, `-er/-ir → -ido`: `hablado, comido, vivido`. Sık düzensizler: `hecho, dicho, visto, escrito, puesto, vuelto, abierto, roto`. `haber` ile ortaç kişi/cinsiyete göre değişmez: `Ella ha escrito dos cartas`, `Ellos han escrito dos cartas`. Zamirler çekimli yardımcı fiilden önce: `Lo he visto`.
 
-## Kullanım
+## Anlam: deneyim ve açık zaman çerçevesi
 
-- **Olumlu:** `Este año he visitado dos ciudades nuevas.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+`Este año he visitado dos ciudades` — Bu yıl iki şehir gezdim; yıl hâlâ sürüyorsa konuşur olayı bugüne bağlı bir dönemde sunar. `¿Has estado alguna vez en Granada?` — Hiç Granada'da bulundun mu? Deneyim sorar. `Todavía no he probado la paella` — Henüz paella denemedim. `Ya he terminado` — Çoktan bitirdim. Zaman sözcükleri yardımcıdır; `hoy` her yerde otomatik perfecto gerektirmez. İspanya'nın birçok bölgesinde bugünle ilgili perfecto yaygınken Latin Amerika'nın pek çok bölgesinde aynı bağlamda indefinido (`Hoy comí temprano`) doğal olabilir. Bu bölgesel farkı dinleme sırasında tanı.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Türkçe karşılaştırma ve kontrast
 
-## Türkçe konuşanlar için dikkat
+Türkçede “gezdim” hem bitmiş tarihsel olay hem bugüne bağlı deneyim olabilir. İspanyolcada konuşur çerçeveyi seçer. `El año pasado visité Granada` — Geçen yıl Granada'yı ziyaret ettim (kapalı dönem). `Este año he visitado Granada` — Bu yıl Granada'yı ziyaret ettim (içinde bulunduğumuz dönem). Bu, mekanik “geçmişte olduysa perfecto” kuralı değildir.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*He visitada Granada.` ✅ `He visitado Granada.` Yardımcı fiille ortaç değişmez. ❌ `*Tengo visitado Granada.` ✅ `He visitado Granada.` Birleşik zamanın yardımcısı `haber`. ❌ `*No he nunca viajado.` ✅ `Nunca he viajado` veya `No he viajado nunca`. Olumsuz sözcük konumu.
 
-## Kısa karşılaştırma
+**Mini uygulama:** Bu hafta yaptığın üç şeyi ve hayatında henüz yapmadığın bir şeyi yaz; açık/kapalı zaman çerçevesini belirt.
 
-- İspanyolca: `Este año he visitado dos ciudades nuevas.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-gecmiste-olaylar-ve-anilar/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

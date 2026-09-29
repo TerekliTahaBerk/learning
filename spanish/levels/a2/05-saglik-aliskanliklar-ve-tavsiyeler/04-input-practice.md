@@ -1,30 +1,31 @@
-# Girdi ve anlama — Sağlık, alışkanlıklar ve tavsiyeler
+# Okuma ve dinleme · Sağlık, alışkanlıklar ve tavsiyeler
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-Me duele la espalda desde hace tres días. ¿Tiene cita mañana?
+> Derya lleva tres días con dolor de garganta. El lunes pensó que era algo leve y siguió trabajando, pero el miércoles todavía tenía fiebre. Pidió una cita en el centro de salud. La médica le preguntó desde cuándo tenía síntomas y si había tomado algún medicamento. Derya explicó que solo había bebido té y descansado poco. La médica la examinó y le dio recomendaciones sencillas: “Beba agua, descanse y no haga ejercicio intenso durante unos días”. También le indicó cuándo debía volver a consultar. Derya salió con una receta y pasó por la farmacia. En casa escribió a una compañera: “Hoy no voy a la oficina; necesito descansar”. Dos días después se encontraba mejor. Decidió cambiar un hábito: dormir más cuando empezara a sentirse mal, en vez de esperar a que la fiebre aumentara.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Derya kaç gün boğaz ağrısı çekti?
+2. İlk gün neden doktora gitmedi?
+3. Doktorun üç önerisi neydi?
+4. Derya eve gidince iş arkadaşına ne yazdı?
+5. Son paragrafta hangi alışkanlığı değiştirmek istiyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — Buenos días. Quiero pedir una cita. — ¿Para cuándo? — Si es posible, para esta tarde. Me duele la espalda desde hace cuatro días. — Hay una cita a las cinco. — Perfecto. ¿Tengo que llevar algo? — Su documento y la tarjeta sanitaria. — De acuerdo. — Si el dolor empeora antes, llámenos. — Muchas gracias. — Hasta luego.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-seyahat-konaklama-ve-sorun-cozme/01-konu.md) · [Sonraki modül →](../06-karsilastirma-sehir-ve-hizmetler/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A2](../README.md)

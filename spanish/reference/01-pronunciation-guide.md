@@ -34,3 +34,15 @@ Doğal konuşmada bazı sesler zayıflayabilir, ancak yeni başlayan kişi ses d
 ## Bölgesel sesler
 
 `c/z` ayrımı (distinción) ve `s` ile birleşmesi (seseo), `ll/y` birleşmesi (yeísmo) bölgelere göre değişir. Bir varyantı “daha doğru” ilan etme. [Bölge rehberi](11-spain-vs-latin-america.md)
+
+## Ayırt etme ve üretme çalışması
+
+1. **Vurgu:** `público` (halk), `publico` (yayımlıyorum), `publicó` (yayımladı). Üç biçimde vurgulu heceyi işaretle; fiil kişi/zamanı değişince anlamın da değiştiğini gözle.
+2. **Hiatus:** `río` (nehir) / `rio` (güldü) bağlamına dikkat et. `país` ve `ciudad` sözcüklerini hecelere ayır: `pa-ís`, `ciu-dad`.
+3. **r/rr:** `pero` (ama) / `perro` (köpek), `caro` (pahalı) / `carro` (araba, birçok bölgede). Tek vuruş ve titreşimli sesi ayrı kaydet.
+4. **ñ/n:** `año` (yıl) / `ano` (anüs) ses ve yazım bakımından ayrıdır; pratikte `niño`, `mañana`, `español` sözcükleriyle [ɲ] sesini çalış.
+5. **qu/gue/güe:** `queso`, `guerra`, `pingüino`: ilk ikisinde `u` sessiz, sonuncusunda okunur. Üç sözcüğü metin içinde sesli oku.
+6. **Bağlantı:** `la amiga`, `mi amigo`, `los amigos` dizilerini önce yavaş, sonra akış içinde oku. Sözcük sınırını tamamen kaybetme; vurguyu koru.
+7. **Tonlama:** `Vienes.` ve `¿Vienes?` cümlelerini aynı sözcüklerle iki ayrı niyet olarak kaydet. Sorunun yalnızca son hecede yükselmesi bütün bölgeler için mutlak kural değildir; duyduğun örneği taklit et.
+
+Kendi kaydını TTS veya güvenilir bir konuşur örneğiyle karşılaştırırken bir seferde yalnızca bir özellik hedefle: önce ünlü netliği, sonra vurgu, sonra bağlantı. Yazımdan sahte Türkçe okunuş üretmek yerine ses örneği dinle.

@@ -1,31 +1,55 @@
-# B2 Kontrol 1
+# B2 Kontrol 1: Nüans ve karmaşık anlatı
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 95 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Subjuntivo/indicativo seçimi ve anlam nüansı: `Aunque parece sencillo, no significa que lo sea.`
-- Varsayımsal ve karşı-olgusal anlatım: `Si lo hubiera sabido, habría reservado antes.`
-- Gelecek, geçmiş ve zaman ilişkileri: `Para entonces ya habrán publicado el informe.`
-- Dolaylı anlatım, zaman kayması ve kayıt: `Dijo que no podría asistir al día siguiente.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. No es que el plan ___ inútil. (ser)
+2. Si lo ___ antes, habríamos cambiado. (saber, nosotros)
+3. Para cuando llegues, yo ___ terminado. (haber)
+4. Aunque lo ___, nadie reaccionó. (advertir, ella, bilinen)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. nüans
+2. öncül
+3. görüş ayrılığı
+4. saklı kalmak üzere
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+El consejo de un museo debatió si debía sustituir las visitas guiadas por una aplicación. La propuesta prometía reducir gastos y ofrecer explicaciones en varias lenguas. Sin embargo, una investigadora señaló que el cálculo ignoraba a los visitantes sin teléfono y a quienes preferían hacer preguntas. No era que rechazara la tecnología; cuestionaba la idea de que todos aprendieran del mismo modo. Cuando se publicó el presupuesto, los responsables ya habían firmado un contrato preliminar. Si hubieran consultado antes al personal, habrían detectado esa dificultad. Al final aprobaron un programa piloto: la aplicación acompañaría a los guías durante seis meses. El informe final compararía costes, satisfacción y accesibilidad antes de ampliar el servicio.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Araştırmacı teknolojiyi reddetti mi?
+2. Ön sözleşme ne zaman?
+3. Pilot ne kadar?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— El informe da por hecho que todos usarán la aplicación. — No es que no confíe en los datos, sino que falta analizar la accesibilidad. — Si hubiéramos consultado a los guías, lo habríamos visto antes. — ¿Podemos corregirlo? — Sí. Para cuando termine el piloto, habremos recogido opiniones de visitantes y empleados.
+
+</details>
+
+1. Eksik konu?
+2. Kime danışılmalıydı?
+3. Ne toplanacak?
+
+## 5. Yazma — 20 puan
+
+240–280 kelimelik kurum değerlendirmesi: varsayım, itiraz, karşı olgusal çıkarım, öneri.
+
+## 6. Konuşma — 16 puan
+
+Dört dakikalık toplantı: karşı görüşü doğru temsil edip nüanslı yanıtla.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](02-checkpoint-1-answers.md) · [Değerlendirme dizini](README.md)

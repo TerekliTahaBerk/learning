@@ -1,32 +1,42 @@
-# Alıştırmalar — Varsayımsal ve karşı-olgusal anlatım
+# Alıştırmalar · Varsayımsal ve karşı-olgusal anlatım
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “varsayım” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “olasılık” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “alternatif” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “sonuç” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “karar” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Si lo hubiera sabido, habría reservado antes.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Si lo ___ sabido, habría llamado. (haber, yo)
+7. Si tuviera más dinero, ___ la obra. (ampliar, yo)
+8. Nosotros ___ decidido antes. (haber, condicional compuesto)
+9. Si la prueba funciona, ___ de nuevo. (negociar, nosotros futuro)
+10. De ___ contado con datos, habríamos esperado.
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Hangi eksik çalışma ilk sorunun ortaya çıkmasına katkıda bulunuyor?
+12. İki ortağın karşı-olgusal yorumları nasıl farklı?
+13. Bugünkü varsayımsal koşul ile gelecekte açık koşul hangi cümlelerde görülüyor?
+14. Metin neden “X yapılsaydı her şey iyi giderdi” yargısını eleştiriyor?
+15. Son paragraf pişmanlığı hangi eylem planına dönüştürüyor?
 
-3. `Si lo hubiera sabido, habría reservado antes.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Bilseydim arardım.”
+17. Türkçeden İspanyolcaya: “Daha çok param olsa inşaatı genişletirdim.”
+18. Türkçeden İspanyolcaya: “Deneme işe yararsa yeniden görüşeceğiz.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Si habría sabido, habría llamado.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Si tuviera dinero, habría ampliado mañana.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Si la prueba funcionará, negociaremos.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Geçmiş karar için üç alternatif senaryo yaz.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Si lo hubiera sabido, habría reservado antes.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-mood-secimi-ve-nuans/01-konu.md) · [Sonraki modül →](../03-gelecek-gecmis-ve-zaman-iliskileri/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B2](../README.md)

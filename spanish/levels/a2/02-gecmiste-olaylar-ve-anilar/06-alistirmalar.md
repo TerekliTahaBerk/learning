@@ -1,32 +1,42 @@
-# Alıştırmalar — Geçmiş olaylar ve anılar
+# Alıştırmalar · Geçmiş olaylar ve anılar
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “anı” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “gezi” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “çıkış/gezi” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “varış” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “bilet” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Ayer perdí el autobús y llegué tarde.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Ayer yo ___ al centro. (ir)
+7. Ella ___ una foto. (hacer)
+8. Nosotros ___ café. (comprar)
+9. Ellos ___ el tren. (perder)
+10. El sábado ___ tarde. (llegar, yo)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Gezi günü evden saat kaçta çıktılar?
+12. Müzeden sonra ne yaptılar?
+13. Telefon nerede bulundu?
+14. İlk trene neden binemediler?
+15. Metinde olay dizisini hangi üç bağlayıcı ilerletiyor?
 
-3. `Ayer perdí el autobús y llegué tarde.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Geçen cumartesi treni kaçırdık.”
+17. Türkçeden İspanyolcaya: “Önce bilet aldım, sonra müzeye gittim.”
+18. Türkçeden İspanyolcaya: “Sonunda telefonumu buldum.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Ayer he fui al cine.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Él hació la reserva.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Fuimos al museo y después comer.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Geçen hafta sonunu beş olayla sırala.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Ayer perdí el autobús y llegué tarde.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-gecmis-deneyimler-ve-hayat-olaylari/01-konu.md) · [Sonraki modül →](../03-gecmiste-aliskanlik-ve-arka-plan/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ A2](../README.md)

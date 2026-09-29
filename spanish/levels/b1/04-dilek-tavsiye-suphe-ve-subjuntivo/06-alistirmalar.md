@@ -1,32 +1,42 @@
-# Alıştırmalar — Dilek, tavsiye, şüphe ve subjuntivo
+# Alıştırmalar · Dilek, tavsiye, şüphe ve subjuntivo
 
-Cevap anahtarına bakmadan tamamla. Serbest üretimde tek doğru yanıt yoktur; anahtardaki örnekle kendi yanıtını karşılaştır.
+Önce kapalı notla çöz. Açık üretim için anahtarda model yanıt ve değerlendirme noktaları vardır.
 
-## A. Hatırlama
+## A. Kelimeyi tanı ve üret
+1. “dilek” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+2. “tavsiye” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+3. “rica” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+4. “kuşku” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
+5. “duygu” için tablodaki İspanyolca biçimi yaz; isimse artikelini de ekle.
 
-1. `Te recomiendo que reserves con antelación.` cümlesinde hedef yapı/kalıp nedir? Türkçe açıkla.
-2. Kelime dosyasındaki üç sözcüğü artikel/biçimiyle kapalı nottan yaz.
+## B. Biçim ve anlam
+6. Quiero que tú ___. (venir)
+7. Me alegra que ella ___ aquí. (estar)
+8. Dudo que ___ suficiente. (ser)
+9. Te escribo para que ___ la fecha. (saber, tú)
+10. Quiero ___. (descansar, aynı özne)
 
-## B. Boşluk doldurma
+## C. Okuduğunu anlama
+11. Clara hangi işi malzeme almadan önce istiyor?
+12. Hangi iki endişe dile getiriliyor?
+13. Belediyeye neden yazıyorlar?
+14. Kimden hangi teknik bilgi isteniyor?
+15. Metin niçin “huerto bütün sorunları çözmez” sınırı koyuyor?
 
-3. `Te recomiendo que reserves con antelación.` cümlesini olumsuz yap.
-4. Konuyla ilgili doğal bir soru yaz; ör. `¿Dónde vives?` (Nerede yaşıyorsun?).
-5. Metindeki hedef yapıyı kullanarak kendi yaşamından yeni bir cümle kur.
+## D. Çeviri ve düzeltme
+16. Türkçeden İspanyolcaya: “Gelmeni istiyorum.”
+17. Türkçeden İspanyolcaya: “Burada olmana seviniyorum.”
+18. Türkçeden İspanyolcaya: “Tarihi bilmen için yazıyorum.”
+19. Hatalı cümleyi düzelt ve nedenini belirt: `*Quiero que vienes.`
+20. Hatalı cümleyi düzelt ve nedenini belirt: `*Espero venir tú.`
+21. Hatalı cümleyi düzelt ve nedenini belirt: `*Para que entiendes.`
 
-## C. Çeviri ve kurma
+## E. Üretim ve önceki konuyu çağır
+22. Okuma metninden iki farklı yeni sözcüğü doğal bir cümlede birleştir.
+23. Dinleme metninin amacını ve sonucunu iki İspanyolca cümleyle anlat.
+24. Bu modülün yapısıyla kendin hakkında üç cümle kur.
+25. Önceki modülden bir kalıbı yeni konuya bağla.
+26. Konuşma görevini iki rolle, notsuz kaydet.
+27. Yazma görevini tamamla ve üç hatanı gerekçeli düzelt.
 
-6. Türkçeden İspanyolcaya: “Bir arkadaşına tavsiye mesajı yaz; subjuntivo kullanımını açıkla.” (ana fikri tek bir uygun cümleyle ifade et.)
-7. İspanyolcadan Türkçeye: `Te recomiendo que reserves con antelación.`
-8. Kelime tablosundan iki sözcüğü seçip tek bir bağlantılı İspanyolca cümlede kullan.
-
-## D. Düzeltme
-
-9. Hatalı cümleyi düzelt ve nedenini söyle: `*Soy 22 años.`
-10. Kendi yazından bir cümle seç; artikel, uyum, fiil ve noktalama açısından denetle.
-
-## E. Serbest üretim
-
-11. Girdi metnini kendi bilgilerinle değiştirerek dört cümlelik yeni bir diyalog yaz.
-12. Konuşma görevini notsuz yap.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gorus-gerekce-ve-tartisma/01-konu.md) · [Sonraki modül →](../05-kosullar-olasilar-ve-oneriler/01-konu.md)
+[← Üretim](05-output-practice.md) · [Yanıtlar →](07-cevaplar-ve-tekrar.md) · [↑ B1](../README.md)

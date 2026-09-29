@@ -1,29 +1,23 @@
-# Dilbilgisi — Aile ve insanları tanımlama
+# Dilbilgisi · Aile ve insanları tanımlama
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-iyelikler, sıfat uyumu ve temel sıfat sırası, ser/estar.
+## İyelik ve isim
 
-İyelikler: `mi/mis`, `tu/tus`, `su/sus`, `nuestro/a/os/as`, `vuestro/a/os/as`, `su/sus`; isimden önce gelir. Sıfat çoğunlukla isimden sonra ve isimle uyumlu: `una persona amable`, `unos amigos altos`. Kişi/kalıcı özellikte `ser`; o anki durum ve konumda `estar`: `Es simpática; hoy está cansada`.
+`mi/mis` benim; `tu/tus` senin; `su/sus` onun/sizin/onların; `nuestro/a/os/as` bizim; `vuestro/a/os/as` İspanya'daki samimi çoğul “sizin”. Önüne geldikleri isimle sayı bakımından uyumlanır: `mi hermana`, `mis hermanos`. `su` birden fazla kişiye işaret edebileceğinden gerekirse `el libro de Ana` diye açıkla. Türkçede iyelik ekinin isme bitişmesine alışık olan biri `mi`yi artikelle karıştırabilir; `mi casa`da ayrıca `la` kullanılmaz.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Sıfat uyumu ve yeri
 
-## Kullanım
+Sıfat çoğu kez isimden sonra gelir ve isimle uyumlanır: `un hermano alto`, `una hermana alta`, `dos hermanas altas`. `amable` gibi `-e` ile biten sıfatlarda tekil cinsiyet biçimi aynı: `un hombre amable`, `una mujer amable`; çoğul `amables`. `gran/grande` gibi sıfatlarda konuma bağlı anlam/biçim değişebilir; bu düzeyde güvenli temel düzen isim + sıfattır.
 
-- **Olumlu:** `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## `ser`, `estar`, `tener`
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+Kimlik ve görece kalıcı nitelik `ser`: `Mi abuela es paciente.` — Büyükannem sabırlı. O anki durum `estar`: `Hoy está cansada.` — Bugün yorgun. Sahiplik/görünüşte `tener`: `Tiene los ojos verdes.` — Yeşil gözleri var. Türkçe “o güzel/yorgun” cümlelerinde ayrı kopula kullanılmadığı için İspanyolca fiili atlama; `*Ella cansada` yerine `Ella está cansada`. Nitelik bazı sıfatlarda fiille anlam değiştirir: `Es aburrido` — Sıkıcı biridir; `Está aburrido` — Canı sıkılıyor.
 
-## Türkçe konuşanlar için dikkat
+## Hatalar ve uygulama
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*Mis hermana es alto.` ✅ `Mi hermana es alta.` Tekil iyelik ve dişil sıfat. ❌ `*Ella tiene ojos verde.` ✅ `Tiene los ojos verdes.` Vücut bölümlerinde belirli artikel ve çoğul uyum. ❌ `*Mi padre está médico.` ✅ `Mi padre es médico.` Meslek kimliği `ser`.
 
-## Kısa karşılaştırma
+**Mini uygulama:** İki aile üyesini birer karakter, görünüş ve bugünlük durum cümlesiyle anlat.
 
-- İspanyolca: `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../02-kimlik-ulkeler-ve-meslekler/01-konu.md) · [Sonraki modül →](../04-gunler-tarih-saat-ve-rutin/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

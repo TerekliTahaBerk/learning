@@ -1,29 +1,21 @@
-# Dilbilgisi — Sağlık, vücut ve temel yolculuk
+# Dilbilgisi · Sağlık, vücut ve temel yolculuk
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-tener que, hay que, emir kipine ilk bakış, estar + gerundio.
+## Zorunluluk
 
-Zorunluluk: `tener que + infinitivo` kişiye göre çekimlenir; `hay que + infinitivo` geneldir. `me duele` + tekil, `me duelen` + çoğul: `Me duele la cabeza`; `Me duelen los pies`. Basit emir kalıplarını hazır söz öbeği olarak kullan: `Siga recto`, `Gire a la derecha`. `venir` konuşana doğru, `ir` başka hedefe hareketi anlatır.
+`tener que + infinitivo` özneye bağlı yükümlülük: `Tengo que descansar` — Dinlenmem gerekiyor. `hay que + infinitivo` genel gereklilik: `Hay que beber agua` — Su içmek gerekir. Türkçedeki “-meli/-malı” her ikisine karşılık gelebilir; kimin sorumluluğu olduğuna bak. `tener que` çekimi: `tengo que, tienes que, tiene que, tenemos que, tenéis que, tienen que`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Ağrı ve belirti
 
-## Kullanım
+`Me duele la cabeza` — Başım ağrıyor; `Me duelen los pies` — Ayaklarım ağrıyor. Ağrıyan beden bölümü fiilin tekil/çoğul biçimini belirler. Kişi: `me, te, le, nos, os, les`. Beden bölümünde çoğu kez belirli artikel: `la cabeza`, `los pies`; Türkçedeki iyelik ekini otomatik `mi` ile çevirme. `Tengo fiebre` — Ateşim var; `Estoy cansado/a` — Yorgunum.
 
-- **Olumlu:** `Me duele la cabeza. Tengo que descansar. ¿Dónde está la estación?`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Hareket ve yardım
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`¿Dónde está la estación?` bilinen yerin konumu. `¿Hay una farmacia cerca?` bir yerin bulunup bulunmadığı. `¿Puede ayudarme?` nazik yardım isteği. `Siga recto` ve `gire a la derecha` A1 için hazır talimat; emir kipini A2'de açacağız. `ir` hedefe gitme, `venir` konuşana doğru gelme.
 
-## Türkçe konuşanlar için dikkat
+❌ `*Soy dolor de cabeza.` ✅ `Me duele la cabeza.` Türkçe “başım ağrıyor” kalıbı bire bir değil. ❌ `*Me duele los pies.` ✅ `Me duelen los pies.` Çoğul bölüm. ❌ `*Hay que descanso.` ✅ `Hay que descansar.` Mastar gerekir.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+**Mini uygulama:** Eczanede iki belirtiyi ve ne yapman gerektiğini söyle; sonra istasyonun yerini sor.
 
-## Kısa karşılaştırma
-
-- İspanyolca: `Me duele la cabeza. Tengo que descansar. ¿Dónde está la estación?`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../08-bos-zaman-hava-ve-planlar/01-konu.md) · [Sonraki modül →](../10-a1-butunlestirme-ve-iletisim/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

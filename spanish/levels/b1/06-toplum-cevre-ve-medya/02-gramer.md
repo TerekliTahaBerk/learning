@@ -1,29 +1,25 @@
-# Dilbilgisi — Toplum, çevre ve medya
+# Dilbilgisi · Toplum, çevre ve medya
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-pasif yapılar; pasif/kişisiz se; neden-sonuç-amaç bağlaçları.
+## `se` ile iki yapı
 
-`ser + participio` edilgenliği ve `estar + participio` sonucu ayırt et. `Se venden viviendas` genel/pasif `se` (çoğul uyum); `Aquí se vive bien` kişisiz se (fiil tekil). Amaç `para que + subjuntivo`; neden `porque + indicativo`; sonuç `por eso/así que`.
+`Se publicaron los resultados` — Sonuçlar yayımlandı. Fiil çoğul `los resultados` ile uyumlanır: pasif `se`. `Aquí se trabaja con datos anónimos` — Burada anonim verilerle çalışılır. Belirli çoğul özne yok; fiil tekil: kişisiz `se`. Belirli kişi nesnesi `a` alır: `Se entrevistó a diez vecinos` — On komşuyla görüşüldü; fiil tekil. Türkçe edilgen ek tek biçimde görünebilir; İspanyolcada fiil uyumu yapıyı ayırır.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## `ser + participio` edilgenliği
 
-## Kullanım
+`El informe fue publicado ayer` — Rapor dün yayımlandı. Ortaç özneyle uyumlanır: `Los informes fueron publicados`. Fail `por` ile eklenebilir: `por el ayuntamiento`. `Se publicó el informe` daha kısa ve günlük haber dilinde sık olabilir; hangi bilginin öne çıkarıldığını düşün. `Estar + participio` durum/sonuç: `El informe está publicado` — Rapor yayımlanmış durumda.
 
-- **Olumlu:** `Se publicaron los resultados; se recomienda reducir residuos.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Neden, sonuç, amaç
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`porque/ya que` neden, `por eso/por tanto` sonuç, `para que + subjuntivo` farklı özneye yönelik amaç: `Se publicaron los datos para que los vecinos pudieran examinarlos` (geçmiş bağlamda subjuntivo imperfecto; B2'de zaman uyumu açılır). B1'de şimdiki örnek: `Publicamos los datos para que los vecinos puedan examinarlos` — Komşular inceleyebilsin diye verileri yayımlıyoruz.
 
-## Türkçe konuşanlar için dikkat
+## Kaynak ve tutum
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`Según el informe` kaynağın söylediğini belirtir; `a mi juicio` yorumunu ayırır. Rakam gördüğünde örneklem, tarih ve yöntemi sor. `El informe afirma...` ile `El informe demuestra...` aynı güçte değildir; kanıt iddiasını aşırı büyütme.
 
-## Kısa karşılaştırma
+❌ `*Se publicó los resultados` (pasif okuma hedefinde) ✅ `Se publicaron los resultados`. ❌ `*Se entrevistaron a diez vecinos` (kişisiz kişi nesnesi hedefinde) ✅ `Se entrevistó a diez vecinos`. ❌ `*Los informes fue publicados` ✅ `Los informes fueron publicados`.
 
-- İspanyolca: `Se publicaron los resultados; se recomienda reducir residuos.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Bir kamusal rapor için pasif `se`, kişisiz `se` ve `ser` edilgenliğiyle üç farklı odak kur.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../05-kosullar-olasilar-ve-oneriler/01-konu.md) · [Sonraki modül →](../07-resmi-yazisma-sikayet-ve-rapor/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

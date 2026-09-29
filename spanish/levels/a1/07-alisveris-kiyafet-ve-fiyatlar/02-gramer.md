@@ -1,29 +1,21 @@
-# Dilbilgisi — Alışveriş, kıyafet ve fiyatlar
+# Dilbilgisi · Alışveriş, kıyafet ve fiyatlar
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-demonstrativos, karşılaştırmaya hazırlık, querer/poder, olumsuzluk.
+## İşaret ve uyum
 
-İşaret sıfatları isimle uyumlanır: `este/esta/estos/estas`; daha uzakta `ese/esa...`, uzakta `aquel/aquella...`. `¿Cuánto cuesta?` tekil, `¿Cuánto cuestan?` çoğul. `querer` kök değiştirir (`quiero`); `poder` (`puedo`). Renk sıfatları isimle uyumlanır: `zapatos negros`, `falda negra`.
+`este/esta/estos/estas` konuşana yakın; `ese/esa/esos/esas` biraz daha uzakta; `aquel/aquella/aquellos/aquellas` daha uzakta. İsimle cinsiyet/sayı uyumu: `esta camisa`, `estos zapatos`. Türkçedeki “bu/şu/o” ile yaklaşık ilişki kurabilirsin, ancak mesafe ve bağlam bire bir örtüşmez. Bu sözcüklerden önce ayrıca artikel koyma: `*la esta camisa` değil `esta camisa`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Fiyat ve fiil uyumu
 
-## Kullanım
+`¿Cuánto cuesta esta camisa?` — Bu gömlek kaç para? Tekil `cuesta`, çoğul `cuestan`: `¿Cuánto cuestan estos zapatos?`. Yanıt: `Cuesta veinte euros`; `Cuestan treinta euros`. `querer` → `quiero, quieres, quiere, queremos, queréis, quieren`; `poder` → `puedo, puedes, puede, podemos, podéis, pueden`. `¿Puedo probármela?` klitik zamir henüz ileri konu; A1'de hazır kalıp olarak tanı. Daha basit: `¿Puedo probar esta camisa?` — Bu gömleği deneyebilir miyim?
 
-- **Olumlu:** `¿Cuánto cuesta esta camisa? La quiero en azul.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Renk ve sıfat
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`una camisa blanca`, `unos zapatos negros`. `azul` tekilde cinsiyete göre değişmez; çoğul `azules`. `grande` de tekilde ortak; çoğul `grandes`. Kıyafet betimlemesinde sıfat çoğunlukla isimden sonra gelir.
 
-## Türkçe konuşanlar için dikkat
+❌ `*Este camisa` ✅ `Esta camisa`. ❌ `*¿Cuánto cuesta estos zapatos?` ✅ `¿Cuánto cuestan estos zapatos?`. ❌ `*Quiero la rojo` ✅ `Quiero la roja` (gömlek kastediliyorsa) veya `Quiero la camisa roja`.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+**Mini uygulama:** İki ürünü beden ve renk bakımından ayır; fiyatlarını sor.
 
-## Kısa karşılaştırma
-
-- İspanyolca: `¿Cuánto cuesta esta camisa? La quiero en azul.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-yemek-ve-restoran/01-konu.md) · [Sonraki modül →](../08-bos-zaman-hava-ve-planlar/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

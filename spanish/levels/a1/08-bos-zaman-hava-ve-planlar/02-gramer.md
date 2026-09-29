@@ -1,29 +1,25 @@
-# Dilbilgisi — Boş zaman, hava ve planlar
+# Dilbilgisi · Boş zaman, hava ve planlar
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-ir/venir/hacer, poder, ir a + mastar, y/o/pero/porque.
+## Yakın gelecek: `ir a + infinitivo`
 
-Yakın gelecek: `ir conjugado + a + infinitivo`: `voy a viajar`, `vamos a cenar`. İzin/yetenek `poder + infinitivo`; istek `querer + infinitivo`. Hava: `hace frío/calor`, `llueve`, `hay sol`. `estar + gerundio` şu an sürmekte olan eylemi vurgular: `Estoy leyendo`; düzenli gerundio `-ando/-iendo`.
+`ir`: `voy, vas, va, vamos, vais, van`. Ardından `a` ve mastar gelir: `Voy a visitar un museo.` — Bir müzeyi ziyaret edeceğim. Bu, konuşanın planını veya yakın beklentisini anlatır. `*Voy visitar` eksiktir; `a` gerekir. Şimdiki zaman da kararlaştırılmış gelecek için kullanılabilir: `Mañana trabajo` — Yarın çalışıyorum.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Hareket ve isteme
 
-## Kullanım
+`ir` bir yere gitme; `venir` konuşmacıya/merkeze gelme: `Voy a tu casa` — Evine gidiyorum; `¿Vienes a mi casa?` — Evime geliyor musun? `poder + infinitivo` yetenek/izin: `Puedo ir`; `querer + infinitivo` istek: `Quiero caminar`.
 
-- **Olumlu:** `El sábado voy a visitar un museo porque me interesa el arte.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Hava ve sürmekte olan eylem
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Hace sol/calor/frío`, `Llueve`, `Nieva`, `Está nublado`. Hava cümleleri tek bir Türkçe “hava” şablonundan türetilmez; kalıp olarak öğren. `estar + gerundio`: `Estoy leyendo` — Şu anda okuyorum. `hablar→hablando`, `comer→comiendo`, `vivir→viviendo`. Rutin `Leo cada noche` ile şu anki süreci `Estoy leyendo ahora` ayır.
 
-## Türkçe konuşanlar için dikkat
+## Bağlama
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`y` (ve), `o` (veya), `pero` (ama), `porque` (çünkü). `Quiero salir, pero llueve.` — Dışarı çıkmak istiyorum ama yağmur yağıyor. `Voy al museo porque me interesa el arte.` — Sanat ilgimi çektiği için müzeye gidiyorum.
 
-## Kısa karşılaştırma
+❌ `*Voy a visitaré el museo.` ✅ `Voy a visitar el museo.` `ir a`dan sonra mastar. ❌ `*Hace lluvioso.` ✅ `Llueve` / `Está lluvioso` (bağlama göre). ❌ `*Estoy leo.` ✅ `Estoy leyendo.` Yardımcı fiilden sonra gerundio.
 
-- İspanyolca: `El sábado voy a visitar un museo porque me interesa el arte.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** İki hava durumunda ayrı hafta sonu planı söyle; birini `porque` ile gerekçelendir.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-alisveris-kiyafet-ve-fiyatlar/01-konu.md) · [Sonraki modül →](../09-saglik-vucut-ve-yolculuk/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

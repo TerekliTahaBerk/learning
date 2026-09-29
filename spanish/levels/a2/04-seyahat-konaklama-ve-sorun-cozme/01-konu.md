@@ -1,20 +1,20 @@
-# Seyahat, konaklama ve sorun çözme
+# 04 · Seyahat, konaklama ve sorun çözme
 
-**Bu modülde:** otel, rezervasyon, ulaşım aksaklıkları.
+**İletişim hedefi:** Rezervasyon ve ulaşım sorunlarını nazikçe anlatmak; dolaysız/dolaylı nesne zamirlerini seçmek.
 
-## Öğrenme hedefleri
+Bu modülden önceki dersin beş kelimesini ve iki cümlesini notsuz hatırla. Ardından şu sırayla ilerle:
 
-- Konu alanında temel bir etkileşimi anlayıp sürdürebilmek.
-- `¿Puede ayudarme? La reserva no aparece.` örneğindeki yapıyı yeni bilgiyle kullanabilmek.
-- Kısa girdiden ana fikri ve hedef ifadeleri çıkarabilmek.
-- Kendi yaşamından sözlü ve yazılı örnek üretebilmek.
+1. [Dilbilgisi](02-gramer.md) — biçimi, anlamı ve Türkçeden aktarım riskini öğren.
+2. [Kelime ve kalıplar](03-kelime.md) — artikel/çoğul veya fiil kalıbıyla çalış.
+3. [Okuma ve dinleme](04-input-practice.md) — metinleri önce genel anlam, sonra ayrıntı için işle.
+4. [Konuşma ve yazma](05-output-practice.md) — hedefi kendi yaşamına uygula.
+5. [Alıştırmalar](06-alistirmalar.md) — kapalı notla çöz; [anahtarı](07-cevaplar-ve-tekrar.md) sonradan aç.
 
-## Ön bilgi ve sıra
+## Başarı ölçütü
 
-Önce [telaffuz ve yazım](../../../reference/01-pronunciation-guide.md) ilkelerini uygula. Dilbilgisi dosyasında açıklanan yapıyı konu ve kelime örnekleriyle eşleştir; sonra girdi, çıktı ve alıştırmaya geç. Bu modülde yeni sözcükleri artikeli ve örnek cümlesiyle öğren.
+- [ ] Rezervasyon ve ulaşım sorunlarını nazikçe anlatmak; dolaysız/dolaylı nesne zamirlerini seçmek.
+- [ ] Metindeki ana bilgiyi ve beş ayrıntıyı çıkarabiliyorum.
+- [ ] Yeni kelimeleri en az beş kişisel cümlede kullanabiliyorum.
+- [ ] Konuşma ve yazma görevini notsuz ikinci kez yapabiliyorum.
 
-## Model
-
-**¿Puede ayudarme? La reserva no aparece.** — *Türkçe anlamı bağlama göre değişir; cümle: ¿Puede ayudarme? La reserva no aparece.*
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gecmiste-aliskanlik-ve-arka-plan/01-konu.md) · [Sonraki modül →](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md)
+[↑ A2 dizini](../README.md) · [← Önceki modül](../03-gecmiste-aliskanlik-ve-arka-plan/01-konu.md) · [Sonraki modül →](../05-saglik-aliskanliklar-ve-tavsiyeler/01-konu.md)

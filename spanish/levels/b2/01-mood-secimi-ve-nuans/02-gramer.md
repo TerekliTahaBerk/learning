@@ -1,29 +1,29 @@
-# Dilbilgisi — Subjuntivo/indicativo seçimi ve anlam nüansı
+# Dilbilgisi · Subjuntivo/indicativo seçimi ve anlam nüansı
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-ileri mood seçimi; zaman uyumu; perfecto subjuntivo.
+## Kip yalnızca biçim değildir
 
-Bilinen/öne sürülen olgu indicativo; konuşurun değerlendirmesi, iradesi, kuşkusu, amaç/henüz gerçekleşmemiş referansı subjuntivo. `Aunque es caro, lo compro` (olgu) / `Aunque sea caro, lo compraré` (kabul edilen olasılık). `No es que sea...` itirazı yumuşatıp alternatif çerçeve kurar.
+`Aunque es caro, lo compré` — Pahalı olduğu kabul edilen olguya rağmen aldım. `Aunque sea caro, lo compraré` — Pahalı olsa bile alacağım; fiyatın bilinmesi şart değil. `Aunque fuera caro, lo compraría` — Varsayımsal koşulda dahi alırdım. Zaman/kip değişimi yalnızca kronoloji değil, konuşurun önermeyi nasıl sunduğudur. Türkçe “-sa bile” bu ayrımların hepsini karşılayabilir; İspanyolcada bağlam ve kip birlikte anlam taşır.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Belirli ve belirsiz referans
 
-## Kullanım
+`Busco a alguien que sabe reparar este sistema` — Belirli/var olduğunu düşündüğüm, bu becerisi bilinen kişi. `Busco a alguien que sepa reparar este sistema` — Böyle birinin bulunup bulunmadığı açık; yetenek gereksinimidir. İlk cümlede kişi tamamen belirli olmak zorunda değildir, ancak varlığını ve niteliğini varsayma eğilimi güçlüdür. `No hay nadie que lo sepa` subjuntivo: var olmayan/bilinmeyen referans.
 
-- **Olumlu:** `Aunque parece sencillo, no significa que lo sea.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Değerlendirme ve bilgi
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`Es evidente que funciona` — İşlediğini bilgi olarak sunar. `Es importante que funcione` — İşlemesi önemlidir; gerçekleşmesini değerlendirme çerçevesine alır. `No es que no funcione; es que todavía no hay datos suficientes` — İşlemediğini söylemiyorum; veri yetersizliğini öne çıkarıyorum. `No es que` itirazı yumuşatabilir ama daima subjuntivo ile kurulan bir yeniden çerçeveleme.
 
-## Türkçe konuşanlar için dikkat
+## Birleşik kipler
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`haya/hayas/haya/hayamos/hayáis/hayan + participio`: `Me alegra que hayas terminado` — Bitirmiş olmana seviniyorum. Geçmiş eyleme şimdiki tepki. `Dudo que hayan publicado el informe` — Raporu yayımladıklarından kuşkuluyum. Ortaç değişmez. Geçmiş anlatıdaki önceki dilek/şüphe için imperfecto/pluperfecto subjuntivo başka seçimler sunar; [B2 M02](../02-hipotetik-ve-karsit-olgusal-dil/02-gramer.md).
 
-## Kısa karşılaştırma
+## Kayıt ve iddia gücü
 
-- İspanyolca: `Aunque parece sencillo, no significa que lo sea.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+`Hasta donde sabemos` bilgiyi sınırlar; `Cabe señalar que` resmî metinde odak açar; `No parece que` çoğu bağlamda subjuntivo ister. `Parece que` bilgi çıkarımı olarak indicativo ile gelir. Kaynağı öne sürüyorsan `según` ve ölçütü belirt.
 
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-hipotetik-ve-karsit-olgusal-dil/01-konu.md)
+❌ `*Aunque sea caro, lo compré` tek mümkün değil; bilinen fiyatı anlatıyorsan `Aunque era caro, lo compré` daha doğal. ❌ `*Busco a alguien que sabe` belirsiz arayış için ✅ `Busco a alguien que sepa`. ❌ `*Dudo que han publicado` ✅ `Dudo que hayan publicado`.
+
+**Mini uygulama:** Bir öneriye ilişkin aynı savı olgu, olasılık ve karşı-olgusal durum olarak üç kez yaz; kip değişimini cümle altında açıkla.
+
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

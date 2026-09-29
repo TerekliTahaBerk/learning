@@ -1,37 +1,63 @@
-# A1 Final Sınavı
+# A1 Final sınavı: A1 final: günlük iletişim
 
-## A. Dil kullanımı
+**Puan:** 100 · **Önerilen süre:** 65 dakika · **Uygulama:** yanıtları görmeden tamamla.
 
-1. Aşağıdaki işlevler için uygun cümle kur: kendini tanıt / geçmiş deneyim anlat / gerekçe sun (düzeye göre).
-2. İki cümleyi olumsuz ve soru biçimine dönüştür.
-3. Hatalı örneği düzelt: `*Soy 22 años.` Açıkla.
-4. Aşağıdaki modül bağlamlarından birini seç; hedef yapıyı doğru kullanarak iki yeni cümle yaz:
-- Selamlaşma ve tanışma: `Hola, me llamo Deniz. ¿Cómo te llamas? Soy de Turquía.`
-- Kimlik, ülkeler ve meslekler: `Tengo 22 años. Soy turco y estudio español.`
-- Aile ve insanları tanımlama: `Mi hermana es alta y tiene el pelo oscuro. Está cansada hoy.`
-- Günler, tarih, saat ve rutin: `Me levanto a las siete; normalmente desayuno en casa.`
-- Ev ve şehir: `Hay una farmacia cerca de mi casa. Está al lado del banco.`
-- Yemek ve restoranda iletişim: `Me gusta el café, pero prefiero el té. Quisiera una ensalada.`
-- Alışveriş, kıyafet ve fiyatlar: `¿Cuánto cuesta esta camisa? La quiero en azul.`
-- Boş zaman, hava ve planlar: `El sábado voy a visitar un museo porque me interesa el arte.`
-- Sağlık, vücut ve temel yolculuk: `Me duele la cabeza. Tengo que descansar. ¿Dónde está la estación?`
-- A1 bütünleştirme: günlük yaşam: `Vivo en İzmir, trabajo desde casa y por la tarde voy a cocinar con mis amigos.`
+## 1. Dil kullanımı — 20 puan
 
-## B. Kelime ve okuma
+Boşlukları parantezdeki ipucuna göre tamamla. Her madde eşit puanlıdır.
 
-5. İlgili seviye modüllerinden dört sözcüğü Türkçe ipucundan İspanyolcaya yaz; isimlerde artikel ekle.
-6. Modüllerdeki iki input metnini yeniden oku. Ana düşünceyi iki cümleyle, bir ayrıntıyı kanıtla açıkla.
+1. Yo ___ de Turquía. (ser)
+2. Mi barrio ___ tranquilo. (ser)
+3. En mi barrio ___ un parque.
+4. El parque ___ cerca de casa.
+5. Me ___ los museos.
+6. Mañana ___ a visitar a Ana. (ir, yo)
+7. Tengo que ___. (descansar)
+8. ___ las dos y media. (saat)
 
-## C. Dinleme senaryosu
+## 2. Sözcük ve kalıp — 8 puan
 
-7. Bir input metnini metni görmeden TTS ile dinle (veya başka biri okusun). Kim/nerede/ne oldu sorularını yanıtla; üç anahtar ifadeyi dikte et.
+Türkçe anlamı verilen ifadeyi İspanyolca yaz; isimlerde artikel ekle.
 
-## D. Yazma
+1. bilet
+2. eczane
+3. hava soğuk
+4. Tekrar edebilir misiniz?
 
-8. Düzeyine uygun kişisel/işlevsel metin yaz: A1 60–80, A2 90–120, B1 150–180, B2 220–280 kelime. En az üç modül yapısını kullan.
+## 3. Okuma — 20 puan
 
-## E. Konuşma
+Me llamo Selin y vivo en Bursa con mi hermana. Trabajo en una librería de lunes a viernes. Normalmente me levanto a las siete y tomo el autobús a las ocho. Cerca de mi casa hay una farmacia, un parque y dos restaurantes. Mi hermana estudia medicina y le gustan los museos. Este sábado vamos a visitar uno en el centro. Después queremos comer en un restaurante. Yo prefiero verduras; ella quiere pescado. El domingo voy a quedarme en casa porque me duele la cabeza y tengo que descansar. Si me encuentro mejor, por la tarde voy a leer en el parque.
 
-9. Konuyu notsuz anlat: A1 1 dk, A2 2 dk, B1 3 dk, B2 4 dk. Takip sorusuna yanıt ver.
+1. Selin nerede ve kiminle yaşıyor?
+2. Hafta içi saat kaçta otobüse biniyor?
+3. Kız kardeşi ne okuyor?
+4. Cumartesi planında hangi iki etkinlik var?
+5. Pazar neden evde kalacak?
 
-**Kendi puanlama:** Dil kullanımı 25, kelime/okuma 20, dinleme 15, yazma 20, konuşma 20. 80/100 ve üstü, her beceride anlaşılır görev başarısı ve kritik hedef yapılarda tutarlılık sonraki düzeye hazır oluş göstergesidir; ihtiyaç varsa ilgili modülü yeniden çalış.
+## 4. Dinleme — 16 puan
+
+Aşağıdaki betiği bir TTS aracına okut ya da başka biri okusun. Önce metne bakmadan dinle; soruları yanıtla. Sonra betikle kontrol et.
+
+<details><summary>Dinleme betiği — önce dinle, sonra aç</summary>
+
+— Hola, ¿cómo te llamas? — Me llamo Ada. — ¿De dónde eres? — Soy de Turquía, pero ahora vivo aquí. — ¿Qué te gusta hacer? — Me gusta caminar y me gustan los museos. — Mañana hace buen tiempo. ¿Vamos al parque? — Sí, pero tengo que comprar un billete de tren por la mañana. — Entonces quedamos a las cuatro. — Perfecto. ¿Dónde está el parque? — Está detrás de la estación.
+
+</details>
+
+1. Ada nereli, şimdi nerede?
+2. Hangi iki hobi söylüyor?
+3. Sabah ne almak zorunda?
+4. Kaçta buluşacaklar?
+5. Park nerede?
+
+## 5. Yazma — 20 puan
+
+80–100 kelimelik tanıtım: kimlik, ev, rutin, tercih, sağlık/ihtiyaç, hafta sonu planı. En az iki bağlaç.
+
+## 6. Konuşma — 16 puan
+
+90 saniyelik tanışma ve plan konuşması; anlaşılmayan bilgiyi tekrar iste.
+
+Kendi sesini kaydet; iki dinleyişte içerik, akıcılık ve doğruluğu ayrı değerlendir.
+
+[Yanıt anahtarı](06-final-exam-answers.md) · [Değerlendirme dizini](README.md)

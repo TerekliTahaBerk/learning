@@ -1,29 +1,29 @@
-# Dilbilgisi — B2 bütünleştirme: argümantasyon ve profesyonel iletişim
+# Dilbilgisi · B2 bütünleştirme: argümantasyon ve profesyonel iletişim
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-kip/zaman seçimi; edat isteyen fiiller; kalıplaşmış eşdizimler; üslup.
+## Argüman kurma
 
-Görüşü sınırlama: `hasta donde sabemos`, `conviene matizar`, `si bien`; iddia ve kanıtı ayır. Fiil+edat eşdizimleri: `insistir en`, `contribuir a`, `contar con`, `carecer de`, `referirse a`. Resmî yazıda açık paragraf yapısı, ölçülü kiplik ve tutarlı terim kullan.
+Bir tez yalnızca “katılıyorum” değildir: kapsamı, dayanağı ve sınırı olmalı. `A mi juicio, la medida puede mejorar el acceso, siempre que se garantice apoyo técnico.` — Bana göre önlem, teknik destek sağlanırsa erişimi iyileştirebilir. `Puede` iddiayı sınırlar; `siempre que + subjuntivo` koşulu belirtir. Kanıtı kaynağa bağla: `Según el informe...`; çıkarımını ayır: `Esto sugiere..., pero no demuestra...`.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Karşı sav ve taviz
 
-## Kullanım
+`Es cierto que la inversión inicial es alta. No obstante, conviene comparar el coste total a cinco años.` Karşı görüşün en güçlü hâlini adil biçimde kur; sonra hangi veriyle yanıtladığını göster. `Aunque` ile kip seçimi tavizin bilinen olgu mu açık varsayım mı olduğunu belirtir. `No es que la alternativa carezca de ventajas; es que su alcance es limitado` — Alternatifin avantajı olmadığından değil, kapsamı sınırlı.
 
-- **Olumlu:** `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Kaynak sentezi
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+Kaynak A bir sonuç, Kaynak B başka örneklem/bağlam verebilir. İlk paragrafta ortak soruyu ve farkı belirt; ikinci paragrafta kanıtların gücünü karşılaştır; son paragrafta kendi ölçülü çıkarımını yap. Uzun alıntıları kopyalama; kendi sözcüklerinle parafraz et ve kaynağı görünür tut. Belirsiz sayıyı kesin yüzde gibi yazma. `El estudio A indica...`; `El informe B, en cambio, no encuentra...`
 
-## Türkçe konuşanlar için dikkat
+## Kayıt, eşdizim ve doğruluk
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`insistir en`, `contribuir a`, `contar con`, `carecer de`, `referirse a`; edatı fiille birlikte taşı. Profesyonel e-postada `Le agradecería que...` açık talep ve tarih; raporda `objetivo, método, resultados, límites, recomendación`. Sözlü tartışmada `Permíteme matizar`, `Si te he entendido bien`, `¿Podrías concretar...?` etkileşimi sürdürür.
 
-## Kısa karşılaştırma
+## C1'e köprü
 
-- İspanyolca: `Conviene matizar la afirmación, dado que la evidencia disponible es parcial.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+B2 sonunda bütün konularda kusursuz olmak gerekmez. Yeni bir konuda ana savı, kanıtı, sınırı ve muhatabın itirazını açıklıkla işleyebilmeli; bilmediğin kelimeyi parafrazla aşabilmelisin. Sonraki aşama daha hızlı, özgün kaynaklarla nüans ve üslup geliştirmektir.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-iliskili-yapilar-vurgulama-ve-adlastirma/01-konu.md)
+❌ `*Según el informe, es seguro que...` kaynak yalnızca “olabilir” diyorsa aşırı kesinliktir. ✅ `El informe sugiere que podría...`. ❌ `*Insistió a cambiar` ✅ `Insistió en cambiar`. ❌ `*Carece datos` ✅ `Carece de datos`.
+
+**Mini uygulama:** Bir konuyu 90 saniyede savun, güçlü karşı savı adil özetle, sonra kanıtın sınırını belirt.
+
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B2](../README.md)

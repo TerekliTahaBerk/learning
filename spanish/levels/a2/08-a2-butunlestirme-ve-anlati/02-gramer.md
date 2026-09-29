@@ -1,29 +1,25 @@
-# Dilbilgisi — A2 bütünleştirme: deneyimden anlatıya
+# Dilbilgisi · A2 bütünleştirme: deneyimden anlatıya
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-geçmiş zaman seçimi; zamir dizilimi; bağlaçlar; desde hace.
+## Üç geçmiş zamana karar verme
 
-Zaman seçimi için üç soru: tamamlanmış çerçeve mi (`indefinido`), arka plan/alışkanlık mı (`imperfecto`), bugüne bağlı deneyim mi (`perfecto`)? `desde` başlangıç noktası; `desde hace + süre` devam eden süre; `hace + süre` geçmişteki nokta. Zamirlerin konumunu çekimli fiil ve mastar yanında kontrol et.
+1. **Konuşma anıyla bağlantılı/açık dönem:** `Este año he viajado dos veces.` — Bu yıl iki kez seyahat ettim. Bölgesel tercih değişebilir.
+2. **Tamamlanmış olay dizisi:** `Llegué al hotel, llamé y esperé.` — Otele vardım, aradım ve bekledim.
+3. **Arka plan/alışkanlık/sürmekte olan durum:** `El hotel estaba cerrado cuando llegué.` — Vardığımda otel kapalıydı.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+Zaman belirteçleri yardımcıdır; olayın görünüşünü anlatıcının bakışı belirler. `Ayer llovió toda la tarde` bitmiş bütün; `Ayer llovía cuando salí` arka plan. Türkçedeki “yağdı/yağıyordu” farkı yaklaştırır, fakat her durumda otomatik eşleşme değildir.
 
-## Kullanım
+## Zamir ve bağlama
 
-- **Olumlu:** `Cuando llegamos, el hotel estaba cerrado; por eso llamé al número de reserva.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+`Reservé la habitación → La reservé`; `Envié el número al hotel → Se lo envié`. Anlatıda aynı ismi sürekli tekrar etmeyi önler. `Primero`, `después`, `mientras`, `por eso`, `al final` zaman/neden ilişkisini açık kurar. `por eso` sonuç; `porque` neden sunar: `Llovía, por eso nos quedamos` / `Nos quedamos porque llovía`.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Süre ve plan
 
-## Türkçe konuşanlar için dikkat
+`Vivo aquí desde hace dos años` süren durum; `Llegué hace dos años` geçmiş olay. Gelecek planı: `Voy a volver en octubre`. Nazik yardım: `¿Podría ayudarme?`. A2 sonu amaç, yalnızca fiil tablosu değil; sorun çıktığında hikâyeyi anlaşılır biçimde sürdürebilmek.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*Cuando llegué, el hotel cerró` (otel zaten kapalıydı demek için) ✅ `Cuando llegué, el hotel estaba cerrado`. ❌ `*Le lo envié` ✅ `Se lo envié`. ❌ `*Vivo aquí hace dos años` ✅ `Vivo aquí desde hace dos años` (süren durum).
 
-## Kısa karşılaştırma
+**Mini uygulama:** Bir gezi sorununu önce arka plan, sonra üç olay, sonra çözüm ve yeni planla anlat.
 
-- İspanyolca: `Cuando llegamos, el hotel estaba cerrado; por eso llamé al número de reserva.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../07-davetler-iliskiler-ve-gelecek/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

@@ -1,29 +1,41 @@
-# Dilbilgisi — Dilek, tavsiye, şüphe ve subjuntivo
+# Dilbilgisi · Dilek, tavsiye, şüphe ve subjuntivo
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-şimdiki subjuntivo; tetikleyiciler ve anlam motivasyonu.
+## Kipin anlamı
 
-Düzenli şimdiki subjuntivo: `hable, hables, hable, hablemos, habléis, hablen`; `coma...`, `viva...`. Şimdiki yo biçiminden türetilir: `tengo→tenga`, `hago→haga`, `voy→vaya`. İstek/etki (`quiero que`), duygu (`me alegra que`), kuşku (`dudo que`) farklı özneyle subjuntivo ister. Aynı özne: `Quiero descansar`.
+Subjuntivo, yan cümlenin “yalan” olduğunu söylemez. Ana cümledeki kişi iç olayı isteme, değerlendirme, ona tepki verme veya ondan kuşku duyma çerçevesi kurar: `Quiero que vengas` — Gelmeni istiyorum. `Me alegra que vengas` — Gelmene seviniyorum. `Dudo que vengas` — Geleceğinden kuşkuluyum. Kip seçimini tetikleyici ezberinden önce bu tutumla ilişkilendir.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Şimdiki biçim
 
-## Kullanım
+| Kişi | hablar | comer | vivir |
+|---|---|---|---|
+| yo | hable | coma | viva |
+| tú | hables | comas | vivas |
+| él/ella/usted | hable | coma | viva |
+| nosotros/as | hablemos | comamos | vivamos |
+| vosotros/as | habléis | comáis | viváis |
+| ellos/ellas/ustedes | hablen | coman | vivan |
 
-- **Olumlu:** `Te recomiendo que reserves con antelación.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+Çoğunlukla indicativo `yo` kökü üzerinden kurulur: `tengo→tenga`, `hago→haga`, `salgo→salga`. Önemli düzensizler: `ser→sea`, `estar→esté`, `ir→vaya`, `haber→haya`, `saber→sepa`, `dar→dé`. Yazımı koruma: `buscar→busque`, `llegar→llegue`, `empezar→empiece`.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Farklı özne / aynı özne
 
-## Türkçe konuşanlar için dikkat
+`Quiero descansar` — Dinlenmek istiyorum (aynı kişi). `Quiero que descanses` — Dinlenmeni istiyorum (farklı kişi). `Te recomiendo descansar` ve `Te recomiendo que descanses` ikisi de olabilir; yapı seçiminde etki edilen öznenin açık olup olmadığına bak.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+## Kullanım kümeleri
 
-## Kısa karşılaştırma
+- **Dilek/etki:** `Espero que llegues bien` — Sağ salim varmanı umuyorum. `Te pido que me llames` — Beni aramanı istiyorum.
+- **Tavsiye/istek:** `Es mejor que descanses` — Dinlenmen daha iyi.
+- **Duygu/değerlendirme:** `Me alegra que estés aquí` — Burada olmana seviniyorum.
+- **Şüphe/inkâr:** `Dudo que sea suficiente` — Yeterli olduğundan kuşkuluyum. `No creo que funcione` — İşleyeceğini sanmıyorum.
+- **Amaç:** `Te escribo para que sepas la fecha` — Tarihi bilmen için yazıyorum. Aynı özne: `Escribo para recordar la fecha` — Tarihi hatırlamak için yazıyorum.
+- **Emir:** `No salgas tarde` — Geç çıkma; olumsuz `tú` emri subjuntivo biçimindedir.
 
-- İspanyolca: `Te recomiendo que reserves con antelación.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+`Creo que funciona` benimsenen önerme; `No creo que funcione` benimsenmeyen önerme. Türkçede “sanıyorum/sanmıyorum” farklı eklerle çevrilebilir; İspanyolcada iç cümle kipine de bak.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-gorus-gerekce-ve-tartisma/01-konu.md) · [Sonraki modül →](../05-kosullar-olasilar-ve-oneriler/01-konu.md)
+❌ `*Quiero que vienes` ✅ `Quiero que vengas`. ❌ `*Espero venir tú` ✅ `Espero que vengas` (senin gelmeni umuyorsam). ❌ `*Para que entiendes` ✅ `Para que entiendas`.
+
+**Mini uygulama:** Her kullanım kümesi için bir cümle kur; iç cümledeki özneyi ve tutumu açıklayarak kip seçimini savun.
+
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

@@ -1,30 +1,37 @@
-# Girdi ve anlama — Koşullar, olasılıklar ve öneriler
+# Okuma ve dinleme · Koşullar, olasılıklar ve öneriler
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-Si el ayuntamiento ampliara el carril bici, más personas irían en bicicleta.
+> En el barrio de Ana hay más bicicletas que hace cinco años, pero las calles siguen siendo difíciles para quienes van al trabajo en bici. En una reunión vecinal se presentan tres propuestas. La primera consiste en construir un carril bici separado del tráfico. Sería más seguro, aunque también requeriría una inversión importante. La segunda es ampliar la frecuencia del autobús durante las horas de mayor movimiento. Si hubiera más autobuses a primera hora, quizá menos personas usarían el coche. La tercera propuesta es limitar el aparcamiento en algunas calles, medida que algunos comerciantes rechazan. Ana intenta evitar un debate de “todo o nada”. Dice que, si el ayuntamiento publica datos de accidentes y uso del transporte, los vecinos podrán comparar los efectos de cada opción. También propone probar una calle durante tres meses antes de extender el cambio. Si la prueba funciona, podrían adaptarla a otras zonas; si no funciona, revisarían el diseño. Al final acuerdan pedir un presupuesto y datos actualizados. Nadie promete una solución perfecta, pero todos aceptan que el problema merece una respuesta medible.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Üç öneri ne?
+2. Ana “ya hep ya hiç” yaklaşımından nasıl kaçınıyor?
+3. Hangi bilgi karar için gerekli görülüyor?
+4. Üç aylık deneme hangi koşula bağlı genişleyebilir?
+5. `Si hubiera más autobuses... usarían` ne tür bir varsayım kuruyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Ek okuma: metne yeni bilgi
 
-## Gözlem
+> Un mes después llegaron los primeros datos. Los accidentes habían aumentado en la avenida principal, aunque no en las calles pequeñas. Ana advirtió que una sola cifra de barrio podía ocultar diferencias importantes. Si el ayuntamiento examinaba cada calle por separado, podría elegir una prueba más precisa. Algunos vecinos seguían prefiriendo un cambio inmediato; otros querían esperar. El desacuerdo era sobre el ritmo, no necesariamente sobre la necesidad de actuar.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+**Çıkarım sorusu:** Veri neden sokak düzeyinde incelenmeli?
 
-## Dikte
+## Dinleme / TTS metni
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../04-dilek-tavsiye-suphe-ve-subjuntivo/01-konu.md) · [Sonraki modül →](../06-toplum-cevre-ve-medya/01-konu.md)
+> — Si el ayuntamiento construye un carril bici, ¿lo usarías? — Sí, si está separado de los coches. Ahora me parece peligroso. — ¿Y si no hay presupuesto? — Podríamos empezar con una calle y medir el uso. — Si hubiera más autobuses temprano, yo quizá no usaría el coche. — Entonces pidamos datos antes de decidir. — De acuerdo. Si recibimos el informe este mes, organizaremos otra reunión. — Me parece bien.
+
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
+
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ B1](../README.md)

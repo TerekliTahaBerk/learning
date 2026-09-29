@@ -1,29 +1,30 @@
-# Dilbilgisi — Anlatı ve geçmiş zaman kontrolü
+# Dilbilgisi · Anlatı ve geçmiş zaman kontrolü
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-geçmiş zaman etkileşimi; anlatı sıralaması; pluscuamperfecto giriş.
+## Anlatıcı dört zaman katmanı kurar
 
-Anlatıda `indefinido` olay dizisini ilerletir, `imperfecto` arka plan/alışkanlık kurar, `pluscuamperfecto` geçmiş referans noktasından daha önce olanı belirtir: `había llegado`. Zaman belirteçleri tek başına karar vermez; olayın bakış açısını seç.
+`imperfecto` sahneyi ve sürmekte olan durumu açar: `Llovía y la estación estaba llena.` — Yağmur yağıyordu, istasyon kalabalıktı. `indefinido` olay çizgisini ilerletir: `Perdí el tren y llamé a Marta.` — Treni kaçırdım ve Marta'yı aradım. `pretérito perfecto` konuşma anına bağlı deneyim için kullanılabilir: `Esta semana he perdido dos trenes.` — Bu hafta iki tren kaçırdım. `pluscuamperfecto` geçmişteki bir referans noktasından daha önceki olayı belirtir: `Cuando llegué, el tren ya había salido.` — Vardığımda tren çoktan kalkmıştı.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Pluscuamperfecto biçimi
 
-## Kullanım
+| Kişi | `haber` imperfecto + participio |
+|---|---|
+| yo | había llegado |
+| tú | habías llegado |
+| él/ella/usted | había llegado |
+| nosotros/as | habíamos llegado |
+| vosotros/as | habíais llegado |
+| ellos/ellas/ustedes | habían llegado |
 
-- **Olumlu:** `Cuando llegué, ya habían cerrado la puerta.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+Ortaç değişmez: `habían escrito`, `habíamos visto`. `Ya`, `todavía no`, `antes de` kronolojiyi destekler; tek başlarına hangi zamanı kullanacağını otomatik belirlemez.
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+## Olay sırası ve bakış
 
-## Türkçe konuşanlar için dikkat
+`Había reservado una habitación, pero al llegar descubrí que el hotel estaba cerrado.` Rezervasyon daha önce, keşif ana olay, kapalı olma arka plan. Bu üç bilgiyi aynı `-di` ekiyle anlatan Türkçe cümle kurabilirsin; İspanyolcada zamansal bakış noktalarını açık işaretlersin. `Cuando llegó, ya había salido` ve `Cuando llegó, salí` farklı kronoloji kurar.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+❌ `*Cuando llegué, el tren salió ya` (önceden kalkmıştı demek için) ✅ `Cuando llegué, el tren ya había salido`. ❌ `*Había llegué` ✅ `Había llegado`. ❌ `*Mientras esperaba, perdía la cartera` (tek olay) ✅ `Mientras esperaba, perdí la cartera`.
 
-## Kısa karşılaştırma
+**Mini uygulama:** Bir olay çizgisi çiz; hangi eylem referans noktasından önce, hangi olay o anda, hangi durum arka planda?
 
-- İspanyolca: `Cuando llegué, ya habían cerrado la puerta.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [Sonraki modül →](../02-egitim-kariyer-ve-is-yeri/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ B1](../README.md)

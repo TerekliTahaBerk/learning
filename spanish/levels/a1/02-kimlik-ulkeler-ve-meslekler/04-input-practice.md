@@ -1,30 +1,31 @@
-# Girdi ve anlama — Kimlik, ülkeler ve meslekler
+# Okuma ve dinleme · Kimlik, ülkeler ve meslekler
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-—¿A qué te dedicas? —Soy diseñadora. Vivo en Ankara y hablo turco e inglés.
+> Me llamo Selin y tengo veinticuatro años. Soy de Bursa, una ciudad de Turquía. Ahora vivo en Madrid porque estudio diseño. En clase hablo español con mis compañeros, pero en casa hablo turco con mi familia. Mi amiga Laura es española y trabaja como ingeniera. Su hermano Tomás es profesor. Laura habla español e inglés; Tomás habla español y francés. Cuando conozco a alguien, pregunto: “¿De dónde eres?” y “¿A qué te dedicas?”. No necesito hablar perfectamente para empezar una conversación. Escucho la respuesta y hago otra pregunta. Así puedo conocer mejor a la persona.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Selin hangi şehirden geliyor?
+2. Madrid’de ne okuyor?
+3. Laura ile Tomás’ın meslekleri ne?
+4. Selin evde hangi dili konuşuyor?
+5. Son cümlede `así` hangi sonucu bağlıyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — Buenos días. ¿Cuál es su nombre? — Selin Kaya. — ¿Cuántos años tiene? — Veinticuatro. — ¿De qué país es? — Soy de Turquía. — ¿Qué idiomas habla? — Turco y un poco de español. — ¿A qué se dedica? — Soy estudiante de diseño. — Gracias. ¿Vive aquí en Madrid? — Sí, vivo cerca de la universidad. — Perfecto. Aquí tiene su tarjeta.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../01-selamlasma-ve-tanisma/01-konu.md) · [Sonraki modül →](../03-aile-ve-insanlari-tanimlama/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A1](../README.md)

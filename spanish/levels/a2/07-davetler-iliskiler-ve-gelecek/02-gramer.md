@@ -1,29 +1,21 @@
-# Dilbilgisi — Davetler, ilişkiler ve gelecek planı
+# Dilbilgisi · Davetler, ilişkiler ve gelecek planı
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-ir a; gelecek ifade etme; acabar de, volver a, seguir + gerundio.
+## Gelecek anlatımının seçenekleri
 
-`ir a + infinitivo` plan; gelecek zaman sonları `-é, -ás, -á, -emos, -éis, -án` mastara eklenir (`viviré`). Nazik rica: `¿Podrías...?`, `¿Te importaría...?`. Perífrasis: `acabar de + infinitivo` az önce, `volver a` yeniden, `seguir + gerundio` sürdürmek, `dejar de` bırakmak.
+`ir a + infinitivo` niyet veya plan: `Vamos a cenar el viernes`. Şimdiki zaman kararlaştırılmış programı da gösterebilir: `El viernes cenamos juntos`. Basit gelecek `cenaré` tahmin, vaat veya daha mesafeli plan sunabilir; çekimi B1'de genişleyecek. Tek bir Türkçe “-ecek” eki bütün bu nüansları belirlemez.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+## Davet ve kibar yanıt
 
-## Kullanım
+`¿Te apetece venir?` — Gelmek ister misin? `Me gustaría ir` — Gitmek isterdim. `¿Podrías venir más tarde?` — Daha sonra gelebilir misin? `Lo siento, no puedo` — Üzgünüm, gelemem. Ret verirken alternatif öner: `¿Qué tal el sábado?` — Cumartesi nasıl? `Te invito a cenar` — Seni akşam yemeğine davet ediyorum.
 
-- **Olumlu:** `¿Te apetece venir a cenar? Acabo de llegar a casa.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Eylemin evresi
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`acabar de + infinitivo`: az önce; `Acabo de llegar` — Az önce geldim. `volver a + infinitivo`: yeniden; `Volvemos a intentarlo` — Yeniden deniyoruz. `seguir + gerundio`: sürdürmek; `Seguimos buscando piso` — Ev aramaya devam ediyoruz. `dejar de + infinitivo`: bırakmak; `Dejé de trabajar allí` — Orada çalışmayı bıraktım. `seguir` sonrası mastar değil gerundio.
 
-## Türkçe konuşanlar için dikkat
+❌ `*Acabo llegar.` ✅ `Acabo de llegar.` Edat gerekir. ❌ `*Seguimos buscar piso.` ✅ `Seguimos buscando piso.` Gerundio gerekir. ❌ `*¿Te apetece vienes?` ✅ `¿Te apetece venir?` Sonrasında mastar.
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+**Mini uygulama:** Bir daveti kabul et, başka birini nazikçe reddet ve yeni tarih öner; az önce yaptığın bir şeyden söz et.
 
-## Kısa karşılaştırma
-
-- İspanyolca: `¿Te apetece venir a cenar? Acabo de llegar a casa.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-karsilastirma-sehir-ve-hizmetler/01-konu.md) · [Sonraki modül →](../08-a2-butunlestirme-ve-anlati/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A2](../README.md)

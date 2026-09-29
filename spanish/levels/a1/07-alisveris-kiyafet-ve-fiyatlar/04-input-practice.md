@@ -1,30 +1,31 @@
-# Girdi ve anlama — Alışveriş, kıyafet ve fiyatlar
+# Okuma ve dinleme · Alışveriş, kıyafet ve fiyatlar
 
-Aşağıdaki özgün metni önce sözlük açmadan oku. Dinleme için metni TTS'e ver veya kendin doğal hızda kaydedip dinle; ses dosyası sağlanmamıştır.
+Metinler bu ders için özgün yazılmıştır. Sağlanan ses dosyası yoktur; dinleme bölümünü TTS ile veya başka bir kişinin sesli okumasıyla çalış.
 
-## Normal metin
+## Okuma
 
-—¿Tiene estos zapatos en otra talla? —Sí, en la treinta y ocho. —¿Cuánto cuestan?
+> En la tienda hay una mesa con ropa de verano. Marta busca una camisa para un viaje. Ve una camisa roja y otra azul. La roja cuesta treinta euros y la azul, veinticinco. Marta prefiere la azul, pero su talla no está en la mesa. Pregunta a la dependienta: “¿Tiene esta camisa en la talla mediana?”. La dependienta busca en otra habitación y encuentra una. Marta se prueba la camisa. Le queda bien y el color le gusta. Cerca de la caja ve unos zapatos blancos. Son bonitos, pero cuestan ochenta euros. Hoy compra solo la camisa y deja los zapatos para otro día.
 
-## Yavaş ve parçalı okuma
+### Metne dayalı sorular
 
-Metni kısa anlam gruplarına böl. Her gruptan sonra dur, anahtar kelimeyi not et, ardından tüm metni doğal akışla tekrar dinle/oku.
+1. Marta hangi iki renk gömlek görüyor?
+2. Mavi gömleğin fiyatı ne?
+3. Marta neden görevliye soru soruyor?
+4. Ayakkabıları neden bugün almıyor?
+5. `la azul` hangi ismin yerine geçiyor?
 
-## Anlama soruları
+Önce metni bir kez akıcı oku ve ana durumu bir Türkçe cümlede söyle. Ardından soruları yanıtla. Son okumada hedef dilbilgisi biçimlerini ve iki yeni eşdizimi işaretle.
 
-1. Metnin ana konusu nedir?
-2. Kim, nerede veya ne zaman hakkında hangi bilgi veriliyor?
-3. Hangi ifade bu modülün dilbilgisi hedefini gösteriyor?
-4. Bir ayrıntıyı metinden kanıtla.
+## Dinleme / TTS metni
 
-## Gözlem
+**Dinlemeden önce:** Başlığa göre konuşmanın bağlamını tahmin et. Metni gizle.
 
-- İki yeni kelimeyi ve artikellerini çıkar.
-- Hedef dilbilgisi biçimini işaretle; konuşmacı neden bu biçimi seçmiş?
-- Bir cümleyi gölgele: önce dinle, sonra aynı ritimle söyle.
+> — Hola, ¿puedo ayudarte? — Sí. Busco un pantalón negro. — ¿Qué talla necesitas? — La mediana. — Tenemos este y ese. — ¿Cuánto cuestan? — Este cuesta veintinueve euros y ese cuesta treinta y cinco. — Prefiero este. ¿Puedo probarlo? — Claro, el probador está a la derecha. — Gracias.
 
-## Dikte
+1. **İlk dinleme:** Konuşmanın amacını bir cümlede söyle.
+2. **İkinci dinleme:** Konuşmacıların ne istediğini/planladığını ve sonucu not et.
+3. **Dikte:** Son iki repliği yazıp aksan ve soru işaretlerini metinle karşılaştır.
+4. **Gölgeleme:** Soru ve yanıtı doğal ritimle iki kez tekrar et.
+5. **Sonrası:** Konuşmayı farklı ad/yer/bilgiyle 30 saniyede yeniden anlat.
 
-Metni kapat. İlk dinleyişte ana fikri, ikinci dinleyişte anahtar ifadeleri yaz. Sonra metinle karşılaştırıp vurgu işaretlerini ve noktalama işaretlerini düzelt.
-
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../06-yemek-ve-restoran/01-konu.md) · [Sonraki modül →](../08-bos-zaman-hava-ve-planlar/01-konu.md)
+[← Kelime](03-kelime.md) · [Üretim →](05-output-practice.md) · [↑ A1](../README.md)

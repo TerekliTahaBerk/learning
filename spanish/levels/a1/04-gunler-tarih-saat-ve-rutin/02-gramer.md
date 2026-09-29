@@ -1,29 +1,32 @@
-# Dilbilgisi — Günler, tarih, saat ve rutin
+# Dilbilgisi · Günler, tarih, saat ve rutin
 
-## Bu derste
+Bu dersin yapısını önce anlamıyla, sonra biçimiyle öğren. Örnekleri sesli oku; Türkçe karşılıklarını cümle düzeyinde düşün.
 
-düzenli şimdiki zaman, düzensiz çekimler, dönüşlü fiiller, sıklık zarfları.
+## Şimdiki zamanın iki işlevi
 
-Düzenli şimdiki zaman: `hablar: hablo, hablas, habla, hablamos, habláis, hablan`; `comer: como, comes, come, comemos, coméis, comen`; `vivir: vivo, vives, vive, vivimos, vivís, viven`. Dönüşlü fiil zamiri: `me levanto, te levantas, se levanta...`. `e→ie` (pensar), `o→ue` (dormir), `e→i` (pedir); nosotros/vosotros çoğunlukla kök değişimini almaz.
+`Trabajo los lunes.` — Pazartesileri çalışırım. `Trabajo hoy.` — Bugün çalışıyorum. İspanyolca `presente` hem alışkanlık hem içinde bulunulan durum için kullanılır; Türkçede şimdiki/geniş zaman ayrımı daha belirgindir. O anda sürmekte oluşu vurgulamak için ileride `estar + gerundio` kullanılır.
 
-Türkçede benzer anlam farklı ek veya söz dizimiyle kurulabilir; İspanyolca biçimi Türkçe kelime kelime çevirmeden, örnek kalıpla öğren.
+| Kişi | hablar | comer | vivir |
+|---|---|---|---|
+| yo | hablo | como | vivo |
+| tú | hablas | comes | vives |
+| él/ella/usted | habla | come | vive |
+| nosotros/as | hablamos | comemos | vivimos |
+| vosotros/as | habláis | coméis | vivís |
+| ellos/ellas/ustedes | hablan | comen | viven |
 
-## Kullanım
+Mastardaki `-ar/-er/-ir` yerine kişi sonu gelir. `hacer → hago`, `ir → voy`, `tener → tengo` sık düzensizdir. Kök değişimi: `pensar → pienso` ama `pensamos`; `dormir → duermo` ama `dormimos`; `pedir → pido` ama `pedimos`.
 
-- **Olumlu:** `Me levanto a las siete; normalmente desayuno en casa.`
-- Olumsuzlukta `no` çekimli fiilden önce gelir: `No vivo en Madrid.` (Madrid'de yaşamıyorum.)
-- Soru işaretleri açılış ve kapanışta yazılır: `¿Dónde vives?` (Nerede yaşıyorsun?)
+## Dönüşlü rutin fiilleri
 
-Model cümleyi özne, zaman, kişi veya yer bilgisini değiştirerek üç kez yeniden kur. Türkçe anlamı önce söyle, sonra İspanyolca cümleyi notsuz üret.
+`levantarse`: `me levanto, te levantas, se levanta, nos levantamos, os levantáis, se levantan`. Dönüşlü zamir özneyle eşleşir. `Me levanto a las siete` — Yedide kalkarım. `Levanto la mano` — Elimi kaldırırım; `me` yoksa anlam değişebilir.
 
-## Türkçe konuşanlar için dikkat
+## Saat, tarih ve sıklık
 
-Türkçedeki eklemeli yapı ve düşürülebilen özne İspanyolcada aynı seçimleri garanti etmez. Artikel, uyum, zamir ve fiil biçimini cümlenin tamamıyla kontrol et. Sık tuzaklar için [Türkçe konuşanlar rehberi](../../../reference/12-turkish-speaker-guide.md); yapının düzeyler arası yeri için [dilbilgisi dizini](../../../reference/03-grammar-index.md).
+`¿Qué hora es?` — Saat kaç? `Es la una`, ama `Son las dos`. Eylemin zamanı: `a la una`, `a las dos`. `Son las ocho y media` — Sekiz buçuk. Tarih: `Hoy es martes, 12 de mayo.` Ay ve gün adları normalde küçük harfle. Sıklık: `siempre, normalmente, a menudo, a veces, nunca`. Çoğu sıklık zarfı fiilden önce/sonra bağlama göre yerleşebilir: `Normalmente desayuno en casa`.
 
-## Kısa karşılaştırma
+❌ `*Yo habla español.` ✅ `Yo hablo español.` `yo` birinci kişi biçimini ister. ❌ `*Son la una.` ✅ `Es la una.` Saat bir tekildir. ❌ `*Levanto a las siete.` ✅ `Me levanto a las siete.` Kişinin kalkması dönüşlü fiildir.
 
-- İspanyolca: `Me levanto a las siete; normalmente desayuno en casa.`
-- Türkçe: cümlenin anlamı, sözcük sırası aynı olmasa da Türkçe karşılığıyla kurulabilir.
-- Kendine sor: Bu biçim olayın zamanını mı, konuşanın tutumunu mu, sözcükler arası ilişkiyi mi gösteriyor?
+**Mini uygulama:** Bugünün gününü ve tarihini söyle; kendi rutininden beş eylemi farklı saatlerle sırala.
 
-[↑ Seviye dizini](../README.md) · [← Önceki modül](../03-aile-ve-insanlari-tanimlama/01-konu.md) · [Sonraki modül →](../05-ev-ve-sehir/01-konu.md)
+[← Konu](01-konu.md) · [Kelime →](03-kelime.md) · [↑ A1](../README.md)

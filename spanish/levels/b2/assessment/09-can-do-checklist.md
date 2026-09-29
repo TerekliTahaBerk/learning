@@ -1,13 +1,13 @@
-# B2 Can Do Kontrolü
+# B2 yapabilirim listesi
 
-Kendine 0 (henüz yapamıyorum), 1 (yardımla), 2 (çoğunlukla bağımsız), 3 (rahat) ver. 2 altındaki beceriyi çalışmaya geri taşı.
+Her maddeye **tek başıma / yardım ile / henüz değil** yaz ve örnek üret.
 
-- [ ] Seviyenin modül temalarını konuşmada birleştirebiliyorum.
-- [ ] İlgili düzeydeki kısa/uzun metnin ana fikrini ve ayrıntısını çıkarabiliyorum.
-- [ ] Yeni kelimeleri artikel/kalıpla doğru üretebiliyorum.
-- [ ] Düzey hedefi için gerekli dilbilgisi yapısını bağlamda seçebiliyorum.
-- [ ] Seviyeye uygun bir yazı üretebiliyor ve düzenleyebiliyorum.
-- [ ] Metni TTS/dikte/gölgeleme yoluyla çalışıp anahtar bilgiyi anlayabiliyorum.
-- [ ] Bir hatamı açıklayıp düzeltebiliyorum.
+- [ ] İki kaynağın gücü/sınırı tartılır; çıkarım kanıttan ayrılır.
+- [ ] Nüans, kip, koşul ve dolaylı aktarım güvenilir kullanılır.
+- [ ] Tutarlı, uygun üsluplu ve açık yapı kurulur.
+- [ ] Yeni bir metinde ana fikir ile ayrıntıyı ayırıp kanıt satırını gösterebilirim.
+- [ ] Bir konuşmayı metni görmeden dinleyip en az üç soruyu yanıtlayabilirim.
+- [ ] Yazdığım metni rubriğe göre düzeltip ikinci sürümü hazırlayabilirim.
+- [ ] Takip sorusuna doğrudan yanıt verip gerekirse açıklama isteyebilirim.
 
-**Karar:** En az 2 ortalama, her beceride 1 veya üstü ve finalde 80/100 önerilen geçiş ölçütüdür. Bu kişisel çalışma eşiğidir; resmî sertifika değildir.
+Eksik maddeler için [tekrar paketi](../review/README.md) ve ilgili modüle dön.
