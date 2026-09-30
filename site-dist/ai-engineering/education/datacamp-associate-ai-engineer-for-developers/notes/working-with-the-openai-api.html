@@ -1,0 +1,170 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><title>Working with the OpenAI API · Learning</title><meta name="description" content="Notlar ve uygulamalar"><link rel="icon" type="image/svg+xml" href="../../../../assets/favicon.svg"><link rel="stylesheet" href="../../../../assets/style.css"><link rel="stylesheet" href="../../../../assets/refined.css"><script defer src="../../../../assets/app.js"></script></head><body class="reader-page" data-search="../../../../assets/search.json" data-page="ai-engineering/education/datacamp-associate-ai-engineer-for-developers/notes/working-with-the-openai-api.html" data-root="../../../.."><div class="site-layout"><header class="topbar"><a class="brand" href="../../../../index.html">Learning<span class="brand-dot">.</span></a>
+      <button class="mobile-menu icon-button" type="button" data-action="menu" aria-label="İçindekileri aç" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+      <div class="header-spacer"></div><button class="search-button" type="button" data-action="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m16 16 4.2 4.2"/></svg><span>Kitap içinde ara</span><kbd>⌘ K</kbd></button>
+      <div class="book-switch"><a href="../../../../spanish/README.html" class="">İspanyolca</a><a href="../../../README.html" class="selected">AI Engineering</a></div>
+      <button class="icon-button theme-button" type="button" data-action="theme" aria-label="Görünümü değiştir"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14A8.5 8.5 0 0 1 10 3.5 8.5 8.5 0 1 0 20.5 14Z"/></svg></button></header><aside class="sidebar" id="sidebar"><div class="sidebar-top"><span class="section-label">KİTAPLAR</span><a class="book-link " href="../../../../spanish/README.html"><span class="book-mark spanish-mark">ES</span><span><strong>İspanyolca</strong><small>A1–B2 · Türkçe destekli kurs</small></span></a><a class="book-link current" href="../../../README.html"><span class="book-mark ai-mark">AI</span><span><strong>AI Engineering</strong><small>Notlar ve uygulamalar</small></span></a></div><div class="sidebar-scroll"><span class="section-label">İÇİNDEKİLER</span><nav class="book-nav" aria-label="Kitap içindekiler">
+<a class="nav-home" href="../../../README.html">Kitaba genel bakış</a>
+<div class="nav-divider">Eğitim</div>
+<a class="nav-sub" href="../../README.html">Eğitim haritası</a>
+<details class="nav-group" open><summary>DataCamp Associate AI Engineer for Developers</summary>
+<a class="nav-sub" href="../README.html">Genel bakış</a>
+<a class="nav-lesson" href="working-with-the-openai-api.html" aria-current="page">Working with the OpenAI API</a>
+</details>
+<details class="nav-group" ><summary>Prompt Engineering with the OpenAI API</summary>
+<a class="nav-sub" href="../../prompt-engineering-with-the-openai-api/README.html">Genel bakış</a>
+<a class="nav-lesson" href="../../prompt-engineering-with-the-openai-api/notes/prompt-engineering-with-the-openai-api.html">Prompt Engineering with the OpenAI API</a>
+</details>
+</nav></div></aside><main class="main-content" id="main"><div class="reading-wrap"><div class="breadcrumbs"><a class="" href="../../../README.html">AI Engineering</a><span>›</span><span>Working with the OpenAI API</span></div><article class="prose" id="article"><h1 id="working-with-the-openai-api">Working with the OpenAI API</h1>
+<blockquote>
+<p>Study notes based on the three supplied DataCamp chapter PDFs. The course teaches the Chat Completions endpoint. The final section adds current API context so the examples are easier to apply in new projects.</p>
+</blockquote>
+<h2 id="learning-goals">Learning goals</h2>
+<p>After these chapters, you should be able to:</p>
+<ul>
+<li>Explain what an API request and response are.</li>
+<li>Send text to an OpenAI model from Python and read the returned text.</li>
+<li>Use a model for transformation, summarization, generation, and classification.</li>
+<li>Guide outputs with instructions and examples.</li>
+<li>Keep conversation history for follow-up questions.</li>
+<li>Reason about token limits, usage, cost, and API-key handling.</li>
+</ul>
+<h2 id="1-what-an-api-does">1. What an API does</h2>
+<p>An API (Application Programming Interface) is a contract that lets one program request a service from another program. The client sends a request; the service processes it and returns a response. For the OpenAI API, a request typically identifies a model and includes input plus optional parameters. The response contains generated output and metadata such as usage.</p>
+<p>A web interface such as ChatGPT is ready to use by a person. An API lets a developer call a model from code and connect it to an application or workflow.</p>
+<h3 id="the-basic-request-cycle">The basic request cycle</h3>
+<ol type="1">
+<li>Create an API key in the OpenAI Platform.</li>
+<li>Install and initialize the official SDK.</li>
+<li>Choose an endpoint and model.</li>
+<li>Send input and any supported options.</li>
+<li>Read the generated output and inspect metadata when needed.</li>
+</ol>
+<p>The course's Chat Completions example:</p>
+<pre class="python"><code>from openai import OpenAI
+
+client = OpenAI()  # Reads OPENAI_API_KEY from the environment.
+
+response = client.chat.completions.create(
+    model=&quot;gpt-4o-mini&quot;,
+    messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;What is an API?&quot;}],
+)
+
+print(response.choices[0].message.content)</code></pre>
+<p><code>messages</code> is a list of dictionaries. Each dictionary has a <code>role</code> and <code>content</code>. The SDK returns a structured object; for Chat Completions, <code>choices[0].message.content</code> is the first generated message's text.</p>
+<h3 id="protect-the-api-key">Protect the API key</h3>
+<p>Treat an API key like a password. Do not paste it into source code, commit it to Git, or expose it in browser-side code. Store it in an environment variable or a secrets manager. The Python SDK can read <code>OPENAI_API_KEY</code> automatically when creating <code>OpenAI()</code>.</p>
+<h2 id="2-tasks-you-can-ask-a-model-to-perform">2. Tasks you can ask a model to perform</h2>
+<p>The second chapter applies the same request pattern to common language tasks:</p>
+<ul>
+<li><strong>Question answering:</strong> respond to a question using the supplied input.</li>
+<li><strong>Text transformation:</strong> rewrite text while preserving specified facts, such as changing a person's name or job title.</li>
+<li><strong>Summarization:</strong> compress a transcript or document to a requested length or format.</li>
+<li><strong>Generation:</strong> create a tagline, product description, or other new text.</li>
+<li><strong>Classification:</strong> assign labels, such as a sentiment score or category.</li>
+</ul>
+<p>The quality of the result depends on the clarity of the instructions and the information provided. For transformations, state what may change and what must stay the same. For summaries, give the desired number of bullets or sentences. For classifications, define the label set and what each label means.</p>
+<p>Example of a narrowly specified transformation:</p>
+<pre class="python"><code>prompt = &quot;&quot;&quot;Rewrite the text for a professional audience.
+Keep all dates and product specifications unchanged.
+Return only the rewritten text.
+
+Text: {text}
+&quot;&quot;&quot;.format(text=source_text)</code></pre>
+<h2 id="3-tokens-output-limits-and-cost">3. Tokens, output limits, and cost</h2>
+<p>A <strong>token</strong> is a unit used to represent text for a model. A token may be a whole word, part of a word, punctuation, or other text. Token counts are not the same as word counts. The prompt and generated output both use tokens.</p>
+<p>A generation limit such as <code>max_completion_tokens</code> places an upper bound on generated tokens for Chat Completions. If the limit is too low, the answer may stop mid-sentence. A limit is a cap, not a guarantee that the model will use that many tokens.</p>
+<p>API pricing depends on the model and usage categories. Input and output tokens can have different prices, and some models or features may have additional pricing rules. Prices change, so check the live pricing page before estimating a real project's cost.</p>
+<p>For Chat Completions, the response includes actual usage. The course's cost example uses the requested maximum output limit as <code>output_tokens</code>; for an after-the-fact estimate, use the actual usage returned by the API instead:</p>
+<pre class="python"><code>usage = response.usage
+input_tokens = usage.prompt_tokens
+output_tokens = usage.completion_tokens
+
+estimated_cost = (
+    input_tokens * input_price_per_token
+    + output_tokens * output_price_per_token
+)</code></pre>
+<p><code>input_price_per_token</code> and <code>output_price_per_token</code> must match the selected model's current prices and units. The usage values describe what the request actually consumed; a maximum output setting only limits what it could generate.</p>
+<h2 id="4-randomness-and-prompt-examples">4. Randomness and prompt examples</h2>
+<p>Model output is not guaranteed to be identical on every run. Where a model supports it, <code>temperature</code> adjusts sampling: lower values generally make output more focused, while higher values generally allow more variation. It is not a factuality control. Follow the selected model and endpoint's parameter support; some models do not accept every sampling option.</p>
+<p><strong>Shot prompting</strong> means including examples in the input:</p>
+<ul>
+<li><strong>Zero-shot:</strong> instructions without examples.</li>
+<li><strong>One-shot:</strong> one example.</li>
+<li><strong>Few-shot:</strong> multiple examples.</li>
+</ul>
+<p>Examples are useful when you need consistent labels, tone, or formatting. Keep examples correct and representative. A model can imitate mistakes or unwanted patterns in the examples.</p>
+<h2 id="5-roles-and-instruction-hierarchy">5. Roles and instruction hierarchy</h2>
+<p>In the course's Chat Completions examples:</p>
+<ul>
+<li><code>system</code> gives broad behavior or constraints.</li>
+<li><code>user</code> provides the task and task-specific context.</li>
+<li><code>assistant</code> represents prior model output; it can also be used to provide example turns.</li>
+</ul>
+<p>For instance, a system instruction can ask for concise Python tutoring, while a user message asks one concrete programming question. An assistant example can demonstrate the desired answer style before the real question. This is a structured way to show examples instead of embedding all examples in one long user prompt.</p>
+<p>Instructions are guidance, not a complete safety mechanism. Validate model outputs before using them in consequential workflows. Do not assume that a system message alone prevents misuse or guarantees correct answers.</p>
+<h2 id="6-multi-turn-conversations">6. Multi-turn conversations</h2>
+<p>The API does not automatically know the full history of separate requests unless conversation state is managed for the application. In the course's Chat Completions pattern, the client keeps a <code>messages</code> list and sends the relevant history again on each turn:</p>
+<ol type="1">
+<li>Append the user's new message.</li>
+<li>Send the conversation messages.</li>
+<li>Read the assistant's reply.</li>
+<li>Append that reply to the history before the next turn.</li>
+</ol>
+<pre class="python"><code>messages = [
+    {&quot;role&quot;: &quot;system&quot;, &quot;content&quot;: &quot;You are a concise data science tutor.&quot;}
+]
+
+messages.append({&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Why is Python popular?&quot;})
+response = client.chat.completions.create(
+    model=&quot;gpt-4o-mini&quot;,
+    messages=messages,
+)
+assistant_text = response.choices[0].message.content
+messages.append({&quot;role&quot;: &quot;assistant&quot;, &quot;content&quot;: assistant_text})
+
+messages.append({&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Summarize that in one sentence.&quot;})
+response = client.chat.completions.create(
+    model=&quot;gpt-4o-mini&quot;,
+    messages=messages,
+)
+print(response.choices[0].message.content)</code></pre>
+<p>Conversation history consumes input tokens on later turns. Applications should decide how much history to retain, and should avoid sending irrelevant or sensitive information.</p>
+<h2 id="7-applying-the-course-to-current-projects">7. Applying the course to current projects</h2>
+<p>The PDFs use Chat Completions, which is valuable for learning the request/response pattern and message roles. OpenAI's current quickstart uses the <strong>Responses API</strong> for a basic text-generation request. The Python SDK pattern looks like this:</p>
+<pre class="python"><code>from openai import OpenAI
+
+client = OpenAI()  # Reads OPENAI_API_KEY from the environment.
+
+response = client.responses.create(
+    model=&quot;gpt-6-astra&quot;,
+    input=&quot;Explain what an API is in one sentence.&quot;,
+)
+
+print(response.output_text)</code></pre>
+<p>The ideas still transfer: select a model, provide input, optionally provide instructions or other supported settings, then inspect the response. The endpoint's request shape and output accessors differ. Use the documentation for the chosen endpoint and model rather than copying an example parameter blindly. Chat Completions remains useful for understanding this course and for projects that specifically use that endpoint; consult the migration guide when moving an existing integration to Responses.</p>
+<h2 id="key-takeaways">Key takeaways</h2>
+<ul>
+<li>The API is a programmable request/response interface to models.</li>
+<li>Prompts should specify the task, context, constraints, and desired output shape.</li>
+<li>Read the structured response using the endpoint's documented fields.</li>
+<li>Token limits cap output; actual usage comes from response metadata.</li>
+<li>Examples and message roles can guide format and behavior, but outputs still need validation.</li>
+<li>Keep conversation state deliberately and protect secrets such as API keys.</li>
+<li>Learn the course using Chat Completions, then use current endpoint documentation when building new applications.</li>
+</ul>
+<h2 id="sources">Sources</h2>
+<h3 id="course-material">Course material</h3>
+<ul>
+<li><a href="../pdfs/chapter-01.pdf">Chapter 1 PDF</a></li>
+<li><a href="../pdfs/chapter-02.pdf">Chapter 2 PDF</a></li>
+<li><a href="../pdfs/chapter-03.pdf">Chapter 3 PDF</a></li>
+</ul>
+<h3 id="current-openai-documentation">Current OpenAI documentation</h3>
+<ul>
+<li><a href="https://developers.openai.com/api/docs/quickstart">Developer quickstart</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/text">Responses API guide</a></li>
+<li><a href="https://developers.openai.com/api/docs/guides/migrate-to-responses">Migrate to the Responses API</a></li>
+<li><a href="https://openai.com/api/pricing/">API pricing</a></li>
+<li><a href="https://developers.openai.com/api/reference/resources/chat">Chat Completions API reference</a></li>
+</ul>
+</article><nav class="chapter-nav" aria-label="Sayfalar arası gezinme"><a class="chapter-prev" href="../README.html">← Önceki sayfa</a><a class="chapter-next" href="../../prompt-engineering-with-the-openai-api/README.html">Sonraki sayfa →</a></nav></div></main><aside class="reading-rail"><div class="rail-block"><span class="rail-title">Okuma ilerlemesi</span><div class="progress-track"><span id="read-progress"></span></div><span class="progress-label" id="progress-label">%0</span><button class="mark-read" type="button" data-action="mark-read">Okudum olarak işaretle</button></div><div class="rail-block"><span class="rail-title">Bu sayfada</span><nav class="on-this-page" id="on-this-page"></nav></div></aside></div><dialog class="search-dialog" id="search-dialog"><div class="search-inner"><div class="search-head"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m16 16 4.2 4.2"/></svg><input id="search-input" type="search" placeholder="Başlık veya içerikte ara…" aria-label="Kitaplarda ara" autocomplete="off"><button type="button" data-action="close-search" aria-label="Aramayı kapat">ESC</button></div><div class="search-results" id="search-results"><p>İspanyolca ve AI Engineering sayfalarında ara.</p></div></div></dialog><div class="mobile-shade" data-action="close-menu"></div></body></html>
