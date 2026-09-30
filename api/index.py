@@ -183,7 +183,8 @@ class PrivateBooksHandler(BaseHTTPRequestHandler):
         self.respond(HTTPStatus.SEE_OTHER, headers={"Location": next_path, "Set-Cookie": cookie})
 
 
-handler = PrivateBooksHandler
+class handler(PrivateBooksHandler):
+    pass
 
 
 if __name__ == "__main__":
