@@ -2,6 +2,10 @@
 
 YDS, ÖSYM'nin Yabancı Dil Bilgisi Seviye Tespit Sınavıdır. Bu alan İngilizce yazılı metinleri anlama, dilbilgisi ilişkilerini tanıma ve seçenekler arasında gerekçeli karar verme üzerine kuruludur. İngilizce yeterliğini ve sınav çözme becerisini birlikte geliştirir. Açıklamalar Türkçe; cümleler, metinler ve sorular İngilizcedir. Doğru cevabın **neden doğru olduğunu** açıklayabilmek temel hedeftir.
 
+## 22 Kasım 2026 için hızlı giriş
+
+[47 günlük plan](strategy/2026-11-22-study-plan.md) → [332 birimli kelime merkezi](fundamentals/vocabulary/README.md) → [40 soruluk bağlam testi](practice/review/vocabulary-context-test.md). Plan 70 ve 80+ hedeflerine göre düzenlendi; mevcut düzey ve günlük süre tanılama sonrasında kaydedilecek. [Sekiz PDF'nin değerlendirmesi](SOURCE-REVIEW.md) kopyaları, düzeltmeleri ve çalışma sırasını açıklar.
+
 ## Başlangıç
 
 1. [Tanılayıcı testi](practice/diagnostic/diagnostic-test.md) kapalı notla çöz; süre ve güven düzeyini yaz.

@@ -39,3 +39,12 @@ Bu bağlantılar sözlükle genişletme için öneridir; her sözcük maddesinin
 ## Editoryal kapsam
 
 Günlük süre, evre geçiş eşikleri ve hedef yollar kursun önerileridir; resmî başarı standardı değildir. Kurgusal pasajlardaki araştırmalar gerçek yayın olarak sunulmaz. Egzersizlerin dış bağımsız editör veya gerçek sınavla güçlük kalibrasyonu yapılmadı. Bir soru eklerken iki cevaplı olasılığı kontrol et, gerekçeyi yaz, kaynak kullanmışsan tam sayfa ve erişim tarihini ekle.
+
+
+## Kullanıcı tarafından sağlanan PDF'ler — 6 Ekim 2026
+
+P01–P08 tam envanter, sayfa sayıları, SHA-256, kopya tespiti ve kullanım sınırları [SOURCE-REVIEW](SOURCE-REVIEW.md) içindedir. Sekiz dosya/yedi benzersiz belge incelendi. P01/P02/P08 kitapçıklarının yerel cevap anahtarları resmî duyuruya karşı topluca doğrulanmadı. P05/P07'deki “çıkmış” ve oturum etiketleri kaynak yazarının iddiası olarak korunur.
+
+Bu belgeler kelime/kalıp seçimini ve eksiklerin saptanmasını destekledi. Yeni 40 soru, İngilizce tanımlar ve yeni örnekler özgün; PDF sayfaları, soru kökleri veya pasajları yeniden yayımlanmadı. 332 birim, 332 bağımsız aile veya resmî sınav sıklık listesi değildir. Tam sözcük OCR eşleşmeleri yalnız belgede bulunma izi sağlar.
+
+Düzeltmeler için Cambridge `notoriously`, `exponentially`, `ban`, `encourage`, `submit`, `indispensable`, `eradicate`; Oxford `oppose`, `haphazard` kontrol edildi. Tam bağlantılar rapordaki düzeltme tablosunda. Tüm kelimelerin tek tek harici sözlük kontrolü veya bağımsız editör doğrulaması yapılmadı. Sınav tarihi 22.11.2026 [ÖSYM AİS](https://ais.osym.gov.tr/) üzerinde kontrol edildi.

@@ -2,6 +2,8 @@
 
 [Başlangıç](README.md) · [Yol haritası](ROADMAP.md) · [Hata bankası](reference/common-error-bank.md)
 
+**22 Kasım 2026 sınavı için:** [47 günlük tarihlenmiş yolu](strategy/2026-11-22-study-plan.md) kullan; aşağıdaki sistem genel başvuru olarak kalır.
+
 ## Bir oturumun döngüsü
 
 Önce eski bilgiyi **bakmadan** hatırla. Yeni konuda bir açıklama oku; iki cümlenin neden farklı kurulduğunu anlat. Soruyu kapalı notla çöz, cevabın yanına güvenini yaz (yüksek/orta/düşük). Sonra anahtarı aç ve kanıtını karşılaştır. Yanlışları ve doğru tahminleri kaydet. Son olarak aynı kuralı farklı bir cümlede üret.

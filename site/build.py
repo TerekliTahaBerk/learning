@@ -212,6 +212,17 @@ def build(out: Path) -> None:
         dest = out / pdf.relative_to(ROOT)
         dest.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(pdf, dest)
+    # Keep downloadable YDS study data alongside their Markdown pages.
+    for asset in (ROOT / "yds" / "fundamentals" / "vocabulary").glob("*"):
+        if asset.suffix not in {".json", ".txt"}:
+            continue
+        dest = out / asset.relative_to(ROOT)
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(asset, dest)
+    for asset in (ROOT / "yds" / "tools").glob("*.py"):
+        dest = out / asset.relative_to(ROOT)
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(asset, dest)
     (out / "assets" / "search.json").write_text(json.dumps(search, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (out / "index.html").write_text(page_shell("index.html", None, "Dijital kitaplık", library_home(), None, None, labels), encoding="utf-8")
     (out / "404.html").write_text(page_shell("404.html", None, "Sayfa bulunamadı", '<div class="home-intro"><h1>Bu sayfa bulunamadı.</h1><p class="home-lead">Kitaplığa dönüp okumaya devam edebilirsin.</p><p><a href="index.html">Kitaplığa dön →</a></p></div>', None, None, labels), encoding="utf-8")

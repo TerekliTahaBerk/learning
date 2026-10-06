@@ -2,6 +2,8 @@
 
 [Başlangıç](README.md) · [Çalışma sistemi](STUDY-SYSTEM.md) · [Takip](PROGRESS.md)
 
+**22 Kasım 2026 sınavı için:** [47 günlük tarihlenmiş yolu](strategy/2026-11-22-study-plan.md) kullan; aşağıdaki sistem genel başvuru olarak kalır.
+
 Evreler CEFR etiketi veya sabit hafta sayısı değildir. Aşağıdaki eşikler bu kursun öz değerlendirme önerileridir; resmî sınav standardı değildir. Bir ölçütü yeni sorularda ve en az bir hafta sonra tekrar karşıla. Aynı sorunun cevabını hatırlamak yeterli değildir.
 
 | Evre | Amaç ve gerekli konular | Önerilen sıra | Geçiş ölçütü ve kontrol | Sonraki adım |

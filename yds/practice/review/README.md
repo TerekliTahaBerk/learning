@@ -2,6 +2,8 @@
 
 [Uygulama merkezi](../README.md) · [Çalışma sistemi](../../STUDY-SYSTEM.md)
 
+**Yeni:** [40 soruluk kelime/edat/anlam testi](vocabulary-context-test.md) ve [ayrı açıklamalı cevaplar](vocabulary-context-answers.md).
+
 ## Altı basamak
 
 1. **Tek konu:** [Atölye](grammar-workshop.md) içinde bir gramer kartı; kavram, üretim, seçme.

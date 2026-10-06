@@ -4,7 +4,10 @@
 
 **Durumlar:** Not started → Learning → Practicing → Reliable. Reliable: yeni bağlamlarda gerekçeli doğru ve en az bir haftalık gecikmeli kontrol. Checkbox yalnız bu koşul sağlandığında işaretlenir; okumak veya aynı cevabı hatırlamak yeterli değildir.
 
-**Hedef puan:** Henüz seçilmedi; kişisel hedefini yaz.  
+**Sınav:** 22 Kasım 2026.
+
+**Hedef puan:** 70 ilk hedef; 80+ ileri hedef. **Başlangıç doğru sayısı:** Henüz bilinmiyor.
+
 **Günlük süre:** Çalışma sisteminden seç.  
 **İlk öncelik / ikinci öncelik:** Tanılama sonrası yaz.
 
@@ -121,3 +124,41 @@
 4. Önümüzdeki haftanın iki önceliği ve kontrol tarihi ne?
 
 Kayıtları GitHub dosya düzenlemesiyle veya yerel Markdown’da saklayabilirsin. Geçmiş satırları silme; gelişimi tek günün puanıyla değerlendirme.
+
+
+## 22 Kasım hazırlık takibi
+
+[47 günlük plan](strategy/2026-11-22-study-plan.md) · [332 birim](fundamentals/vocabulary/README.md)
+
+| Küme | Toplam birim | Bilinen | Yeni öğrenilen | 7 gün sonra tanınan | Kalıbı üretilen |
+|---|---:|---|---|---|---|
+| P1 | 193 | — | — | — | — |
+| P2 | 139 | — | — | — | — |
+
+- [ ] P1 gecikmeli tanıma + doğru edat/kalıp
+- [ ] P2 kişisel ihtiyaç seçimi + gecikmeli tanıma
+- [ ] Yeni 40 sorunun iki bölümü kapalı notla çözüldü
+- [ ] Yüksek güvenle yanlış yapılanlar yeni cümlede yeniden kontrol edildi
+
+| Plan tarihi | Deneme | Doğru / yanlış / boş | Süre | Düşük güvenli doğru | Baskın iki hata | Sonraki kontrol |
+|---|---|---|---|---|---|---|
+| 11.10.2026 | P01 — 2025 Mart | — | — | — | — | 12 Ekim analiz |
+| 01.11.2026 | P02 — 2025 Kasım | — | — | — | — | 2 Kasım analiz |
+| 15.11.2026 | P08 — 2026 Nisan | — | — | — | — | 16 Kasım analiz |
+
+Her deneme için aşağıdaki şablonu çoğalt; satırları anahtardan sonra doldur. Puan dönüşümünü yalnız tam 80 soru ve geçerli soru varsayımıyla yap; tekrar çözülen soruları yeni ölçüm gibi sayma.
+
+| Soru türü | Doğru / toplam | Yanlış / boş | Süre | V/G/D/K/S hata etiketi | Bir sonraki görev |
+|---|---|---|---|---|---|
+| Kelime / çok sözcüklü fiil | — / 6 | — | — | — | — |
+| Gramer / edat | — / 10 | — | — | — | — |
+| Cloze | — / 10 | — | — | — | — |
+| Sentence completion | — / 10 | — | — | — | — |
+| Çeviri | — / 6 | — | — | — | — |
+| Reading | — / 20 | — | — | — | — |
+| Dialogue | — / 5 | — | — | — | — |
+| Restatement | — / 4 | — | — | — | — |
+| Paragraph completion | — / 4 | — | — | — | — |
+| Irrelevant sentence | — / 5 | — | — | — | — |
+
+Adetler öğrencinin çalışma dağılımıdır; gerçek kitapçık farklıysa başlıkları uyarlarsın. V=kelime, G=yapı, D=söylem, K=metinsel kanıt, S=süre/dikkat.

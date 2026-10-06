@@ -100,3 +100,23 @@
 |---|---|---|---|---|
 | [strategy/exam-strategy.md](strategy/exam-strategy.md) | Sınav Stratejisi — Süre, Sıra ve Kontrol | Bir uygulama oturumu | [Bağlantı](STUDY-SYSTEM.md) | Yazıldı; kurs içi denetlendi |
 | [strategy/vocabulary-learning.md](strategy/vocabulary-learning.md) | Kelimeyi Kullanılabilir Bilgiye Dönüştürmek | Bir uygulama oturumu | [Bağlantı](STUDY-SYSTEM.md) | Yazıldı; kurs içi denetlendi |
+
+
+## 22 Kasım 2026 genişletmesi
+
+| Dosya | Amaç | Ön koşul | İlgili dosya | Durum |
+|---|---|---|---|---|
+| [SOURCE-REVIEW.md](SOURCE-REVIEW.md) | Sekiz dosya/yedi belge; kopya, kaynak hataları, kullanım sırası | Kaynak kimlikleri | [SOURCES](SOURCES.md) | İncelendi; provenans sınırları belirtildi |
+| [47 günlük plan](strategy/2026-11-22-study-plan.md) | 6 Ekim–21 Kasım günlük görev/kelime taraması; üç deneme | Tanılama; süre seçimi | [PROGRESS](PROGRESS.md) | Yazıldı; takvim/kimlik kapsamı kontrol edildi |
+| [Çekirdek 72](fundamentals/vocabulary/01-core-academic.md) | Önceki çekirdeğin ana veriden üretilen sürümü | Kelime yöntemi | [Kelime merkezi](fundamentals/vocabulary/README.md) | Üretildi; alan/kimlik denetimi |
+| [Sınav sözcükleri 140](fundamentals/vocabulary/02-exam-vocabulary.md) | Bağlam, aile, çeldirici ayrımı | P1 çekirdek | [PDF incelemesi](SOURCE-REVIEW.md) | Yazıldı; kurs içi inceleme |
+| [Zarflar 30](fundamentals/vocabulary/03-adverbs.md) | Derece, zaman, tutum ayrımı | Sıfat/zarf tanıma | [Word formation](reference/13-word-formation.md) | Yazıldı; kurs içi inceleme |
+| [Fiil ifadeleri 50](fundamentals/vocabulary/04-verb-phrases.md) | Çok sözcüklü anlam ve kalıp | Temel fiil sistemi | [Phrasal verbs](reference/12-phrasal-verbs.md) | Yazıldı; kurs içi inceleme |
+| [Tamamlayıcı yapılar 40](fundamentals/vocabulary/05-preposition-patterns.md) | Edat/nesne/gerund/infinitive ayrımı | Gerund/infinitive | [Prepositions](reference/10-prepositions.md) | Yazıldı; kurs içi inceleme |
+| [Bağlam testi](practice/review/vocabulary-context-test.md) | 40 özgün soru; iki çalışma bölümü | Kelime/kalıp taraması | [Cevaplar](practice/review/vocabulary-context-answers.md) | Yazıldı; seçenek/anahtar incelemesi |
+| [Bağlam cevapları](practice/review/vocabulary-context-answers.md) | Kanıt, çeldirici eleme, ilgili madde bağlantısı | Bağımsız çözüm | [Test](practice/review/vocabulary-context-test.md) | Yazıldı; 40 anahtar eşleşti |
+| [JSON ana veri](fundamentals/vocabulary/vocabulary-master.json) | 332 kayıt; bütün öğrenme alanları ve belge izi | Düzenleme şeması | [Üretici](tools/build-vocabulary.py) | 332 tekil kimlik/başlık kontrol edildi |
+| [Anki aktarımı](fundamentals/vocabulary/anki-import.txt) | 664 Basic kart; tanıma ve üretim | Anki alan eşleme | [Kelime merkezi](fundamentals/vocabulary/README.md) | UTF-8/üç alan/iki kart-birim kontrol edildi |
+| [Kelime üreticisi](tools/build-vocabulary.py) | JSON → beş Markdown bölüm + Anki | Python 3; bağımlılık yok | [Ana veri](fundamentals/vocabulary/vocabulary-master.json) | Çalıştırıldı; yeniden üretim doğrulandı |
+
+Mevcut README, ROADMAP, STUDY-SYSTEM, PROGRESS, SOURCES, uygulama dizinleri ve 72 maddelik eski başvuru genişletmeye bağlandı. Yeni sorularla toplam 191 puanlanan özgün görev: 161 beş seçenekli + 30 açık görev. Ders içi çözümlü örnekler/kartlar bu sayıya eklenmez.

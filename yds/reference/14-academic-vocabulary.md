@@ -2,6 +2,8 @@
 
 [Başlangıç](../README.md) · [Temeller](../fundamentals/README.md) · [Aktif hatırlama](active-recall-bank.md)
 
+**Genişletilmiş kaynak:** Bu 72 madde [332 birimli kelime merkezinin](../fundamentals/vocabulary/README.md) çekirdek bölümünde de yer alır; toplamı hesaplarken tekrar sayılmaz. PDF destekli sözcükler, kalıplar ve kartlar için merkeze geç.
+
 ## Kullanım ve seçim
 
 Bu seçki alanlar arası yeniden kullanılan çekirdek ile 12 konu alanına açılan aileleri birleştirir; resmî “YDS en sık kelimeler” sıralaması değildir. Kısa İngilizce tanımlar ve örnekler özgündür. Bilim/teknoloji; tıp/biyoloji; çevre; ekonomi/siyaset; sosyoloji/psikoloji/eğitim; tarih/arkeoloji grupları birlikte kapsanır.
