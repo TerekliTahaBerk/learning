@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Build the two reading collections into a static GitHub Pages site.
+"""Build the reading collections into a static GitHub Pages site.
 
-The Markdown files in spanish/ and ai-engineering/ remain the source of truth.
+The Markdown files in spanish/, ai-engineering/ and yds/ remain the source of truth.
 Requires Pandoc 2.17+ on PATH. No network access is needed during the build.
 """
 
@@ -21,6 +21,7 @@ SITE = ROOT / "site"
 BOOKS = {
     "spanish": {"name": "İspanyolca", "subtitle": "A1–B2 · Türkçe destekli kurs", "lang": "tr"},
     "ai-engineering": {"name": "AI Engineering", "subtitle": "Notlar ve uygulamalar", "lang": "en"},
+    "yds": {"name": "YDS English", "subtitle": "Türkçe destekli sınav hazırlığı", "lang": "tr"},
 }
 
 
@@ -116,6 +117,25 @@ def side_nav(book: str, current: str) -> str:
         for name in ("STUDY-SYSTEM", "ROADMAP", "PROGRESS", "SOURCES"):
             path = ROOT / book / f"{name}.md"
             out.append(link(current, url_for(path), short_title(path), "nav-sub", current == url_for(path)))
+    elif book == "yds":
+        root = ROOT / book
+        for name in ("ROADMAP", "STUDY-SYSTEM", "PROGRESS"):
+            path = root / f"{name}.md"
+            dest = url_for(path)
+            out.append(link(current, dest, short_title(path), "nav-sub", current == dest))
+        for folder_name, label in (("fundamentals", "Temeller"), ("question-types", "Soru türleri"),
+                                   ("reference", "Referans"), ("practice", "Uygulama"),
+                                   ("strategy", "Strateji")):
+            folder = root / folder_name
+            out.append(f'<details class="nav-group" {"open" if f"/{folder_name}/" in current else ""}><summary>{label}</summary>')
+            for path in sorted(folder.rglob("*.md")):
+                dest = url_for(path)
+                out.append(link(current, dest, short_title(path), "nav-sub", current == dest))
+            out.append("</details>")
+        for name in ("CONTENT-MANIFEST", "SOURCES", "QA-REPORT"):
+            path = root / f"{name}.md"
+            dest = url_for(path)
+            out.append(link(current, dest, short_title(path), "nav-sub", current == dest))
     else:
         root = ROOT / book
         education = root / "education"
@@ -144,9 +164,9 @@ def page_shell(current: str, book: str | None, title: str, body: str, previous: 
     controls = f'''<a class="brand" href="{html.escape(relative_url(current, "index.html"))}">Learning<span class="brand-dot">.</span></a>
       <button class="mobile-menu icon-button" type="button" data-action="menu" aria-label="İçindekileri aç" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
       <div class="header-spacer"></div><button class="search-button" type="button" data-action="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m16 16 4.2 4.2"/></svg><span>Kitap içinde ara</span><kbd>⌘ K</kbd></button>
-      <div class="book-switch"><a href="{html.escape(relative_url(current, "spanish/README.html"))}" class="{'selected' if book=='spanish' else ''}">İspanyolca</a><a href="{html.escape(relative_url(current, "ai-engineering/README.html"))}" class="{'selected' if book=='ai-engineering' else ''}">AI Engineering</a></div>
+      <div class="book-switch"><a href="{html.escape(relative_url(current, "spanish/README.html"))}" class="{'selected' if book=='spanish' else ''}">İspanyolca</a><a href="{html.escape(relative_url(current, "ai-engineering/README.html"))}" class="{'selected' if book=='ai-engineering' else ''}">AI Engineering</a><a href="{html.escape(relative_url(current, "yds/README.html"))}" class="{'selected' if book=='yds' else ''}">YDS</a></div>
       <button class="icon-button theme-button" type="button" data-action="theme" aria-label="Görünümü değiştir"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.5 14A8.5 8.5 0 0 1 10 3.5 8.5 8.5 0 1 0 20.5 14Z"/></svg></button>'''
-    sidebar = f'''<aside class="sidebar" id="sidebar"><div class="sidebar-top"><span class="section-label">KİTAPLAR</span><a class="book-link {'current' if book=='spanish' else ''}" href="{html.escape(relative_url(current, 'spanish/README.html'))}"><span class="book-mark spanish-mark">ES</span><span><strong>İspanyolca</strong><small>A1–B2 · Türkçe destekli kurs</small></span></a><a class="book-link {'current' if book=='ai-engineering' else ''}" href="{html.escape(relative_url(current, 'ai-engineering/README.html'))}"><span class="book-mark ai-mark">AI</span><span><strong>AI Engineering</strong><small>Notlar ve uygulamalar</small></span></a></div><div class="sidebar-scroll"><span class="section-label">İÇİNDEKİLER</span>{nav if nav else '<p class="sidebar-hint">Okumak için bir kitap seç.</p>'}</div></aside>'''
+    sidebar = f'''<aside class="sidebar" id="sidebar"><div class="sidebar-top"><span class="section-label">KİTAPLAR</span><a class="book-link {'current' if book=='spanish' else ''}" href="{html.escape(relative_url(current, 'spanish/README.html'))}"><span class="book-mark spanish-mark">ES</span><span><strong>İspanyolca</strong><small>A1–B2 · Türkçe destekli kurs</small></span></a><a class="book-link {'current' if book=='ai-engineering' else ''}" href="{html.escape(relative_url(current, 'ai-engineering/README.html'))}"><span class="book-mark ai-mark">AI</span><span><strong>AI Engineering</strong><small>Notlar ve uygulamalar</small></span></a><a class="book-link {'current' if book=='yds' else ''}" href="{html.escape(relative_url(current, 'yds/README.html'))}"><span class="book-mark">EN</span><span><strong>YDS English</strong><small>Türkçe destekli sınav hazırlığı</small></span></a></div><div class="sidebar-scroll"><span class="section-label">İÇİNDEKİLER</span>{nav if nav else '<p class="sidebar-hint">Okumak için bir kitap seç.</p>'}</div></aside>'''
     prev_next = ""
     if previous or next_page:
         prev_next = '<nav class="chapter-nav" aria-label="Sayfalar arası gezinme">'
@@ -158,11 +178,11 @@ def page_shell(current: str, book: str | None, title: str, body: str, previous: 
     lang = "tr" if book != "ai-engineering" else "en"
     breadcrumb = '' if is_home else f'<div class="breadcrumbs">{link(current, f"{book}/README.html", BOOKS[book]["name"])}<span>›</span><span>{html.escape(title)}</span></div>'
     icon = relative_url(current, "assets/favicon.svg")
-    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><title>{html.escape(title)} · Learning</title><meta name="description" content="{html.escape(BOOKS[book]['subtitle'] if book else 'Dijital öğrenme kitaplığı')}"><link rel="icon" type="image/svg+xml" href="{html.escape(icon)}"><link rel="stylesheet" href="{html.escape(css)}"><link rel="stylesheet" href="{html.escape(refined_css)}"><script defer src="{html.escape(js)}"></script></head><body class="{body_class}" data-search="{html.escape(search_data)}" data-page="{html.escape(current)}" data-root="{html.escape(root_prefix)}"><div class="site-layout"><header class="topbar">{controls}</header>{sidebar}<main class="main-content" id="main"><div class="reading-wrap">{breadcrumb}<article class="prose" id="article">{body}</article>{prev_next}</div></main>{rail}</div><dialog class="search-dialog" id="search-dialog"><div class="search-inner"><div class="search-head"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m16 16 4.2 4.2"/></svg><input id="search-input" type="search" placeholder="Başlık veya içerikte ara…" aria-label="Kitaplarda ara" autocomplete="off"><button type="button" data-action="close-search" aria-label="Aramayı kapat">ESC</button></div><div class="search-results" id="search-results"><p>İspanyolca ve AI Engineering sayfalarında ara.</p></div></div></dialog><div class="mobile-shade" data-action="close-menu"></div></body></html>'''
+    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><title>{html.escape(title)} · Learning</title><meta name="description" content="{html.escape(BOOKS[book]['subtitle'] if book else 'Dijital öğrenme kitaplığı')}"><link rel="icon" type="image/svg+xml" href="{html.escape(icon)}"><link rel="stylesheet" href="{html.escape(css)}"><link rel="stylesheet" href="{html.escape(refined_css)}"><script defer src="{html.escape(js)}"></script></head><body class="{body_class}" data-search="{html.escape(search_data)}" data-page="{html.escape(current)}" data-root="{html.escape(root_prefix)}"><div class="site-layout"><header class="topbar">{controls}</header>{sidebar}<main class="main-content" id="main"><div class="reading-wrap">{breadcrumb}<article class="prose" id="article">{body}</article>{prev_next}</div></main>{rail}</div><dialog class="search-dialog" id="search-dialog"><div class="search-inner"><div class="search-head"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.3"/><path d="m16 16 4.2 4.2"/></svg><input id="search-input" type="search" placeholder="Başlık veya içerikte ara…" aria-label="Kitaplarda ara" autocomplete="off"><button type="button" data-action="close-search" aria-label="Aramayı kapat">ESC</button></div><div class="search-results" id="search-results"><p>İspanyolca, AI Engineering ve YDS sayfalarında ara.</p></div></div></dialog><div class="mobile-shade" data-action="close-menu"></div></body></html>'''
 
 
 def library_home() -> str:
-    return '''<div class="home-intro"><p class="home-overline">KİŞİSEL KİTAPLIK <span>·</span> İKİ ÇALIŞMA ALANI</p><h1>Öğrenme alanım<span class="title-period">.</span></h1><p class="home-lead">Dersler, notlar ve tekrarlar bir arada. Kaldığın yerden okumaya devam et.</p></div><div class="shelf-heading"><span>KİTAPLAR</span><span>02 koleksiyon</span></div><div class="book-shelf"><a class="shelf-book shelf-spanish" href="spanish/README.html"><span class="shelf-number">01 <i></i> DİL ÖĞRENİMİ</span><span class="shelf-title">İspanyolca</span><span class="shelf-desc">Türkçe konuşanlar için A1’den B2’ye yapılandırılmış kurs.</span><span class="shelf-meta">A1–B2 <span>·</span> 34 modül <span>·</span> alıştırmalar</span><span class="shelf-arrow">Kitabı aç <b aria-hidden="true">→</b></span></a><a class="shelf-book shelf-ai" href="ai-engineering/README.html"><span class="shelf-number">02 <i></i> TEKNOLOJİ</span><span class="shelf-title">AI Engineering</span><span class="shelf-desc">API kullanımı ve prompt tasarımı üzerine notlar ve kaynaklar.</span><span class="shelf-meta">Kurs notları <span>·</span> örnekler <span>·</span> PDF</span><span class="shelf-arrow">Kitabı aç <b aria-hidden="true">→</b></span></a></div><p class="home-footnote">İçerik kaynakları <a href="https://github.com/TerekliTahaBerk/learning">GitHub deposunda</a> sürümlenir.</p>'''
+    return '''<div class="home-intro"><p class="home-overline">KİŞİSEL KİTAPLIK <span>·</span> ÜÇ ÇALIŞMA ALANI</p><h1>Öğrenme alanım<span class="title-period">.</span></h1><p class="home-lead">Dersler, notlar ve tekrarlar bir arada. Kaldığın yerden okumaya devam et.</p></div><div class="shelf-heading"><span>KİTAPLAR</span><span>03 koleksiyon</span></div><div class="book-shelf"><a class="shelf-book shelf-spanish" href="spanish/README.html"><span class="shelf-number">01 <i></i> DİL ÖĞRENİMİ</span><span class="shelf-title">İspanyolca</span><span class="shelf-desc">Türkçe konuşanlar için A1’den B2’ye yapılandırılmış kurs.</span><span class="shelf-meta">A1–B2 <span>·</span> 34 modül <span>·</span> alıştırmalar</span><span class="shelf-arrow">Kitabı aç <b aria-hidden="true">→</b></span></a><a class="shelf-book shelf-ai" href="ai-engineering/README.html"><span class="shelf-number">02 <i></i> TEKNOLOJİ</span><span class="shelf-title">AI Engineering</span><span class="shelf-desc">API kullanımı ve prompt tasarımı üzerine notlar ve kaynaklar.</span><span class="shelf-meta">Kurs notları <span>·</span> örnekler <span>·</span> PDF</span><span class="shelf-arrow">Kitabı aç <b aria-hidden="true">→</b></span></a><a class="shelf-book" href="yds/README.html"><span class="shelf-number">03 <i></i> SINAV HAZIRLIĞI</span><span class="shelf-title">YDS English</span><span class="shelf-desc">Kelime, gramer, okuma ve çeviri için Türkçe destekli çalışma sistemi.</span><span class="shelf-meta">10 soru türü <span>·</span> özgün uygulamalar</span><span class="shelf-arrow">Kitabı aç <b aria-hidden="true">→</b></span></a></div><p class="home-footnote">İçerik kaynakları <a href="https://github.com/TerekliTahaBerk/learning">GitHub deposunda</a> sürümlenir.</p>'''
 
 
 def build(out: Path) -> None:
