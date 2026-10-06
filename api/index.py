@@ -2,6 +2,7 @@
 """Serve the generated books only after a server-side login.
 
 LEARNING_EMAIL, LEARNING_PASSWORD and SESSION_SECRET are deployment secrets.
+LEARNING_SECOND_EMAIL and LEARNING_SECOND_PASSWORD optionally add a second reader.
 No credential is written to the repository or to generated browser files.
 """
 
@@ -29,7 +30,14 @@ PASSWORD = os.environ.get("LEARNING_PASSWORD", "")
 SESSION_SECRET = os.environ.get("SESSION_SECRET", "").encode()
 READY = bool(EMAIL and PASSWORD and len(SESSION_SECRET) >= 32)
 PASSWORD_SALT = SESSION_SECRET[:16]
-PASSWORD_DIGEST = hashlib.pbkdf2_hmac("sha256", PASSWORD.encode(), PASSWORD_SALT, 200_000) if READY else b""
+ACCOUNT_DIGESTS = tuple(
+    (email.strip().casefold().encode(), hashlib.pbkdf2_hmac("sha256", password.encode(), PASSWORD_SALT, 200_000))
+    for email, password in (
+        (EMAIL, PASSWORD),
+        (os.environ.get("LEARNING_SECOND_EMAIL", ""), os.environ.get("LEARNING_SECOND_PASSWORD", "")),
+    )
+    if READY and email.strip() and password
+)
 COOKIE_SECURE = os.environ.get("LEARNING_LOCAL_HTTP") != "1"
 SESSION_SECONDS = 12 * 60 * 60
 ATTEMPT_WINDOW = 5 * 60
@@ -171,7 +179,12 @@ class PrivateBooksHandler(BaseHTTPRequestHandler):
             if not limited:
                 bucket.append(now)
         candidate_digest = hashlib.pbkdf2_hmac("sha256", password.encode(), PASSWORD_SALT, 200_000)
-        allowed = not limited and hmac.compare_digest(email, EMAIL.casefold()) and hmac.compare_digest(candidate_digest, PASSWORD_DIGEST)
+        credentials_match = False
+        for account_email, account_digest in ACCOUNT_DIGESTS:
+            email_matches = hmac.compare_digest(email.encode(), account_email)
+            password_matches = hmac.compare_digest(candidate_digest, account_digest)
+            credentials_match |= email_matches & password_matches
+        allowed = not limited and credentials_match
         if not allowed:
             self.respond(HTTPStatus.TOO_MANY_REQUESTS if limited else HTTPStatus.UNAUTHORIZED, login_page(next_path, "invalid"))
             return

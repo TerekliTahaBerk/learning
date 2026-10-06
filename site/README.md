@@ -22,7 +22,7 @@ The GitHub Pages publishing workflow was removed; this private reader is deploye
 
 YDS appears on the library home page, book switcher, sidebar and search. All 81 current YDS Markdown pages are generated, including the 47-day plan and the 332-unit vocabulary centre. Anki `.txt`, master JSON and the vocabulary maintenance script are copied alongside their links.
 
-The existing server-side login protects book pages, search data and downloads. Deployment secrets are configured in Vercel; do not put them in the generated output. Relative URLs keep the same output usable under the current domain.
+The existing server-side login protects book pages, search data and downloads. Deployment secrets are configured in Vercel; do not put them in the generated output. The primary reader uses `LEARNING_EMAIL` / `LEARNING_PASSWORD`. An optional second reader uses `LEARNING_SECOND_EMAIL` / `LEARNING_SECOND_PASSWORD`; both must be set to enable that account. Both readers have the same book access. Relative URLs keep the same output usable under the current domain.
 
 ## Public static preview on your own computer
 
